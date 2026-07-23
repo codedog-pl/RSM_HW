@@ -1,0 +1,100 @@
+# -------------------------------------------------------
+# 1. Lokalne ustawienia i cache (w każdym katalogu projektu)
+# -------------------------------------------------------
+# Lokalne ustawienia okna (widoczność warstw, zoom) - nieprzenośne
+KiCad/*/*.kicad_prl
+
+# Cache informacji o footprintach (generowany automatycznie)
+KiCad/*/fp-info-cache
+
+# -------------------------------------------------------
+# 2. Kopie zapasowe, autonapis i pliki tymczasowe
+# -------------------------------------------------------
+# Automatyczne katalogi backupów KiCad (np. RS-backups/)
+KiCad/*/*-backups/
+
+# Pliki autonapisu
+KiCad/*/_autosave*
+KiCad/*/#auto_saved_files#
+
+# Różne formaty backupów i pliki tymczasowe
+*.bak
+*.bck
+*.kicad_sch.bak
+*.kicad_pcb.bak
+*.kicad_sym.bak
+~*.kicad_sch
+~*.kicad_pcb
+~*.kicad_pro
+~*.kicad_sym
+*.tmp
+*~
+
+# -------------------------------------------------------
+# 3. Wyjściowe pliki produkcyjne i raporty (w katalogach projektów)
+# -------------------------------------------------------
+# Zalecane podkatalogi na fabrykację / wyjścia
+KiCad/*/gerber/
+KiCad/*/fab/
+KiCad/*/fabrication/
+KiCad/*/manufacturing/
+KiCad/*/out/
+KiCad/*/export/
+KiCad/*/plots/
+KiCad/*/bom/
+KiCad/*/3d/
+
+# Pliki produkcyjne zapisane bezpośrednio w katalogu projektu
+KiCad/*/*.gbr
+KiCad/*/*.gbrjob
+KiCad/*/*.drl
+KiCad/*/*.pos
+KiCad/*/*.xy
+KiCad/*/*.net
+KiCad/*/*.erc
+KiCad/*/*.drc
+KiCad/*/*.csv          # Wygenerowany BOM
+KiCad/*/*.xml          # Wygenerowany BOM XML
+KiCad/*/*.html         # Raporty HTML
+
+# Paczki zip z wygenerowanymi plikami produkcyjnymi
+# (ZIPy w Docs/ są dokumentacją i NIE są dotknięte)
+KiCad/*/*.zip
+
+# Modele 3D generowane z płytki (STEP w CustomFootprints są chronione poniżej)
+KiCad/*/*.step
+KiCad/*/*.stp
+KiCad/*/*.wrl
+KiCad/*/*.stl
+
+# -------------------------------------------------------
+# 4. WYJĄTKI - nie ignoruj współdzielonych bibliotek i skryptów
+# -------------------------------------------------------
+# --- CustomFootprints ---
+# Modele 3D i footprinty muszą zostać w repozytorium
+!KiCad/CustomFootprints/*.kicad_mod
+!KiCad/CustomFootprints/*.step
+!KiCad/CustomFootprints/*.STEP
+!KiCad/CustomFootprints/*.stp
+!KiCad/CustomFootprints/*.kicad_sym
+
+# --- CustomSymbols ---
+!KiCad/CustomSymbols/*.kicad_sym
+
+# --- Scripts ---
+!KiCad/Scripts/*.py
+
+# --- Rdzenne pliki projektów (sch, pcb, pro, tabele bibliotek) ---
+!KiCad/*/*.kicad_pro
+!KiCad/*/*.kicad_sch
+!KiCad/*/*.kicad_pcb
+!KiCad/*/*.kicad_mod
+!KiCad/*/sym-lib-table
+!KiCad/*/fp-lib-table
+
+# -------------------------------------------------------
+# 5. Opcjonalnie: tymczasowe pliki z generatorów zewnętrznych
+# -------------------------------------------------------
+# Pliki typu 2026-07-22_17-35-35.kicad_sym generowane przez narzędzia
+# typu SamacSys / UltraLibrarian. Odkomentuj, jeśli nie chcesz ich trzymać:
+# KiCad/CustomSymbols/*-*-*_*-*.kicad_sym
