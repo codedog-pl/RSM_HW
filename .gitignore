@@ -98,3 +98,4 @@ KiCad/*/*.stl
 # Pliki typu 2026-07-22_17-35-35.kicad_sym generowane przez narzędzia
 # typu SamacSys / UltraLibrarian. Odkomentuj, jeśli nie chcesz ich trzymać:
 # KiCad/CustomSymbols/*-*-*_*-*.kicad_sym
+KiCad/RS/.history/
