@@ -6605,7 +6605,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 62.23 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10314,7 +10314,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 74.93 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -13535,7 +13535,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 87.63 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -15232,7 +15232,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 139.7 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -15265,7 +15265,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "1-2176744-5"
+		(property "Mfg Part #" "1-2176744-5"
 			(at 139.7 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -15277,6 +15277,17 @@
 			)
 		)
 		(property "Cost" ""
+			(at 139.7 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/te-connectivity-passive-product/1-2176744-5/25589478"
 			(at 139.7 40.64 90)
 			(hide yes)
 			(show_name no)
