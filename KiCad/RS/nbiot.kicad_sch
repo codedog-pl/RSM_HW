@@ -3972,28 +3972,10 @@
 		(uuid "31765754-f51e-4b8d-8d77-3af62b8931b0")
 	)
 	(junction
-		(at 53.34 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "33c869a8-39ce-4699-92db-2452be9680e8")
-	)
-	(junction
 		(at 148.59 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36f6ad73-f48b-4483-926d-c4c751ec594b")
-	)
-	(junction
-		(at 106.68 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bb8f827-e607-4b72-bc9e-20d491134215")
-	)
-	(junction
-		(at 55.88 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "49aba74e-ff44-4814-9687-e9c62af7cbfb")
 	)
 	(junction
 		(at 224.79 35.56)
@@ -4020,7 +4002,7 @@
 		(uuid "810d1781-9cd1-422c-bdb3-012b69f44c7f")
 	)
 	(junction
-		(at 62.23 95.25)
+		(at 67.31 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "824831ce-ba73-4287-bb5b-1320b32f5f56")
@@ -4090,12 +4072,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b816fa9e-8fe8-4d23-a28a-4c33ae1e7b00")
-	)
-	(junction
-		(at 157.48 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b9429499-02fb-483a-acd8-db9db3f71813")
 	)
 	(junction
 		(at 242.57 35.56)
@@ -4189,16 +4165,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 100.33) (xy 53.34 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08c7c3d1-c0c7-4dc0-ab8b-1d1af10e3f97")
-	)
-	(wire
-		(pts
 			(xy 46.99 41.91) (xy 49.53 41.91)
 		)
 		(stroke
@@ -4239,7 +4205,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 109.22) (xy 62.23 105.41)
+			(xy 67.31 109.22) (xy 67.31 105.41)
 		)
 		(stroke
 			(width 0)
@@ -4296,16 +4262,6 @@
 			(type default)
 		)
 		(uuid "146d96dc-3e51-4abf-af17-3824fbc2dca7")
-	)
-	(wire
-		(pts
-			(xy 41.91 100.33) (xy 44.45 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14a3a0fb-019d-47e4-8b3e-80e8ac3980c7")
 	)
 	(wire
 		(pts
@@ -4479,16 +4435,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 100.33) (xy 54.61 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f6c4602-4d6a-4d2f-85c4-6d6eaf7154b9")
-	)
-	(wire
-		(pts
 			(xy 19.05 50.8) (xy 19.05 41.91)
 		)
 		(stroke
@@ -4506,16 +4452,6 @@
 			(type default)
 		)
 		(uuid "3b33f1bf-baab-43e8-b19e-4f3c819fc6ce")
-	)
-	(wire
-		(pts
-			(xy 54.61 153.67) (xy 55.88 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cf711f0-5884-4cef-8abf-e4d0123fa76f")
 	)
 	(wire
 		(pts
@@ -4649,16 +4585,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 100.33) (xy 53.34 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "507e60e3-0269-4028-bb9a-3967404961e4")
-	)
-	(wire
-		(pts
 			(xy 101.6 50.8) (xy 105.41 50.8)
 		)
 		(stroke
@@ -4676,16 +4602,6 @@
 			(type default)
 		)
 		(uuid "53a09f76-d384-4462-8d02-454e0eebdc0c")
-	)
-	(wire
-		(pts
-			(xy 106.68 153.67) (xy 106.68 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53ba4a36-8443-4dd9-8afa-8ba0607e4480")
 	)
 	(wire
 		(pts
@@ -4766,16 +4682,6 @@
 			(type default)
 		)
 		(uuid "5ed94600-3f0e-4432-aa20-9c56211be0fe")
-	)
-	(wire
-		(pts
-			(xy 55.88 153.67) (xy 55.88 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "604b452c-2ac0-41b5-9f8f-94391ba3f931")
 	)
 	(wire
 		(pts
@@ -4899,16 +4805,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 153.67) (xy 157.48 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "719c0183-0320-4888-85c7-5e8b2f0fea10")
-	)
-	(wire
-		(pts
 			(xy 111.76 67.31) (xy 111.76 73.66)
 		)
 		(stroke
@@ -4926,16 +4822,6 @@
 			(type default)
 		)
 		(uuid "72bc40a7-78bd-4bc9-8cb7-329683dc2185")
-	)
-	(wire
-		(pts
-			(xy 105.41 153.67) (xy 106.68 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73a78278-71a4-4d2a-8fc7-1869523abda1")
 	)
 	(wire
 		(pts
@@ -5059,7 +4945,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 95.25) (xy 78.74 95.25)
+			(xy 67.31 95.25) (xy 78.74 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5436,16 +5322,6 @@
 			(type default)
 		)
 		(uuid "d2385d22-1026-428d-98a0-91decacdfc5e")
-	)
-	(wire
-		(pts
-			(xy 157.48 153.67) (xy 157.48 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2ab5a7c-8759-4b59-ad86-4b2ac998160e")
 	)
 	(wire
 		(pts
@@ -6029,7 +5905,7 @@
 	)
 	(global_label "DCDC_EN"
 		(shape input)
-		(at 46.99 153.67 180)
+		(at 48.26 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6039,7 +5915,7 @@
 		)
 		(uuid "761ff7fa-a406-42f1-9e6e-cbbe9feac58e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.4777 153.67 0)
+			(at 36.7477 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6125,7 +6001,7 @@
 	)
 	(global_label "MODEM_LED0"
 		(shape input)
-		(at 97.79 153.67 180)
+		(at 99.06 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6135,7 +6011,7 @@
 		)
 		(uuid "c47eb3a9-8738-465b-8b8d-f8835c59b639")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.5283 153.67 0)
+			(at 83.7983 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6149,7 +6025,7 @@
 	)
 	(global_label "MODEM_LED1"
 		(shape input)
-		(at 148.59 153.67 180)
+		(at 149.86 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6159,7 +6035,7 @@
 		)
 		(uuid "c8350c79-7f3e-4e71-a35d-c5ce5d92e5e8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.3283 153.67 0)
+			(at 134.5983 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6221,7 +6097,7 @@
 	)
 	(global_label "MODEM_RST"
 		(shape input)
-		(at 41.91 100.33 180)
+		(at 52.07 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6231,7 +6107,7 @@
 		)
 		(uuid "e2b0bff5-6cbf-4b19-ad80-59863f17413a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.8578 100.33 0)
+			(at 38.0178 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6289,7 +6165,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "50Ω"
 			(at 166.37 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6300,7 +6176,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 163.322 144.78 90)
 			(hide yes)
 			(show_name no)
@@ -6311,7 +6187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
 			(at 165.1 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6322,17 +6198,7 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 165.1 144.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB470RS1"
+		(property "Description" "Resistor 0402"
 			(at 165.1 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6343,7 +6209,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB470RS1/18158070"
+		(property "Mfg Part #" "RT0402BRE0750RL"
 			(at 165.1 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6354,7 +6220,7 @@
 				)
 			)
 		)
-		(property "Cost" ""
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402BRE0750RL/5926183"
 			(at 165.1 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6375,120 +6241,6 @@
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
 					(reference "R61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 101.6 153.67 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "01511292-9b45-48fe-bb41-f88198c69cc8")
-		(property "Reference" "R64"
-			(at 103.632 151.638 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4k7"
-			(at 103.886 155.956 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 101.6 155.448 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 101.6 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
-			(at 101.6 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
-			(at 101.6 153.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 101.6 153.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7bdc26f7-2e3f-47ef-b305-bf941659838c")
-		)
-		(pin "2"
-			(uuid "3a305d89-723c-4790-98d6-0bb7bbec5ce4")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -6685,7 +6437,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "1250ecfb-275f-4a87-907f-3b701f035c52")
+		(uuid "137a018b-78c6-49cd-9c44-36962939d7c0")
 		(property "Reference" "R59"
 			(at 64.643 143.764 0)
 			(show_name no)
@@ -6697,7 +6449,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "50Ω"
 			(at 64.77 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6708,7 +6460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 61.722 144.78 90)
 			(hide yes)
 			(show_name no)
@@ -6719,7 +6471,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
 			(at 63.5 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6730,17 +6482,7 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 63.5 144.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB470RS1"
+		(property "Description" "Resistor 0402"
 			(at 63.5 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6751,7 +6493,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB470RS1/18158070"
+		(property "Mfg Part #" "RT0402BRE0750RL"
 			(at 63.5 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6762,7 +6504,7 @@
 				)
 			)
 		)
-		(property "Cost" ""
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402BRE0750RL/5926183"
 			(at 63.5 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6774,10 +6516,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3e13d46-10ad-4dca-ad80-38e1baaf3ff4")
+			(uuid "f330d719-3453-4eff-adb3-9e0080151573")
 		)
 		(pin "2"
-			(uuid "1c005d71-dca2-49df-a869-b26f916e1acd")
+			(uuid "38bb29f1-722d-4d7e-8c93-b7782c3a2c1d")
 		)
 		(instances
 			(project "RS"
@@ -7176,7 +6918,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 62.23 91.44 0)
+		(at 67.31 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7186,7 +6928,7 @@
 		(dnp no)
 		(uuid "1897d4b1-2df6-4a55-be2d-f066ed8b756d")
 		(property "Reference" "R56"
-			(at 60.96 91.44 90)
+			(at 66.04 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7197,7 +6939,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 63.754 91.44 90)
+			(at 68.834 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7207,8 +6949,8 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 60.452 91.44 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 65.532 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7218,8 +6960,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 62.23 91.44 0)
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
+			(at 67.31 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7230,7 +6972,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 62.23 91.44 0)
+			(at 67.31 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7240,8 +6982,8 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB10KS01"
-			(at 62.23 91.44 0)
+		(property "Mfg Part #" "RMCF0402FT10K0"
+			(at 67.31 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7251,8 +6993,8 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB10KS01/18157959"
-			(at 62.23 91.44 90)
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
+			(at 67.31 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7263,7 +7005,7 @@
 			)
 		)
 		(property "Cost" ""
-			(at 62.23 91.44 90)
+			(at 67.31 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7300,7 +7042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b3a4d9f-9774-4da8-a4ba-6c6a5d0ea638")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0129"
 			(at 114.3 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7361,7 +7103,7 @@
 		(instances
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "#PWR0131")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -7441,85 +7183,6 @@
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
 					(reference "#PWR095")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 157.48 163.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "204156d2-2f69-4d3f-8c1d-64630f0d3df6")
-		(property "Reference" "#PWR0132"
-			(at 157.48 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 157.48 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 157.48 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 157.48 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e9b0aa7e-cb00-473a-aa91-195f107d9b82")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -8514,7 +8177,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 47.752 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -8525,7 +8188,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/RN73R.pdf"
 			(at 49.53 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -8547,7 +8210,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "ERA-6AEB513V"
+		(property "Mfg Part #" "RN73R1ETTP5102B25"
 			(at 49.53 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -8558,7 +8221,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/panasonic-industry/ERA-6AEB513V/1465790"
+		(property "URL" "https://www.digikey.pl/en/products/detail/koa-speer-electronics-inc/RN73R1ETTP5102B25/9991855"
 			(at 49.53 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -9631,7 +9294,110 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 152.4 153.67 90)
+		(at 102.87 153.67 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "47118d99-0cd2-4616-ae20-d4a42f026444")
+		(property "Reference" "R64"
+			(at 104.902 151.638 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2k2"
+			(at 105.156 155.956 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 102.87 155.448 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
+			(at 102.87 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor 0402"
+			(at 102.87 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "RMCF0402FT2K20"
+			(at 102.87 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT2K20/2417439"
+			(at 102.87 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "71f6295e-e9b4-4db0-b5ba-d63556ecbb28")
+		)
+		(pin "2"
+			(uuid "36380a0a-9026-48ce-9ff3-dc8750e09b45")
+		)
+		(instances
+			(project "RS"
+				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
+					(reference "R64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 153.67 153.67 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9641,7 +9407,7 @@
 		(dnp no)
 		(uuid "490d50c5-8ce3-4aca-afd7-340461ecf0fc")
 		(property "Reference" "R65"
-			(at 154.432 151.638 90)
+			(at 155.702 151.638 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9651,8 +9417,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4k7"
-			(at 154.686 155.956 90)
+		(property "Value" "2k2"
+			(at 155.956 155.956 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9662,8 +9428,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 152.4 155.448 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 153.67 155.448 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9673,8 +9439,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 152.4 153.67 0)
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
+			(at 153.67 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9684,8 +9450,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 152.4 153.67 0)
+		(property "Description" "Resistor 0402"
+			(at 153.67 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9695,8 +9461,8 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
-			(at 152.4 153.67 0)
+		(property "Mfg Part #" "RMCF0402FT2K20"
+			(at 153.67 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9706,19 +9472,8 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
-			(at 152.4 153.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 152.4 153.67 90)
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT2K20/2417439"
+			(at 153.67 153.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9738,6 +9493,109 @@
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
 					(reference "R65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 114.3 137.16 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4b29c7a1-1740-4c70-ae01-27db76e43c24")
+		(property "Reference" "D18"
+			(at 111.76 135.382 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED green"
+			(at 117.602 136.906 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify top)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 114.3 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://look.ams-osram.com/m/2da6f2ceeebf8fac/original/LG-R971.pdf"
+			(at 114.3 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 114.3 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "LG R971-KN-1-0-20-R18"
+			(at 114.3 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/ams-osram-ag/LG-R971-KN-1-0-20-R18/1227925"
+			(at 114.3 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35b6826b-150b-438b-a1ea-29d0a1e63982")
+		)
+		(pin "2"
+			(uuid "628d1ef6-1b63-4b8f-b94d-1929d7f6792c")
+		)
+		(instances
+			(project "RS"
+				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -10140,7 +9998,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817")
-		(at 59.69 100.33 0)
+		(at 64.77 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10150,7 +10008,7 @@
 		(dnp no)
 		(uuid "64c8ac23-1cc1-4fa9-a5e9-8dc3e1ddbbfb")
 		(property "Reference" "Q9"
-			(at 63.754 99.06 0)
+			(at 68.834 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10161,7 +10019,7 @@
 			)
 		)
 		(property "Value" "BC817"
-			(at 63.754 101.6 0)
+			(at 68.834 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10172,7 +10030,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 64.77 102.235 0)
+			(at 69.85 102.235 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10185,7 +10043,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 59.69 100.33 0)
+			(at 64.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10197,7 +10055,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
-			(at 59.69 100.33 0)
+			(at 64.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10208,7 +10066,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 59.69 100.33 0)
+			(at 64.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10219,7 +10077,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 59.69 100.33 0)
+			(at 64.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10230,7 +10088,7 @@
 			)
 		)
 		(property "Mfg Part #" "BC817-40"
-			(at 59.69 100.33 0)
+			(at 64.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10241,7 +10099,7 @@
 			)
 		)
 		(property "URL" "https://www.digikey.pl/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/BC817-40/21853063"
-			(at 59.69 100.33 0)
+			(at 64.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10252,7 +10110,7 @@
 			)
 		)
 		(property "Cost" ""
-			(at 59.69 100.33 0)
+			(at 64.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10386,7 +10244,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 62.23 109.22 0)
+		(at 67.31 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10397,7 +10255,7 @@
 		(fields_autoplaced yes)
 		(uuid "67e0a806-7cff-4700-ae2f-6a8f294e4d47")
 		(property "Reference" "#PWR0114"
-			(at 62.23 115.57 0)
+			(at 67.31 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10408,7 +10266,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 114.3 0)
+			(at 67.31 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10419,7 +10277,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 109.22 0)
+			(at 67.31 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10430,7 +10288,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 109.22 0)
+			(at 67.31 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10441,7 +10299,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 62.23 109.22 0)
+			(at 67.31 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10475,7 +10333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "698a299f-e556-4291-971c-312f67f8bd42")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0128"
 			(at 63.5 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -10536,7 +10394,7 @@
 		(instances
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "#PWR0129")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -10586,7 +10444,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+		(property "Datasheet" "https://look.ams-osram.com/m/330c725e4ebb09ab/original/LS-R976.pdf"
 			(at 63.5 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10608,7 +10466,7 @@
 				)
 			)
 		)
-		(property "URL2" "CL-270HR-C"
+		(property "Mfg Part #" "LS R976-NR-1-0-20-R18"
 			(at 63.5 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10619,29 +10477,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "B1701USD-20D000114U1930"
-			(at 63.5 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 63.5 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+		(property "URL" "https://www.digikey.pl/en/products/detail/ams-osram-ag/LS-R976-NR-1-0-20-R18/1227987"
 			(at 63.5 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10662,346 +10498,6 @@
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
 					(reference "D17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 157.48 160.02 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "70b225e4-37a0-44c2-8434-bb3c803a5e7f")
-		(property "Reference" "R69"
-			(at 158.623 159.004 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100k"
-			(at 158.75 161.036 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 155.702 160.02 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 157.48 160.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB100KS1"
-			(at 157.48 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB100KS1/18158182"
-			(at 157.48 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 157.48 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "de132e9a-6239-467f-bbbd-a9f062b4b4ae")
-		)
-		(pin "2"
-			(uuid "d9a5d369-9199-4989-b306-e6792fb6e77e")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "R69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 114.3 144.78 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "74497834-f033-4db4-a001-7d815882eb58")
-		(property "Reference" "R60"
-			(at 115.443 143.764 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470R"
-			(at 115.57 145.796 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 112.522 144.78 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 144.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB470RS1"
-			(at 114.3 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB470RS1/18158070"
-			(at 114.3 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 114.3 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "93bba678-0db5-4da9-a5b0-dd0406a20556")
-		)
-		(pin "2"
-			(uuid "349487e4-f5fc-45bd-ba2c-05cfed2ad209")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "R60")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 50.8 153.67 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "746e8c2b-8008-45f8-833c-46b2263dc45a")
-		(property "Reference" "R63"
-			(at 52.832 151.638 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4k7"
-			(at 53.086 155.956 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 50.8 155.448 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 50.8 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
-			(at 50.8 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
-			(at 50.8 153.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 50.8 153.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0c32966a-e3ca-420c-9db9-f951626d8e1c")
-		)
-		(pin "2"
-			(uuid "4976bf43-c792-4201-8380-3f7712a2852d")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -11151,7 +10647,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 62.23 87.63 0)
+		(at 67.31 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11161,7 +10657,7 @@
 		(dnp no)
 		(uuid "793db021-495d-4272-8c0d-48d8d97e3da3")
 		(property "Reference" "#PWR0112"
-			(at 62.23 91.44 0)
+			(at 67.31 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11172,7 +10668,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 61.722 83.82 0)
+			(at 66.802 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11182,7 +10678,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 87.63 0)
+			(at 67.31 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11193,7 +10689,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 87.63 0)
+			(at 67.31 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11204,7 +10700,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 62.23 87.63 0)
+			(at 67.31 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11259,7 +10755,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 47.752 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -11292,7 +10788,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "RT0805BRD0724KL"
+		(property "Mfg Part #" "RT0402BRE0724KL"
 			(at 49.53 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11303,7 +10799,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0805BRD0724KL/1075744"
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402BRE0724KL/1069604"
 			(at 49.53 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -11499,7 +10995,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3804/B1701NG--20D000314U1930.pdf"
+		(property "Datasheet" "https://look.ams-osram.com/m/2da6f2ceeebf8fac/original/LG-R971.pdf"
 			(at 165.1 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -11521,7 +11017,7 @@
 				)
 			)
 		)
-		(property "URL2" "CL-270HR-C"
+		(property "Mfg Part #" "LG R971-KN-1-0-20-R18"
 			(at 165.1 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -11532,29 +11028,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "B1701NG--20D000314U1930"
-			(at 165.1 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 165.1 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/harvatek-corporation/B1701NG-20D000314U1930/16671738"
+		(property "URL" "https://www.digikey.pl/en/products/detail/ams-osram-ag/LG-R971-KN-1-0-20-R18/1227925"
 			(at 165.1 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -12205,119 +11679,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 53.34 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "90541f51-9877-4d66-8a3b-6154535b81c8")
-		(property "Reference" "R58"
-			(at 54.483 104.394 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100k"
-			(at 54.61 106.426 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 51.562 105.41 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 105.41 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB100KS1"
-			(at 53.34 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB100KS1/18158182"
-			(at 53.34 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 53.34 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "07842a2b-0888-4f96-a66c-64f9989762b3")
-		)
-		(pin "2"
-			(uuid "52b367b3-7239-4248-9546-344109cb9536")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "R58")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "CodeDog:ST87M01-1301")
 		(at 101.6 95.25 0)
 		(unit 1)
@@ -12753,7 +12114,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 48.26 100.33 90)
+		(at 55.88 100.33 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12763,7 +12124,7 @@
 		(dnp no)
 		(uuid "9ca72876-6139-4748-8ca1-240fabb53592")
 		(property "Reference" "R57"
-			(at 50.292 98.298 90)
+			(at 57.912 98.298 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12774,7 +12135,7 @@
 			)
 		)
 		(property "Value" "4k7"
-			(at 50.546 102.616 90)
+			(at 58.166 102.616 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12784,8 +12145,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 48.26 102.108 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 55.88 102.108 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12795,8 +12156,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 48.26 100.33 0)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 55.88 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12807,7 +12168,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 48.26 100.33 0)
+			(at 55.88 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12817,8 +12178,8 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
-			(at 48.26 100.33 0)
+		(property "Mfg Part #" "RC0402FR-074K7L"
+			(at 55.88 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12828,8 +12189,8 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
-			(at 48.26 100.33 90)
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RC0402FR-074K7L/2827563"
+			(at 55.88 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12840,7 +12201,7 @@
 			)
 		)
 		(property "Cost" ""
-			(at 48.26 100.33 90)
+			(at 55.88 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13058,85 +12419,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 106.68 163.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6fc3111-5eec-4a11-86c1-d6766c049572")
-		(property "Reference" "#PWR0130"
-			(at 106.68 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 106.68 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7da69b59-ce63-4359-94dd-61c99de4b3d7")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "#PWR0130")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 224.79 160.02 0)
 		(unit 1)
 		(body_style 1)
@@ -13338,85 +12620,6 @@
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
 					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 53.34 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b860e407-165f-42c9-8903-45f57834e0bd")
-		(property "Reference" "#PWR0113"
-			(at 53.34 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 53.34 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cbf061e4-762b-496d-8940-b2cf0349fbcc")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -13876,85 +13079,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 55.88 163.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cb70b5a4-9cee-4027-8477-f61b71f3d6a3")
-		(property "Reference" "#PWR0128"
-			(at 55.88 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 55.88 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.88 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 55.88 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d271c114-f090-459b-bbf6-48ca22204820")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "#PWR0128")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 67.31 48.26 0)
 		(unit 1)
@@ -14227,6 +13351,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 52.07 153.67 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d5295a04-dabb-42b8-9434-1183e5ef9578")
+		(property "Reference" "R63"
+			(at 54.102 151.638 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2k2"
+			(at 54.356 155.956 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 52.07 155.448 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
+			(at 52.07 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor 0402"
+			(at 52.07 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "RMCF0402FT2K20"
+			(at 52.07 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT2K20/2417439"
+			(at 52.07 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c8859d5e-546e-4b7f-a88a-040c20e59a7b")
+		)
+		(pin "2"
+			(uuid "4efb1889-50e1-45e8-9f9d-c572f3a5866e")
+		)
+		(instances
+			(project "RS"
+				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
+					(reference "R63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CodeDog:LD39050PUR")
 		(at 34.29 36.83 0)
 		(unit 1)
@@ -14352,131 +13579,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 114.3 137.16 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "de1bfeb8-942c-4711-9e25-3b62d8c17d01")
-		(property "Reference" "D18"
-			(at 111.76 135.382 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED green"
-			(at 117.602 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 114.3 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3804/B1701NG--20D000314U1930.pdf"
-			(at 114.3 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 114.3 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL2" "CL-270HR-C"
-			(at 114.3 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "B1701NG--20D000314U1930"
-			(at 114.3 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 114.3 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/harvatek-corporation/B1701NG-20D000314U1930/16671738"
-			(at 114.3 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7d924c94-f4bc-42e5-8684-e189a2e93efb")
-		)
-		(pin "2"
-			(uuid "94ed4c97-517e-4a67-8226-4f9c0d80b9fb")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "D18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "CodeDog:1909763-1")
 		(at 177.8 74.93 90)
 		(unit 1)
@@ -14498,7 +13600,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ANTENNA"
+		(property "Value" "ANT."
 			(at 177.8 69.342 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14808,7 +13910,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10kΩ"
 			(at 219.964 156.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14874,7 +13976,7 @@
 				)
 			)
 		)
-		(property "Cost" ""
+		(property "Tolerance" "0.1%"
 			(at 218.44 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -15401,7 +14503,7 @@
 				)
 			)
 		)
-		(property "Cost" ""
+		(property "Tolerance" "0.1%"
 			(at 218.44 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -15422,232 +14524,6 @@
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
 					(reference "R62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 55.88 160.02 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "edfd12ef-a810-48ef-866e-f79fa1304236")
-		(property "Reference" "R67"
-			(at 57.023 159.004 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100k"
-			(at 57.15 161.036 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 54.102 160.02 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 55.88 160.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB100KS1"
-			(at 55.88 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB100KS1/18158182"
-			(at 55.88 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 55.88 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d3ca0b98-82e7-4428-9ea4-d4f558d8acf9")
-		)
-		(pin "2"
-			(uuid "8bdfdf89-0c88-47b8-ad0d-8fbd6856624d")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "R67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 106.68 160.02 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ef320825-3ec4-4ce6-98e3-d0412b72a2c3")
-		(property "Reference" "R68"
-			(at 107.823 159.004 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100k"
-			(at 107.95 161.036 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 104.902 160.02 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 160.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "CR0805JB100KS1"
-			(at 106.68 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB100KS1/18158182"
-			(at 106.68 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" ""
-			(at 106.68 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "08ccc019-ab5d-4a8c-a654-b1df1f22f037")
-		)
-		(pin "2"
-			(uuid "2e38c190-3d8c-4289-8a2d-8f82294fcead")
-		)
-		(instances
-			(project "RS"
-				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -15895,6 +14771,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 114.3 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "efe544a9-6f8a-4b9b-b5a1-1af767e140e8")
+		(property "Reference" "R60"
+			(at 115.443 143.764 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "50Ω"
+			(at 115.57 145.796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 112.522 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
+			(at 114.3 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor 0402"
+			(at 114.3 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "RT0402BRE0750RL"
+			(at 114.3 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402BRE0750RL/5926183"
+			(at 114.3 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8def721-cfc8-42c1-b4bd-fae67cfd660e")
+		)
+		(pin "2"
+			(uuid "f77e9567-1543-47be-901d-9a0047e0ba80")
+		)
+		(instances
+			(project "RS"
+				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
+					(reference "R60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 165.1 163.83 0)
 		(unit 1)
@@ -15906,7 +14885,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f099bced-d48a-4458-aa71-94b9c8dcc625")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0130"
 			(at 165.1 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -15967,7 +14946,7 @@
 		(instances
 			(project "RS"
 				(path "/0dbf7561-7a47-4904-aa52-fee53d6c21f5"
-					(reference "#PWR0133")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)

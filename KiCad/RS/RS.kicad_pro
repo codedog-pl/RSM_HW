@@ -60,11 +60,11 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.1,
-          "min_island_area": 10.0,
+          "min_clearance": 0.35,
+          "min_island_area": 0.0013161349,
           "min_thickness": 0.25,
           "pad_connection": 1,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -146,7 +146,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.1,
+        "min_clearance": 0.19,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
@@ -167,11 +167,11 @@
       },
       "teardrop_options": [
         {
-          "td_onpthpad": true,
+          "td_onpthpad": false,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": true,
+          "td_onsmdpad": false,
           "td_ontrackend": true,
-          "td_onvia": true
+          "td_onvia": false
         }
       ],
       "teardrop_parameters": [
@@ -199,21 +199,22 @@
         },
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 1,
+          "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
-          "td_length_ratio": 0.5,
-          "td_maxheight": 2.0,
+          "td_length_ratio": 1.0,
+          "td_maxheight": 2.5,
           "td_maxlen": 1.0,
           "td_on_pad_in_zone": false,
           "td_target_name": "td_track_end",
-          "td_width_to_size_filter_ratio": 0.9
+          "td_width_to_size_filter_ratio": 0.6
         }
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.6,
         1.0,
-        1.2
+        1.08
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -245,9 +246,13 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         }
       ],
-      "zones_allow_external_fillets": false
+      "zones_allow_external_fillets": true
     },
     "ipc2581": {
       "bom_rev": "",
@@ -527,7 +532,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.25,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -704,6 +709,12 @@
           "label": "SNAPEDA_PN",
           "name": "SNAPEDA_PN",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -764,7 +775,7 @@
         "uuid": "0dbf7561-7a47-4904-aa52-fee53d6c21f5"
       }
     ],
-    "used_designators": "TP1-24,L1-12,D1-24,BT1,BT6,#PWR1-141,C1-41,J1-13,JP1-3,JP6-7,Q1-17,#FLG1-7,R1-69,SW1,SW6,U1-16,Y1,Y6",
+    "used_designators": "TP1-24,L1-12,D1-24,BT1,BT6,#PWR1-141,C1-41,J1-13,JP1-3,JP6-7,Q1-17,#FLG1-7,R1-70,SW1,SW6,U1-16,Y1,Y6",
     "variants": []
   },
   "sheets": [

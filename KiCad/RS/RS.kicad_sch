@@ -12800,7 +12800,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 160.02 57.658 90)
 			(hide yes)
 			(show_name no)
@@ -12811,7 +12811,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 160.02 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12833,7 +12833,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB10KS01"
+		(property "Mfg Part #" "RMCF0402FT10K0"
 			(at 160.02 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12844,7 +12844,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB10KS01/18157959"
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
 			(at 160.02 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -13727,7 +13727,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 189.23 110.998 90)
 			(hide yes)
 			(show_name no)
@@ -13738,7 +13738,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 189.23 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13760,7 +13760,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB10KS01"
+		(property "Mfg Part #" "RMCF0402FT10K0"
 			(at 189.23 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13771,7 +13771,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB10KS01/18157959"
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
 			(at 189.23 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -14653,7 +14653,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 160.02 65.278 90)
 			(hide yes)
 			(show_name no)
@@ -14664,7 +14664,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 160.02 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14686,7 +14686,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
+		(property "Mfg Part #" "RC0402FR-074K7L"
 			(at 160.02 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14697,7 +14697,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RC0402FR-074K7L/2827563"
 			(at 160.02 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14767,7 +14767,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 160.02 61.468 90)
 			(hide yes)
 			(show_name no)
@@ -14778,7 +14778,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 160.02 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -14800,7 +14800,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
+		(property "Mfg Part #" "RC0402FR-074K7L"
 			(at 160.02 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -14811,7 +14811,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RC0402FR-074K7L/2827563"
 			(at 160.02 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -15376,7 +15376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 102.87 166.878 90)
 			(hide yes)
 			(show_name no)
@@ -15387,7 +15387,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 102.87 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15409,7 +15409,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
+		(property "Mfg Part #" "RC0402FR-074K7L"
 			(at 102.87 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15420,7 +15420,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RC0402FR-074K7L/2827563"
 			(at 102.87 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -15603,7 +15603,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 176.022 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -15614,7 +15614,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 177.8 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -15636,7 +15636,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB10KS01"
+		(property "Mfg Part #" "RMCF0402FT10K0"
 			(at 177.8 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -15647,7 +15647,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB10KS01/18157959"
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
 			(at 177.8 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -15821,7 +15821,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "470"
 			(at 80.01 167.386 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16303,7 +16303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 33.782 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -16314,7 +16314,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 35.56 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -16336,7 +16336,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB10KS01"
+		(property "Mfg Part #" "RMCF0402FT10K0"
 			(at 35.56 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -16347,7 +16347,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB10KS01/18157959"
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
 			(at 35.56 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -16623,7 +16623,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 189.23 114.808 90)
 			(hide yes)
 			(show_name no)
@@ -16634,7 +16634,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 189.23 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -16656,7 +16656,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB10KS01"
+		(property "Mfg Part #" "RMCF0402FT10K0"
 			(at 189.23 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -16667,7 +16667,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB10KS01/18157959"
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
 			(at 189.23 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -23498,7 +23498,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "470"
 			(at 180.34 30.226 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24349,7 +24349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 93.98 175.768 90)
 			(hide yes)
 			(show_name no)
@@ -24360,7 +24360,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 93.98 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -24382,7 +24382,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "CR0805JB4K7S01"
+		(property "Mfg Part #" "RC0402FR-074K7L"
 			(at 93.98 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -24393,7 +24393,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/nextgen-components/CR0805JB4K7S01/15761328"
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RC0402FR-074K7L/2827563"
 			(at 93.98 173.99 90)
 			(hide yes)
 			(show_name no)
