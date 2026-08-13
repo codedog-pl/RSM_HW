@@ -580,6 +580,12 @@
       "fields_ordered": [
         {
           "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Reference",
           "name": "Reference",
           "show": true
@@ -591,31 +597,37 @@
           "show": true
         },
         {
-          "group_by": true,
-          "label": "Value",
-          "name": "Value",
-          "show": true
-        },
-        {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
           "show": true
         },
         {
-          "group_by": true,
-          "label": "Exclude from BOM",
-          "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from Board",
-          "name": "${EXCLUDE_FROM_BOARD}",
+          "group_by": false,
+          "label": "Value",
+          "name": "Value",
           "show": true
         },
         {
           "group_by": false,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": true,
           "label": "Mfg Part #",
           "name": "Mfg Part #",
           "show": true
@@ -633,18 +645,6 @@
           "show": true
         },
         {
-          "group_by": true,
-          "label": "Footprint",
-          "name": "Footprint",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer_Part_Number",
-          "name": "Manufacturer_Part_Number",
-          "show": false
-        },
-        {
           "group_by": false,
           "label": "Sim.Device",
           "name": "Sim.Device",
@@ -658,62 +658,20 @@
         },
         {
           "group_by": false,
-          "label": "URL2",
-          "name": "URL2",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Cost",
-          "name": "Cost",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PARTREV",
-          "name": "PARTREV",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MANUFACTURER",
-          "name": "MANUFACTURER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MAXIMUM_PACKAGE_HEIGHT",
-          "name": "MAXIMUM_PACKAGE_HEIGHT",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "STANDARD",
-          "name": "STANDARD",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SNAPEDA_PN",
-          "name": "SNAPEDA_PN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Tolerance",
           "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TC",
+          "name": "TC",
           "show": false
         }
       ],
@@ -775,7 +733,7 @@
         "uuid": "0dbf7561-7a47-4904-aa52-fee53d6c21f5"
       }
     ],
-    "used_designators": "TP1-24,L1-12,D1-24,BT1,BT6,#PWR1-141,C1-41,J1-13,JP1-3,JP6-7,Q1-17,#FLG1-7,R1-70,SW1,SW6,U1-16,Y1,Y6",
+    "used_designators": "TP1-24,L1-12,D1-26,BT1,BT6,#PWR1-145,C1-51,J1-13,JP1-3,JP6-7,Q1-17,#FLG1-8,R1-77,SW1,SW6,U1-16,Y1,Y6",
     "variants": []
   },
   "sheets": [
