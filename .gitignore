@@ -18,11 +18,13 @@ KiCad/*/_autosave*
 KiCad/*/#auto_saved_files#
 
 # Różne formaty backupów i pliki tymczasowe
+
 *.bak
 *.bck
 *.kicad_sch.bak
 *.kicad_pcb.bak
 *.kicad_sym.bak
+*.lck
 ~*.kicad_sch
 ~*.kicad_pcb
 ~*.kicad_pro
