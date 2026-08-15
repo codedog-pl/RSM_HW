@@ -6,9 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "Remote Sensor Module: PSU, MCU, Analog")
-		(date "2026-07-25")
+		(date "2026-08-15")
 		(rev "0.1")
 		(company "CodeDog")
+		(comment 1 "(c)2026")
+		(comment 2 "All rights reserved")
 	)
 	(lib_symbols
 		(symbol "CodeDog:1056"
@@ -6204,6 +6206,12 @@
 		(uuid "c811a8b4-2300-4b90-90ad-b45ad699db54")
 	)
 	(junction
+		(at 34.29 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd3bf86c-1f26-4a3d-abe2-1a24e63f5146")
+	)
+	(junction
 		(at 135.89 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7527,6 +7535,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 157.48) (xy 34.29 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6baab4ac-218c-404a-8975-2df881661021")
+	)
+	(wire
+		(pts
 			(xy 90.17 33.02) (xy 90.17 38.1)
 		)
 		(stroke
@@ -8824,6 +8842,16 @@
 			(type default)
 		)
 		(uuid "e4f78186-8c6b-4e35-ba0c-1fbaacbfa065")
+	)
+	(wire
+		(pts
+			(xy 34.29 157.48) (xy 34.29 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5578477-1973-4d9a-b9a4-e3914c8e8450")
 	)
 	(wire
 		(pts
@@ -11262,6 +11290,17 @@
 				)
 			)
 		)
+		(property "Label" "5V"
+			(at 119.38 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c4dc7f9d-6ded-4ad4-a293-f6e986351df6")
 		)
@@ -13325,7 +13364,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "47f12937-e3ec-457e-aed2-a30153289f58")
 		(property "Reference" "TP15"
 			(at 274.066 125.73 0)
@@ -13338,7 +13377,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "D_OUT1_M"
 			(at 274.32 126.9999 0)
 			(hide yes)
 			(show_name no)
@@ -13350,7 +13389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -13713,7 +13752,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "4bcc17b1-0dd2-4c35-820b-a7b17ef3a59d")
 		(property "Reference" "TP10"
 			(at 274.066 106.68 0)
@@ -13726,7 +13765,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "ADC"
 			(at 274.32 107.9499 0)
 			(hide yes)
 			(show_name no)
@@ -13738,7 +13777,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -15527,6 +15566,17 @@
 				)
 			)
 		)
+		(property "Label" "VM"
+			(at 83.82 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fb00cd91-6a77-4154-8dee-279a01bc8f48")
 		)
@@ -15707,6 +15757,17 @@
 				)
 			)
 		)
+		(property "Label" "3V3"
+			(at 140.97 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4a590990-ae55-431e-9832-4e25f10bcc8a")
 		)
@@ -15731,7 +15792,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "73dda493-ab61-4623-b63c-565cd20f0c76")
 		(property "Reference" "TP6"
 			(at 274.066 87.63 0)
@@ -15744,7 +15805,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "VMOD"
 			(at 274.32 88.8999 0)
 			(hide yes)
 			(show_name no)
@@ -15756,7 +15817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -16967,7 +17028,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA"
+		(property "Footprint" "CodeDog:D_SMA"
 			(at 30.48 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -17350,7 +17411,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7fbd552f-a0a8-4896-aae1-792362bcd114")
 		(property "Reference" "TP17"
 			(at 274.066 133.35 0)
@@ -17363,7 +17424,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "RTC_CLK"
 			(at 274.32 134.6199 0)
 			(hide yes)
 			(show_name no)
@@ -17375,7 +17436,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -17759,7 +17820,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "87a5e268-7d34-4c14-b00c-2eaee0c9f2a9")
 		(property "Reference" "TP3"
 			(at 274.066 72.39 0)
@@ -17772,7 +17833,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "5V"
 			(at 274.32 73.6599 0)
 			(hide yes)
 			(show_name no)
@@ -17784,7 +17845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18072,7 +18133,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8eb22ca8-94e8-45c9-9b66-8b0e23575a38")
 		(property "Reference" "TP13"
 			(at 274.066 118.11 0)
@@ -18085,7 +18146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "D_IN1_M"
 			(at 274.32 119.3799 0)
 			(hide yes)
 			(show_name no)
@@ -18097,7 +18158,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -18515,7 +18576,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "97562aec-fe67-4dde-aea2-3e120a80745c")
 		(property "Reference" "TP5"
 			(at 274.066 83.82 0)
@@ -18528,7 +18589,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "VMOD_PG"
 			(at 274.32 85.0899 0)
 			(hide yes)
 			(show_name no)
@@ -18540,7 +18601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -18671,7 +18732,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "9aad4b99-3a1c-4299-ac9b-485f479b4ccb")
 		(property "Reference" "TP14"
 			(at 274.066 121.92 0)
@@ -18684,7 +18745,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "D_IN2_M"
 			(at 274.32 123.1899 0)
 			(hide yes)
 			(show_name no)
@@ -18696,7 +18757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -18987,7 +19048,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "9c7624d4-69f0-4f91-a4b0-deb2910e2667")
 		(property "Reference" "TP18"
 			(at 274.066 137.16 0)
@@ -19000,7 +19061,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "RTC_EVI"
 			(at 274.32 138.4299 0)
 			(hide yes)
 			(show_name no)
@@ -19012,7 +19073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -20288,7 +20349,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b1de4b43-7a06-4101-993b-6e2c07f64445")
 		(property "Reference" "TP7"
 			(at 274.066 91.44 0)
@@ -20301,7 +20362,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "VEXT"
 			(at 274.32 92.7099 0)
 			(hide yes)
 			(show_name no)
@@ -20313,7 +20374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -20525,7 +20586,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b95e6a54-25b5-4aa5-bab3-3a79414ec704")
 		(property "Reference" "TP9"
 			(at 274.066 99.06 0)
@@ -20538,7 +20599,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "VANT"
 			(at 274.32 100.3299 0)
 			(hide yes)
 			(show_name no)
@@ -20550,7 +20611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -20604,7 +20665,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ba223acd-f331-42b1-b735-e4ebd4975eee")
 		(property "Reference" "TP12"
 			(at 274.066 114.3 0)
@@ -20617,7 +20678,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "VM"
 			(at 274.32 115.5699 0)
 			(hide yes)
 			(show_name no)
@@ -20629,7 +20690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -20683,7 +20744,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "bc94b829-0caa-46f3-82dd-ff32b84bcad9")
 		(property "Reference" "TP4"
 			(at 274.066 76.2 0)
@@ -20696,7 +20757,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "24V"
 			(at 274.32 77.4699 0)
 			(hide yes)
 			(show_name no)
@@ -20708,7 +20769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -20942,7 +21003,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c2bf59b7-d74a-4bcd-840c-e93af35103c0")
 		(property "Reference" "TP1"
 			(at 274.066 64.77 0)
@@ -20955,7 +21016,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "GND"
 			(at 274.32 66.0399 0)
 			(hide yes)
 			(show_name no)
@@ -20967,7 +21028,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -21587,7 +21648,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d4ea6f5c-5f4a-4b35-bae5-85455ad31274")
 		(property "Reference" "TP8"
 			(at 274.066 95.25 0)
@@ -21600,7 +21661,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "VSIM"
 			(at 274.32 96.5199 0)
 			(hide yes)
 			(show_name no)
@@ -21612,7 +21673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -22569,7 +22630,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e7e68157-37d7-4f28-b695-db7d7f628800")
 		(property "Reference" "TP2"
 			(at 274.066 68.58 0)
@@ -22582,7 +22643,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "3V3"
 			(at 274.32 69.8499 0)
 			(hide yes)
 			(show_name no)
@@ -22594,7 +22655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -23258,7 +23319,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ef4f8fd0-53c8-448f-9bb7-25df484b9999")
 		(property "Reference" "TP16"
 			(at 274.066 129.54 0)
@@ -23271,7 +23332,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "D_OUT2_M"
 			(at 274.32 130.8099 0)
 			(hide yes)
 			(show_name no)
@@ -23283,7 +23344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23361,7 +23422,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
+		(property "Footprint" "CodeDog:D_SMA"
 			(at 53.34 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -24134,7 +24195,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f49ca9ba-d4a6-439f-8291-56ed7aa8c3ab")
 		(property "Reference" "TP11"
 			(at 274.066 110.49 0)
@@ -24147,7 +24208,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Test Point"
+		(property "Value" "RCS"
 			(at 274.32 111.7599 0)
 			(hide yes)
 			(show_name no)
@@ -24159,7 +24220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 271.78 110.49 0)
 			(hide yes)
 			(show_name no)

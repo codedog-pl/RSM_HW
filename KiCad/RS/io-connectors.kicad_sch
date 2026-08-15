@@ -6,9 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "Remote Sensor Module: Digital I/O Sheet")
-		(date "2026-07-25")
+		(date "2026-08-15")
 		(rev "0.1")
 		(company "CodeDog")
+		(comment 1 "(c)2026")
+		(comment 2 "All rights reserved")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Socket"
@@ -6100,6 +6102,17 @@
 				)
 			)
 		)
+		(property "Label" "OUT2"
+			(at 215.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc0a40c7-3f44-46f3-ad50-d773001a9353")
 		)
@@ -7047,6 +7060,17 @@
 				)
 			)
 		)
+		(property "Label" "IN2"
+			(at 266.7 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b8159a1-7ee6-4578-aa65-8c4964dffdca")
 		)
@@ -7924,6 +7948,17 @@
 			)
 		)
 		(property "URL" "https://www.digikey.pl/en/products/detail/ams-osram-ag/LO-R976-PS-1-0-20-R18/1227955"
+			(at 128.27 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Label" "OUT1"
 			(at 128.27 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -9335,6 +9370,17 @@
 				)
 			)
 		)
+		(property "Label" "IN1"
+			(at 179.07 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5492acc6-c565-4491-a6f5-2c103ec2f52c")
 		)
@@ -9461,7 +9507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
+		(property "Footprint" "CodeDog:D_SMA"
 			(at 161.925 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -10855,7 +10901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
+		(property "Footprint" "CodeDog:D_SMA"
 			(at 249.555 106.68 0)
 			(hide yes)
 			(show_name no)
