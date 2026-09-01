@@ -1464,7 +1464,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:D_Zener"
+		(symbol "Device:D_Schottky"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1487,7 +1487,7 @@
 					)
 				)
 			)
-			(property "Value" "D_Zener"
+			(property "Value" "D_Schottky"
 				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1519,7 +1519,7 @@
 					)
 				)
 			)
-			(property "Description" "Zener diode"
+			(property "Description" "Schottky diode"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1530,7 +1530,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "diode"
+			(property "ki_keywords" "diode Schottky"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1552,10 +1552,22 @@
 					)
 				)
 			)
-			(symbol "D_Zener_0_1"
+			(symbol "D_Schottky_0_1"
 				(polyline
 					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1577,20 +1589,8 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 			)
-			(symbol "D_Zener_1_1"
+			(symbol "D_Schottky_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -3749,22 +3749,10 @@
 		(uuid "254429bf-d40d-4736-b3fd-f1f66cc2450e")
 	)
 	(junction
-		(at 132.08 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2882640f-df4a-44ad-a5bd-8d03082e4054")
-	)
-	(junction
 		(at 215.9 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2cf14263-cac0-4dea-b53a-1021ff041fac")
-	)
-	(junction
-		(at 144.78 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3b0067d6-90a8-45e0-b33e-1500ace4f819")
 	)
 	(junction
 		(at 261.62 93.98)
@@ -3827,12 +3815,6 @@
 		(uuid "b643ead0-0ee5-48c9-a494-ff89d0a1b8de")
 	)
 	(junction
-		(at 220.98 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b7256377-d3a4-4473-9ac1-4cc0eb97d9da")
-	)
-	(junction
 		(at 128.27 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3845,12 +3827,6 @@
 		(uuid "d5d2ca41-fcfc-45fa-b9e8-754e70c6c113")
 	)
 	(junction
-		(at 232.41 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd9d9441-6d2f-45ef-94cf-89835a4fecd3")
-	)
-	(junction
 		(at 254 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3861,26 +3837,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f415e346-a8f4-46e0-ab42-96673f7f29f1")
-	)
-	(wire
-		(pts
-			(xy 132.08 50.8) (xy 132.08 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0107ace8-7b99-4982-8bfd-2486067e851c")
-	)
-	(wire
-		(pts
-			(xy 137.16 102.87) (xy 137.16 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03d9de1b-fe8b-46fa-99d4-f98b58e65855")
 	)
 	(wire
 		(pts
@@ -3901,16 +3857,6 @@
 			(type default)
 		)
 		(uuid "04f5c5c3-d9b4-49fb-a262-044fff46995a")
-	)
-	(wire
-		(pts
-			(xy 220.98 50.8) (xy 220.98 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05245818-3edb-4d72-bdb1-a147922e75be")
 	)
 	(wire
 		(pts
@@ -4044,16 +3990,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 93.98) (xy 224.79 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2052a6ff-11d5-4377-b431-ce2626b7f30a")
-	)
-	(wire
-		(pts
 			(xy 153.67 64.77) (xy 153.67 66.04)
 		)
 		(stroke
@@ -4154,26 +4090,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 104.14) (xy 232.41 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36aa5e81-000a-4d94-81be-0e86ebcb63ee")
-	)
-	(wire
-		(pts
-			(xy 224.79 93.98) (xy 232.41 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40d4a630-ff2f-46a6-82fc-c06c20eecb69")
-	)
-	(wire
-		(pts
 			(xy 251.46 49.53) (xy 248.92 49.53)
 		)
 		(stroke
@@ -4264,17 +4180,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 93.98) (xy 144.78 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50313354-348e-4f29-95fc-6aecee190812")
-	)
-	(wire
-		(pts
-			(xy 153.67 38.1) (xy 153.67 50.8)
+			(xy 153.67 33.02) (xy 153.67 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4344,7 +4250,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 38.1) (xy 241.3 50.8)
+			(xy 241.3 33.02) (xy 241.3 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4371,16 +4277,6 @@
 			(type default)
 		)
 		(uuid "6728fe67-f588-4e92-964f-9e803383c034")
-	)
-	(wire
-		(pts
-			(xy 224.79 102.87) (xy 224.79 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6977fe3d-dc58-483c-8e8a-2a992bb39dce")
 	)
 	(wire
 		(pts
@@ -4434,23 +4330,13 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 50.8) (xy 121.92 50.8)
+			(xy 266.7 33.02) (xy 266.7 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8463ebc9-4251-4dbf-b766-63946f9fab2c")
-	)
-	(wire
-		(pts
-			(xy 208.28 50.8) (xy 210.82 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "856493b0-480e-4b81-890f-b1bbb69019fc")
+		(uuid "88ab4dce-a17c-4915-a0f7-5f0e02e39a76")
 	)
 	(wire
 		(pts
@@ -4461,16 +4347,6 @@
 			(type default)
 		)
 		(uuid "8e29f81c-4ffb-411c-b336-170d229cb856")
-	)
-	(wire
-		(pts
-			(xy 218.44 50.8) (xy 220.98 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f50c521-35a3-4ece-aff7-73661bd62ab0")
 	)
 	(wire
 		(pts
@@ -4501,16 +4377,6 @@
 			(type default)
 		)
 		(uuid "99221e84-fe74-4eff-9d00-f2d79973c412")
-	)
-	(wire
-		(pts
-			(xy 132.08 64.77) (xy 132.08 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a010c6f-a302-497d-a371-09582144aedc")
 	)
 	(wire
 		(pts
@@ -4591,16 +4457,6 @@
 			(type default)
 		)
 		(uuid "a4603573-aeea-4a2d-b24d-f98eece33b67")
-	)
-	(wire
-		(pts
-			(xy 137.16 93.98) (xy 137.16 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a499b589-1fe6-4dba-9dfb-9f3141bf2d9c")
 	)
 	(wire
 		(pts
@@ -4704,16 +4560,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 50.8) (xy 137.16 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c151d029-cf4d-46b7-84f4-e50dc24ca0f7")
-	)
-	(wire
-		(pts
 			(xy 248.92 93.98) (xy 248.92 99.06)
 		)
 		(stroke
@@ -4741,6 +4587,16 @@
 			(type default)
 		)
 		(uuid "c38cf02d-522f-42e2-876c-9994e85ff64e")
+	)
+	(wire
+		(pts
+			(xy 179.07 33.02) (xy 179.07 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6875352-968f-4ff9-ba7b-ae0d6cc404a9")
 	)
 	(wire
 		(pts
@@ -4774,16 +4630,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 64.77) (xy 220.98 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc2f4a92-30b2-4ae8-82c3-e3772c420eff")
-	)
-	(wire
-		(pts
 			(xy 60.96 73.66) (xy 68.58 73.66)
 		)
 		(stroke
@@ -4801,16 +4647,6 @@
 			(type default)
 		)
 		(uuid "cdea295e-81a0-4227-8f1e-f859cb126a53")
-	)
-	(wire
-		(pts
-			(xy 137.16 104.14) (xy 144.78 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce839d40-8430-42d2-b9ca-2265930a1b4b")
 	)
 	(wire
 		(pts
@@ -4901,26 +4737,6 @@
 			(type default)
 		)
 		(uuid "d647a03b-fd0a-4839-b0e0-7c59af794be6")
-	)
-	(wire
-		(pts
-			(xy 129.54 50.8) (xy 132.08 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d73b61bc-9f8a-438a-b3fb-131ce3ccbedf")
-	)
-	(wire
-		(pts
-			(xy 220.98 50.8) (xy 224.79 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7bac2aa-907d-48d6-8229-e79826e642e7")
 	)
 	(wire
 		(pts
@@ -5412,7 +5228,7 @@
 	)
 	(global_label "D_IN1"
 		(shape input)
-		(at 119.38 50.8 180)
+		(at 114.3 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5422,7 +5238,7 @@
 		)
 		(uuid "9b6ac8c5-10ca-4588-bdef-b798223608ed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.0124 50.8 0)
+			(at 105.9324 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5628,7 +5444,7 @@
 	)
 	(global_label "D_IN2"
 		(shape input)
-		(at 208.28 50.8 180)
+		(at 201.93 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5638,7 +5454,7 @@
 		)
 		(uuid "f7d4f9e0-d156-49cb-bfd7-4b2a220ec7d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.9124 50.8 0)
+			(at 193.5624 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5754,8 +5570,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 132.08 66.04 0)
+		(lib_id "Device:R")
+		(at 205.74 45.72 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5763,10 +5579,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "077b23a7-5420-4d47-b366-863402500423")
-		(property "Reference" "#PWR065"
-			(at 132.08 72.39 0)
+		(uuid "076e3e32-facb-4805-bcd1-9e8c0ecffdce")
+		(property "Reference" "R37"
+			(at 207.518 43.434 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22k"
+			(at 205.74 48.006 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 205.74 47.498 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5776,8 +5612,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 132.08 71.12 0)
+		(property "Datasheet" "https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf"
+			(at 205.74 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5787,8 +5623,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 132.08 66.04 0)
+		(property "Description" "Resistor"
+			(at 205.74 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5798,8 +5634,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 132.08 66.04 0)
+		(property "Mfg Part #" "WR04X2202FTL"
+			(at 205.74 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5809,8 +5645,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 66.04 0)
+		(property "URL" "https://www.digikey.pl/en/products/detail/walsin-technology-corporation/WR04X2202FTL/13241328"
+			(at 205.74 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5821,12 +5657,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "7857f5f8-eb1c-457b-b0a5-7f87e8a7e7fb")
+			(uuid "e6eb183f-5436-4350-b9b7-a891bcdd3467")
+		)
+		(pin "2"
+			(uuid "82e9582c-f5b4-47ad-a093-510f9e789448")
 		)
 		(instances
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "#PWR065")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -6202,6 +6041,107 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 224.79 36.83 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1523683f-c5e0-46ca-82cc-48e7dd3edb74")
+		(property "Reference" "R72"
+			(at 222.758 36.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 227.076 36.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 226.568 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RNCP.pdf"
+			(at 224.79 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 224.79 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "RNCP0402FTD1K00"
+			(at 224.79 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RNCP0402FTD1K00/6273058"
+			(at 224.79 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b402f7cb-cea3-445e-b299-30cdcc17c0d4")
+		)
+		(pin "2"
+			(uuid "17d16400-2376-4b93-bea2-e850786b7925")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "R72")
 					(unit 1)
 				)
 			)
@@ -6800,9 +6740,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "28f78ddd-36c7-4184-b187-dedbab982b1a")
+		(uuid "271db91b-badd-4c19-8bbb-35a6c9f9db14")
 		(property "Reference" "R50"
-			(at 162.814 121.92 0)
+			(at 162.433 122.174 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6812,8 +6752,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 162.814 124.46 0)
+		(property "Value" "100k"
+			(at 162.56 124.206 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6834,7 +6774,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6845,7 +6785,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100K OHM 1% 1/16W 0402"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6856,7 +6796,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "RMCF0402FT10K0"
+		(property "Mfg Part #" "RT0402FRE13100KL"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6867,7 +6807,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402FRE13100KL/17018094"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6879,10 +6819,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "06f4f8df-4bc7-40c6-999a-d42507e44df9")
+			(uuid "81a33331-e972-4e58-ab38-c955b0206b37")
 		)
 		(pin "2"
-			(uuid "8f5783f8-8e46-4d1e-b1f9-7770e07feac7")
+			(uuid "8f69e97a-60a5-4e85-9099-4ff5a3817ab7")
 		)
 		(instances
 			(project "RS"
@@ -7088,7 +7028,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 179.07 35.56 0)
+		(at 179.07 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7098,7 +7038,7 @@
 		(dnp no)
 		(uuid "3108a8f0-1ceb-424f-b9e1-4db319c9f837")
 		(property "Reference" "#PWR059"
-			(at 179.07 39.37 0)
+			(at 179.07 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7109,7 +7049,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 178.562 32.004 0)
+			(at 178.562 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7119,7 +7059,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 35.56 0)
+			(at 179.07 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7130,7 +7070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 35.56 0)
+			(at 179.07 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7141,7 +7081,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 179.07 35.56 0)
+			(at 179.07 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7570,108 +7510,6 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 214.63 50.8 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3f8b4fc2-8758-4fe0-9f30-d9a2713405c5")
-		(property "Reference" "R37"
-			(at 216.408 48.514 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.8k 0.5W"
-			(at 214.63 53.086 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 214.63 52.578 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.koaspeer.com/pdfs/SG73P.pdf"
-			(at 214.63 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 214.63 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "SG73P1JTTD182J"
-			(at 214.63 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/koa-speer-electronics-inc/SG73P1JTTD182J/10189924"
-			(at 214.63 50.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f3b5b4c1-8830-4268-9da3-42f525a0f340")
-		)
-		(pin "2"
-			(uuid "462e0c29-d577-4669-8061-aa53fd60593c")
-		)
-		(instances
-			(project "RS"
-				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -8315,7 +8153,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "100k"
 			(at 154.686 61.214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8337,7 +8175,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
+		(property "Datasheet" ""
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8359,7 +8197,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "RT0402FRE1347KL"
+		(property "Mfg Part #" ""
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8370,7 +8208,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402FRE1347KL/17017194"
+		(property "URL" ""
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8500,6 +8338,137 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC817")
+		(at 222.25 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5a4e0b78-32dd-4dfa-aa99-71b8715c20bf")
+		(property "Reference" "Q16"
+			(at 226.314 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC817"
+			(at 226.314 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 227.33 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6778/BC817-40%20SOT-23.PDF"
+			(at 222.25 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
+			(at 222.25 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 222.25 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 222.25 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "BC817-40"
+			(at 222.25 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/BC817-40/21853063"
+			(at 222.25 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ae443dc5-1bfc-41f1-adb0-e104d1374e4d")
+		)
+		(pin "1"
+			(uuid "0c3a6ac0-cbc8-4d4a-a487-2e7ad9e026d9")
+		)
+		(pin "3"
+			(uuid "8b51b265-2cb7-4210-8e49-441461058997")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "Q16")
 					(unit 1)
 				)
 			)
@@ -8846,6 +8815,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 224.79 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "709bdca6-377e-455d-8126-0b00bfe547af")
+		(property "Reference" "#PWR070"
+			(at 224.79 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 224.282 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 224.79 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4e53540a-8e1c-4055-af1f-83b2bfe07748")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 215.9 135.89 0)
 		(unit 1)
@@ -9029,7 +9075,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 153.67 38.1 0)
+		(at 153.67 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9039,7 +9085,7 @@
 		(dnp no)
 		(uuid "79e7564e-d174-48b4-abfb-bd901de1f36c")
 		(property "Reference" "#PWR061"
-			(at 153.67 41.91 0)
+			(at 153.67 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9050,7 +9096,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 153.162 34.29 0)
+			(at 153.162 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9060,7 +9106,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 38.1 0)
+			(at 153.67 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9071,7 +9117,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 38.1 0)
+			(at 153.67 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9082,7 +9128,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 153.67 38.1 0)
+			(at 153.67 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9099,6 +9145,83 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 137.16 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7c52e7af-37ce-46c4-b893-e9147a5d8882")
+		(property "Reference" "#PWR065"
+			(at 137.16 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 136.652 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 137.16 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "28d658c5-720d-4da1-a763-f61891a57fd8")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -9709,8 +9832,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 248.92 123.19 0)
+		(lib_id "Transistor_BJT:BC817")
+		(at 134.62 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9718,9 +9841,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "96c53ab5-3ced-4fe8-b4b4-3891e5c5448c")
-		(property "Reference" "R51"
-			(at 250.444 121.92 0)
+		(uuid "93c44451-8dec-436e-8036-3449b014363b")
+		(property "Reference" "Q15"
+			(at 138.684 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9730,8 +9853,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 250.444 124.46 0)
+		(property "Value" "BC817"
+			(at 138.684 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9741,8 +9864,33 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 247.142 123.19 90)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 139.7 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6778/BC817-40%20SOT-23.PDF"
+			(at 134.62 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
+			(at 134.62 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9752,8 +9900,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
-			(at 248.92 123.19 0)
+		(property "Sim.Device" "NPN"
+			(at 134.62 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9763,8 +9911,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 248.92 123.19 0)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 134.62 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9774,8 +9922,8 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "RMCF0402FT10K0"
-			(at 248.92 123.19 0)
+		(property "Mfg Part #" "BC817-40"
+			(at 134.62 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9785,8 +9933,8 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RMCF0402FT10K0/1761433"
-			(at 248.92 123.19 0)
+		(property "URL" "https://www.digikey.pl/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/BC817-40/21853063"
+			(at 134.62 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9795,17 +9943,20 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "1"
-			(uuid "13b85b26-77b6-466c-88d8-2a9e3550c63f")
 		)
 		(pin "2"
-			(uuid "8180a03f-f88a-474a-a01d-4a2685448428")
+			(uuid "e8bc24d7-fc30-4351-a06e-4f4cbc095004")
+		)
+		(pin "1"
+			(uuid "6a202f89-1b34-40be-86ba-db0c17ca19bf")
+		)
+		(pin "3"
+			(uuid "eeca847b-9f62-4360-80b7-c18f4a98d5ac")
 		)
 		(instances
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "R51")
+					(reference "Q15")
 					(unit 1)
 				)
 			)
@@ -10004,131 +10155,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4002")
-		(at 220.98 60.96 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "996ee4cc-daf2-4d45-911a-f3579e31e272")
-		(property "Reference" "D10"
-			(at 219.456 59.944 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 219.456 61.976 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 216.535 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8932/1N4148%20SOD-723.pdf"
-			(at 220.98 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 1A General Purpose Rectifier Diode, DO-41"
-			(at 220.98 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 220.98 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 220.98 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "1N4148W"
-			(at 220.98 60.96 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/1N4148W/21853071"
-			(at 220.98 60.96 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9543f1b6-efed-4bcb-995e-bd8dc7a91c59")
-		)
-		(pin "2"
-			(uuid "67df12ce-354f-4cf5-b08e-c0170ff94473")
-		)
-		(instances
-			(project "RS"
-				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 153.67 66.04 0)
 		(unit 1)
@@ -10202,6 +10228,107 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 137.16 36.83 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9dbcfdec-32c0-4117-8ecd-78324971d350")
+		(property "Reference" "R71"
+			(at 135.128 36.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 139.446 36.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 138.938 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RNCP.pdf"
+			(at 137.16 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 137.16 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "RNCP0402FTD1K00"
+			(at 137.16 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RNCP0402FTD1K00/6273058"
+			(at 137.16 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3793e4a1-c328-4418-b0e0-05df7f0f0910")
+		)
+		(pin "2"
+			(uuid "442626bc-3ac0-485f-9fad-2c6df6c2e654")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -10479,6 +10606,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 248.92 123.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a0ffab05-bf8e-4df6-b0c4-0e3bd2a9d41b")
+		(property "Reference" "R51"
+			(at 250.063 122.174 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 250.19 124.206 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 247.142 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
+			(at 248.92 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RES 100K OHM 1% 1/16W 0402"
+			(at 248.92 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "RT0402FRE13100KL"
+			(at 248.92 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402FRE13100KL/17018094"
+			(at 248.92 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8ffb965d-08b9-45c2-9f3c-60de2434c93f")
+		)
+		(pin "2"
+			(uuid "3ef21560-b330-47d9-819e-d7da1f177c52")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "R51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 232.41 135.89 0)
 		(unit 1)
@@ -10636,7 +10866,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 241.3 38.1 0)
+		(at 241.3 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10646,7 +10876,7 @@
 		(dnp no)
 		(uuid "aa1c287e-1e46-43f1-8068-1d6ecfcf4419")
 		(property "Reference" "#PWR062"
-			(at 241.3 41.91 0)
+			(at 241.3 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10657,7 +10887,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 240.792 34.29 0)
+			(at 240.792 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10667,7 +10897,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 38.1 0)
+			(at 241.3 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10678,7 +10908,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 38.1 0)
+			(at 241.3 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10689,7 +10919,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 241.3 38.1 0)
+			(at 241.3 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11097,109 +11327,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Zener")
-		(at 137.16 99.06 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b7127ca5-d2f7-4fb1-83bd-55f953581680")
-		(property "Reference" "D11"
-			(at 138.684 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "10V"
-			(at 138.684 99.314 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 137.16 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6778/5399_BZT52B10S%20SOD-323.PDF"
-			(at 137.16 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Zener diode"
-			(at 137.16 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "BZT52B10S"
-			(at 137.16 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/BZT52B10S/25880291"
-			(at 137.16 99.06 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "763e91a1-088d-42ae-bc77-31b306e1849a")
-		)
-		(pin "2"
-			(uuid "4bab5be1-854e-4820-9df5-4490f8a365e7")
-		)
-		(instances
-			(project "RS"
-				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 261.62 101.6 0)
 		(unit 1)
@@ -11538,8 +11665,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4002")
-		(at 132.08 60.96 270)
+		(lib_id "Device:D_Schottky")
+		(at 125.73 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11549,29 +11676,17 @@
 		(dnp no)
 		(uuid "c2aeb867-0a3c-41d6-9ca9-d1341c45b2e9")
 		(property "Reference" "D9"
-			(at 130.556 59.944 90)
+			(at 125.73 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
-			(at 130.556 61.976 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 127.635 60.96 0)
+		(property "Value" "D_Schottky"
+			(at 125.73 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11581,8 +11696,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8932/1N4148%20SOD-723.pdf"
-			(at 132.08 60.96 0)
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11592,8 +11707,19 @@
 				)
 			)
 		)
-		(property "Description" "100V 1A General Purpose Rectifier Diode, DO-41"
-			(at 132.08 60.96 0)
+		(property "Datasheet" "https://www.comchiptech.com/upload/file/product/product/QW-G1134%20CDBQC0130R-HF%20RevA%20(%E6%8A%BD%E6%8F%9B)%20-20210721.pdf"
+			(at 125.73 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11604,7 +11730,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 132.08 60.96 0)
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11615,7 +11741,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 132.08 60.96 0)
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11625,8 +11751,8 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "1N4148W"
-			(at 132.08 60.96 90)
+		(property "Mfg Part #" "CDBQC0130R-HF"
+			(at 125.73 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11636,8 +11762,8 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/1N4148W/21853071"
-			(at 132.08 60.96 90)
+		(property "URL" "https://www.digikey.pl/en/products/detail/comchip-technology/CDBQC0130R-HF/16276443"
+			(at 125.73 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11775,7 +11901,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "c4d95dbf-724b-4319-bca6-f9de85581e3f")
+		(uuid "c2ce0a67-d962-49fc-881c-ae52d7a7e3cc")
 		(property "Reference" "R41"
 			(at 242.316 60.96 0)
 			(show_name no)
@@ -11787,7 +11913,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "100k"
 			(at 242.316 61.214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11809,7 +11935,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
+		(property "Datasheet" ""
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11831,7 +11957,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "RT0402FRE1347KL"
+		(property "Mfg Part #" ""
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11842,7 +11968,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402FRE1347KL/17017194"
+		(property "URL" ""
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11854,10 +11980,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a554867a-06f0-43ff-96c6-4498711bd9c4")
+			(uuid "10dc18f7-758a-4de5-bb3e-68d49469be22")
 		)
 		(pin "2"
-			(uuid "e8cf4999-699a-490a-905b-6b09e3d388de")
+			(uuid "3311eeae-a2d8-46ee-8693-38c8a7b6322b")
 		)
 		(instances
 			(project "RS"
@@ -11973,7 +12099,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 125.73 50.8 90)
+		(at 118.11 45.72 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11983,7 +12109,7 @@
 		(dnp no)
 		(uuid "c7a1976c-8f43-49ef-85f7-2bed5f47c3b8")
 		(property "Reference" "R36"
-			(at 127.508 48.514 90)
+			(at 119.888 43.434 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11993,8 +12119,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.8k 0.5W"
-			(at 125.73 53.086 90)
+		(property "Value" "22k"
+			(at 118.11 48.006 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12003,8 +12129,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 125.73 52.578 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 118.11 47.498 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12014,8 +12140,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.koaspeer.com/pdfs/SG73P.pdf"
-			(at 125.73 50.8 0)
+		(property "Datasheet" "https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf"
+			(at 118.11 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12026,7 +12152,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 125.73 50.8 0)
+			(at 118.11 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12036,8 +12162,8 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "SG73P1JTTD182J"
-			(at 125.73 50.8 0)
+		(property "Mfg Part #" "WR04X2202FTL"
+			(at 118.11 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12047,8 +12173,8 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/koa-speer-electronics-inc/SG73P1JTTD182J/10189924"
-			(at 125.73 50.8 90)
+		(property "URL" "https://www.digikey.pl/en/products/detail/walsin-technology-corporation/WR04X2202FTL/13241328"
+			(at 118.11 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12183,109 +12309,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 167.64 55.88 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ca411b26-25fe-494f-8a09-2a48ce3276b7")
-		(property "Reference" "R38"
-			(at 167.64 54.61 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Value" "1k"
-			(at 167.64 57.404 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 167.64 57.658 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RNCP.pdf"
-			(at 167.64 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 167.64 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "RNCP0402FTD1K00"
-			(at 167.64 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RNCP0402FTD1K00/6273058"
-			(at 167.64 55.88 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "790f02eb-89e9-4e70-852a-e63381c465c9")
-		)
-		(pin "2"
-			(uuid "60aae331-a25c-4791-9b62-e9d931009f6b")
-		)
-		(instances
-			(project "RS"
-				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "R38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 161.29 60.96 0)
 		(unit 1)
@@ -12383,85 +12406,6 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 220.98 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cf21b904-a231-4297-9a74-89595a5ca4c8")
-		(property "Reference" "#PWR070"
-			(at 220.98 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 220.98 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 220.98 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d3853273-d3c1-4501-829a-619aaba33210")
-		)
-		(instances
-			(project "RS"
-				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -12588,8 +12532,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Zener")
-		(at 224.79 99.06 270)
+		(lib_id "Device:R")
+		(at 255.27 55.88 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12597,31 +12541,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "d5b473c8-ec74-4f98-9347-36eceddfb714")
-		(property "Reference" "D12"
-			(at 226.314 99.06 90)
+		(uuid "d93e9212-7a10-4366-99b4-c8b3469c119d")
+		(property "Reference" "R39"
+			(at 257.302 53.848 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
-		(property "Value" "10V"
-			(at 226.314 99.314 90)
+		(property "Value" "4k7"
+			(at 257.556 58.166 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 224.79 99.06 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 255.27 57.658 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12631,8 +12575,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6778/5399_BZT52B10S%20SOD-323.PDF"
-			(at 224.79 99.06 0)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 255.27 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12642,8 +12586,8 @@
 				)
 			)
 		)
-		(property "Description" "Zener diode"
-			(at 224.79 99.06 0)
+		(property "Description" "Resistor"
+			(at 255.27 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12653,8 +12597,8 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "BZT52B10S"
-			(at 224.79 99.06 0)
+		(property "Mfg Part #" "RC0402FR-074K7L"
+			(at 255.27 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12664,8 +12608,8 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/BZT52B10S/25880291"
-			(at 224.79 99.06 90)
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RC0402FR-074K7L/2827563"
+			(at 255.27 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12676,15 +12620,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "79a5c562-6792-4bed-8e30-f8d76293c5b7")
+			(uuid "9bfd78b0-c9b2-413a-b00e-e89dabaa1812")
 		)
 		(pin "2"
-			(uuid "cd15d93c-43dc-4d83-a4d6-56285aa2f578")
+			(uuid "a8eba553-0504-4f91-98dd-ee41fc01ef16")
 		)
 		(instances
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "D12")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -12764,109 +12708,6 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "#PWR066")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 255.27 55.88 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e14babb6-4e92-42a5-affa-228ae5419c17")
-		(property "Reference" "R39"
-			(at 255.27 54.61 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Value" "1k"
-			(at 255.27 57.404 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 255.27 57.658 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RNCP.pdf"
-			(at 255.27 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 255.27 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfg Part #" "RNCP0402FTD1K00"
-			(at 255.27 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/stackpole-electronics-inc/RNCP0402FTD1K00/6273058"
-			(at 255.27 55.88 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0fa1f4ef-ce04-418e-b757-62ff1fc6a489")
-		)
-		(pin "2"
-			(uuid "29b13006-c8c6-41c4-b315-27000e0d7911")
-		)
-		(instances
-			(project "RS"
-				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
-					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -12968,6 +12809,109 @@
 			(project "RS"
 				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
 					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 167.64 55.88 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e36db063-291e-4b94-af93-56aec37faf25")
+		(property "Reference" "R38"
+			(at 169.672 53.848 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4k7"
+			(at 169.926 58.166 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 167.64 57.658 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 167.64 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 167.64 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "RC0402FR-074K7L"
+			(at 167.64 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RC0402FR-074K7L/2827563"
+			(at 167.64 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3072be6-6ce3-46de-9195-264d06109c3a")
+		)
+		(pin "2"
+			(uuid "a18f80c4-ddd1-43f8-af15-4d4b28f0dda7")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -13257,8 +13201,132 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 213.36 45.72 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ecdf93b6-5ba6-4b01-80b5-fdfe850f01f4")
+		(property "Reference" "D10"
+			(at 213.36 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 213.36 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+			(at 213.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.comchiptech.com/upload/file/product/product/QW-G1134%20CDBQC0130R-HF%20RevA%20(%E6%8A%BD%E6%8F%9B)%20-20210721.pdf"
+			(at 213.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 213.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 213.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 213.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "CDBQC0130R-HF"
+			(at 213.36 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/comchip-technology/CDBQC0130R-HF/16276443"
+			(at 213.36 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c1964b45-d421-4e15-ab96-72bd79a78c0b")
+		)
+		(pin "2"
+			(uuid "63315c31-524c-41d7-9fc0-96229b9c0c98")
+		)
+		(instances
+			(project "RS"
+				(path "/a21124d1-8ea8-4421-8e4d-02bbe16d07ed"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
-		(at 266.7 35.56 0)
+		(at 266.7 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13268,7 +13336,7 @@
 		(dnp no)
 		(uuid "f0907c24-c428-4d29-85aa-592bba2200e8")
 		(property "Reference" "#PWR060"
-			(at 266.7 39.37 0)
+			(at 266.7 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13279,7 +13347,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 266.192 32.004 0)
+			(at 266.192 29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13289,7 +13357,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 35.56 0)
+			(at 266.7 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13300,7 +13368,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 35.56 0)
+			(at 266.7 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13311,7 +13379,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 266.7 35.56 0)
+			(at 266.7 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

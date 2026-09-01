@@ -23422,7 +23422,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "CodeDog:D_SMA"
+		(property "Footprint" "Diode_SMD:D_MiniMELF_Handsoldering"
 			(at 53.34 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -23455,7 +23455,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" "Z1SMA1"
+		(property "Mfg Part #" "ZMD1"
 			(at 53.34 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -23466,7 +23466,7 @@
 				)
 			)
 		)
-		(property "URL" "https://www.digikey.pl/en/products/detail/diotec-semiconductor/Z1SMA1/22190012"
+		(property "URL" "https://www.digikey.pl/en/products/detail/diotec-semiconductor/ZMD1/22190996"
 			(at 53.34 161.29 0)
 			(hide yes)
 			(show_name no)

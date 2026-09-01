@@ -1,0 +1,265 @@
+(footprint "D_MiniMELF_Handsoldering"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Diode Mini-MELF (SOD-80, LL-34) Handsoldering")
+	(tags "LL34")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "480216dd-f092-4bf2-aa09-bcb51b6b4964")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_MiniMELF_Handsoldering"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(uuid "13c1a36a-0657-4bb4-8b56-28f421cf105b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87c4d71b-85d8-42e9-8c31-1e52927099c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a6f72e0-345b-49b2-9f60-0030667df528")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.66 -1.11)
+		(end -4.66 1.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5087672-4131-4f58-a3b2-605160b6bd75")
+	)
+	(fp_line
+		(start -4.66 1.11)
+		(end 2.75 1.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a49e16e7-5d19-41bd-aaba-aa97da0f56d2")
+	)
+	(fp_line
+		(start 2.75 -1.11)
+		(end -4.66 -1.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e00dfbd-aec9-4bff-a920-1276e4814a77")
+	)
+	(fp_line
+		(start -4.65 -1.1)
+		(end 4.65 -1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3f84a72a-3f95-47a3-a65c-d269820d6923")
+	)
+	(fp_line
+		(start -4.65 1.1)
+		(end -4.65 -1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "eff55b75-f66c-41e4-8dc8-55c98e4285b9")
+	)
+	(fp_line
+		(start 4.65 -1.1)
+		(end 4.65 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "89514052-8908-440e-8116-7c9f26edbe19")
+	)
+	(fp_line
+		(start 4.65 1.1)
+		(end -4.65 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ca2acd55-3d79-41d2-a3a7-397cacbd3395")
+	)
+	(fp_line
+		(start -1.65 -0.8)
+		(end 1.65 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "903afb5f-436b-4cfa-92aa-e3a9ca9e6a42")
+	)
+	(fp_line
+		(start -1.65 0.8)
+		(end -1.65 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "11806d71-27be-4a7a-87eb-2bdb59803fe0")
+	)
+	(fp_line
+		(start -0.75 0)
+		(end -0.35 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7d5cd64f-d290-430b-a7ed-4d072ad635eb")
+	)
+	(fp_line
+		(start -0.35 0)
+		(end -0.35 -0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8e6d4907-05c2-4984-9a99-375c7fd67af3")
+	)
+	(fp_line
+		(start -0.35 0)
+		(end -0.35 0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eea7fcc7-8544-427d-a00c-7e89cdf33100")
+	)
+	(fp_line
+		(start -0.35 0)
+		(end 0.25 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ec29cab-0931-49be-845a-8b41715ba9be")
+	)
+	(fp_line
+		(start 0.25 -0.4)
+		(end 0.25 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "54f095bb-7d97-4aee-8b73-b6c4d8fca832")
+	)
+	(fp_line
+		(start 0.25 0)
+		(end 0.75 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8eebe3d8-f240-464b-8c30-0c58472045cf")
+	)
+	(fp_line
+		(start 0.25 0.4)
+		(end -0.35 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b37253c9-8932-4619-80e9-43b6b57ec233")
+	)
+	(fp_line
+		(start 1.65 -0.8)
+		(end 1.65 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d97da9e8-8889-4208-9442-d8a0b0346d25")
+	)
+	(fp_line
+		(start 1.65 0.8)
+		(end -1.65 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "81fee31f-0861-49b9-9cd2-a32ff8d9a60f")
+	)
+	(pad "1" smd roundrect
+		(at -2.75 0)
+		(size 3.3 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1470588235)
+		(uuid "1ea48776-6b3b-4315-98d9-1aed8f8aa8cd")
+	)
+	(pad "2" smd roundrect
+		(at 2.75 0)
+		(size 3.3 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1470588235)
+		(uuid "ff2fc95e-fd3f-4d3b-8acb-6cf91fabfd3e")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MiniMELF.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
