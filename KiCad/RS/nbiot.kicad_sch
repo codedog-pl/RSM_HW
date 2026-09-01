@@ -6347,6 +6347,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03792e02-9c50-4ec0-a849-bcab11c94dda")
+		(property "UUID" "48877e66-56e0-49cf-91ec-d98710e2b09c"
+			(at 64.77 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "Q9"
 			(at 68.834 85.09 0)
 			(show_name no)
@@ -6478,6 +6489,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0b545933-e512-4c37-95a7-91b2db365c0d")
+		(property "UUID" "96ce1a2f-0f78-4efc-8fc3-8410a3c7f8c2"
+			(at 63.5 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0121"
 			(at 63.5 137.16 0)
 			(hide yes)
@@ -6556,6 +6578,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11c36d75-cf67-49af-87dc-88a2eaa49e3c")
+		(property "UUID" "45a313c5-fe32-463d-8890-b01fc7bb1a29"
+			(at 55.88 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "L3"
 			(at 53.594 40.386 90)
 			(show_name no)
@@ -6659,6 +6692,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "146d1fc8-0d39-42cd-94b6-fd888e3c586f")
+		(property "UUID" "1a69015d-f926-4bd6-ab8c-b0d6c0973b26"
+			(at 72.39 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C32"
 			(at 71.882 56.642 90)
 			(show_name no)
@@ -6762,6 +6806,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "15c82215-b148-4638-8b43-60e131419759")
+		(property "UUID" "822b76bf-4ced-4d41-945f-00767f745b14"
+			(at 52.07 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R67"
 			(at 52.07 152.4 90)
 			(show_name no)
@@ -6866,6 +6921,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "176fcfdf-afb7-40e4-9fe2-73d1c504fa17")
+		(property "UUID" "e837d7e9-eb63-4d99-ad7e-c03cde892e71"
+			(at 60.96 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0100"
 			(at 60.96 71.12 0)
 			(hide yes)
@@ -6945,6 +7011,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17c27cae-aac3-42bf-9010-426d87c584c2")
+		(property "UUID" "a468af69-ed5e-4871-8a38-028524199331"
+			(at 187.96 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0119"
 			(at 187.96 128.27 0)
 			(hide yes)
@@ -7023,6 +7100,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "184fa170-baf1-4987-894d-c27ce84dcea6")
+		(property "UUID" "a20086d0-6991-439a-8c53-052324fc6bb9"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C29"
 			(at 55.372 56.642 90)
 			(show_name no)
@@ -7126,6 +7214,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18d0612b-b33f-4210-93b4-2229cc81b91e")
+		(property "UUID" "4fc6c3f1-58fe-4cb3-a6fe-b8ef0db7a856"
+			(at 49.53 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R61"
 			(at 47.498 107.95 90)
 			(show_name no)
@@ -7228,6 +7327,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b3a4d9f-9774-4da8-a4ba-6c6a5d0ea638")
+		(property "UUID" "221fc27a-1956-4677-9f6f-aeef9aae5e6e"
+			(at 114.3 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0129"
 			(at 114.3 170.18 0)
 			(hide yes)
@@ -7307,6 +7417,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c307835-5e48-4bb3-b751-b4366a36b960")
+		(property "UUID" "c54b4867-3957-48d0-9495-03e7a0bf57b7"
+			(at 220.98 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR094"
 			(at 220.98 52.07 0)
 			(hide yes)
@@ -7386,6 +7507,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1efc0841-96f3-4750-97d3-ea8e8d11c5b0")
+		(property "UUID" "5e0820af-fb66-415d-a003-10936dc8775c"
+			(at 95.25 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0106"
 			(at 95.25 71.12 0)
 			(hide yes)
@@ -7464,6 +7596,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20f18fb0-61c6-43ff-8a74-d40754e9803e")
+		(property "UUID" "607a9ffb-e46b-45ab-9dd0-7f07bcaf8811"
+			(at 90.17 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C35"
 			(at 89.662 56.642 90)
 			(show_name no)
@@ -7567,6 +7710,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2193ed79-a3d2-4ba2-80ab-702025291726")
+		(property "UUID" "ad4dc662-e1c3-4920-be49-2924a746ca5b"
+			(at 177.8 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "J7"
 			(at 184.15 50.7999 90)
 			(show_name no)
@@ -7672,6 +7826,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22f9432d-1c15-444f-a447-2b2cb27276b1")
+		(property "UUID" "4bdde8c0-aa17-4b04-8ee2-3f57ac25f725"
+			(at 72.39 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0102"
 			(at 72.39 71.12 0)
 			(hide yes)
@@ -7750,6 +7915,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24674286-f78f-400a-b2e1-f5e0e3a0a84c")
+		(property "UUID" "874a0a27-0819-49f7-a4d0-fd8a216e258c"
+			(at 226.06 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "U9"
 			(at 226.568 63.5 0)
 			(show_name no)
@@ -7875,6 +8051,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "259d30c8-0ce8-4618-9861-6e848442998a")
+		(property "UUID" "c4043be8-c4c5-455c-b6a9-35a372d5a9aa"
+			(at 19.05 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR096"
 			(at 19.05 57.15 0)
 			(hide yes)
@@ -7954,6 +8141,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2851130b-aa8d-4f7c-81df-76789bbe1c7d")
+		(property "UUID" "9bb26b3d-3c5e-4717-84ee-cf1bbe930be7"
+			(at 172.72 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0118"
 			(at 172.72 128.27 0)
 			(hide yes)
@@ -8032,6 +8230,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2fec1981-478c-4bf2-a129-82594f081475")
+		(property "UUID" "510ff453-98c7-4606-b835-1d043bf75a4b"
+			(at 148.59 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "U10"
 			(at 141.986 94.488 0)
 			(show_name no)
@@ -8284,6 +8493,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "307cc997-543d-421e-b2d7-88423dfd4349")
+		(property "UUID" "f2819430-29ce-4dc4-a5e1-ce4074dd9b2e"
+			(at 187.96 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0124"
 			(at 187.96 142.24 0)
 			(hide yes)
@@ -8361,6 +8581,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33853fb7-36dc-4dca-ba64-2c6ba6923b2e")
+		(property "UUID" "4db21a40-57ac-45f0-8ac4-f4834601280f"
+			(at 60.96 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C30"
 			(at 60.452 56.642 90)
 			(show_name no)
@@ -8464,6 +8695,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "344e4e19-7d90-4aba-83b5-b16ea486e996")
+		(property "UUID" "0307b32f-873d-46cd-b05a-b263aeea5962"
+			(at 49.53 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R55"
 			(at 48.26 36.83 90)
 			(show_name no)
@@ -8578,6 +8820,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34a6ab04-3898-4ed8-9a43-eed3b56ffe15")
+		(property "UUID" "4b7ddb8b-35c6-450d-a551-f45877c45eeb"
+			(at 63.5 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R63"
 			(at 65.786 144.78 90)
 			(show_name no)
@@ -8679,6 +8932,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35a4f651-14d8-4719-abcb-acf19eda2f5a")
+		(property "UUID" "782578dc-1404-40c9-b7a7-3a032b280a77"
+			(at 38.1 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R60"
 			(at 40.132 89.408 90)
 			(show_name no)
@@ -8782,6 +9046,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35de2fae-6d38-4a39-856b-2ceb144ed149")
+		(property "UUID" "15a45c2f-cdf0-4f15-b792-6461c15d3917"
+			(at 19.05 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR093"
 			(at 19.05 25.4 0)
 			(hide yes)
@@ -8859,6 +9134,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "363efc20-e6d1-4903-9804-c811338517c3")
+		(property "UUID" "58ff9971-37b9-4bf4-a752-32300f936261"
+			(at 220.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C27"
 			(at 220.472 41.402 90)
 			(show_name no)
@@ -8963,6 +9249,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "379404c8-2a56-4a4a-bbcb-7461b7e61763")
+		(property "UUID" "8cac42b8-5c71-4092-8760-3f1f8216a721"
+			(at 72.39 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#FLG04"
 			(at 72.39 46.355 0)
 			(hide yes)
@@ -9042,6 +9339,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37e7a6b9-4dda-482b-b9a2-3f922041c87f")
+		(property "UUID" "b5840cb4-7e87-469a-bc32-7b62924da616"
+			(at 242.57 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR095"
 			(at 242.57 52.07 0)
 			(hide yes)
@@ -9120,6 +9428,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a593fa6-5278-4d03-b6bb-48b22f36f3d0")
+		(property "UUID" "02cd82aa-e46d-49f9-bcbf-cb4a2ba50c54"
+			(at 203.2 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "U11"
 			(at 194.31 154.94 0)
 			(show_name no)
@@ -9232,6 +9551,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b9da759-2c14-4ced-aafc-596323b40df6")
+		(property "UUID" "ca318969-7fa2-4d4d-8c1c-238efb4c639a"
+			(at 67.31 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0113"
 			(at 67.31 102.87 0)
 			(hide yes)
@@ -9311,6 +9641,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d3123f3-3f22-4dc7-b3ca-dac054d82134")
+		(property "UUID" "02370d81-49ce-4aec-9cf2-a3d1c59e1597"
+			(at 139.7 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0107"
 			(at 139.7 71.12 0)
 			(hide yes)
@@ -9390,6 +9731,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fe07dfd-8650-40e9-8589-5b5c4afbb974")
+		(property "UUID" "7481f0e6-2413-4fae-86bf-cc03a664f700"
+			(at 90.17 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0105"
 			(at 90.17 71.12 0)
 			(hide yes)
@@ -9468,6 +9820,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "42f3d0e6-f48a-4cda-8370-c15e2a6fa280")
+		(property "UUID" "4893e8c8-fdc3-4682-ad43-1517cc457e8a"
+			(at 78.74 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C33"
 			(at 78.232 56.642 90)
 			(show_name no)
@@ -9571,6 +9934,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45c275f6-51bf-45b4-9e84-d2908a2bb888")
+		(property "UUID" "d853cfa0-55e4-46f1-b19f-3726e9c3f032"
+			(at 242.57 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C28"
 			(at 242.062 41.402 90)
 			(show_name no)
@@ -9674,6 +10048,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45ffa284-8acd-4037-86ce-744d3173cacc")
+		(property "UUID" "7b8b2b8c-206b-42e7-b84e-e00ea8747152"
+			(at 111.76 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "Q13"
 			(at 115.824 152.4 0)
 			(show_name no)
@@ -9805,6 +10190,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b29c7a1-1740-4c70-ae01-27db76e43c24")
+		(property "UUID" "0b03ec79-866f-47fa-8adc-239c1220a7de"
+			(at 114.3 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "D18"
 			(at 111.76 135.382 0)
 			(show_name no)
@@ -9920,6 +10316,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e879275-9bd3-41f7-b399-052a379856e3")
+		(property "UUID" "6e040121-3880-47cc-9ea7-9b48d29cc100"
+			(at 97.79 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0114"
 			(at 97.79 128.27 0)
 			(hide yes)
@@ -9998,6 +10405,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50b1eb19-f3ae-4b73-9fb3-4f0e91b14824")
+		(property "UUID" "6f9cef16-cff3-4fa8-a07e-2bbd6649dc72"
+			(at 19.05 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R54"
 			(at 17.78 25.4 90)
 			(show_name no)
@@ -10101,6 +10519,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52e50c41-9496-40f0-af98-22118cddb333")
+		(property "UUID" "d8e3ab24-409c-4216-b9c6-bdebfe1003a1"
+			(at 187.96 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0125"
 			(at 187.96 166.37 0)
 			(hide yes)
@@ -10180,6 +10609,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bce28f6-cc9f-4892-af65-b4e7aa683b0b")
+		(property "UUID" "0c7fb50a-dcd3-4679-aa79-79acd24067f9"
+			(at 102.87 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0116"
 			(at 102.87 128.27 0)
 			(hide yes)
@@ -10259,6 +10699,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63f8cc95-c305-439f-8f1f-a92c70ede770")
+		(property "UUID" "a5c9f551-a797-4239-b2bd-83a9bb482fc0"
+			(at 180.34 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR098"
 			(at 180.34 68.58 0)
 			(hide yes)
@@ -10337,6 +10788,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64c8ac23-1cc1-4fa9-a5e9-8dc3e1ddbbfb")
+		(property "UUID" "d8a3f18b-1aec-4ec3-b223-e1051369cd47"
+			(at 46.99 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "Q11"
 			(at 51.054 115.57 0)
 			(show_name no)
@@ -10469,6 +10931,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65ccf43a-020a-44e9-8492-3e4c266b8c1e")
+		(property "UUID" "bf431453-0691-4632-a333-9ed1b9038fe1"
+			(at 67.31 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "L4"
 			(at 65.024 40.386 90)
 			(show_name no)
@@ -10573,6 +11046,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67e0a806-7cff-4700-ae2f-6a8f294e4d47")
+		(property "UUID" "20eef486-00ee-445b-9e06-4166b2a91b13"
+			(at 49.53 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0120"
 			(at 49.53 132.08 0)
 			(hide yes)
@@ -10651,6 +11135,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68952080-c358-4c4a-a0ce-e6fd111536d1")
+		(property "UUID" "a344da58-df28-432d-85cd-2033f0f7db48"
+			(at 153.67 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R69"
 			(at 153.67 152.4 90)
 			(show_name no)
@@ -10755,6 +11250,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "698a299f-e556-4291-971c-312f67f8bd42")
+		(property "UUID" "d66a89c4-a5fe-4b6d-bfe0-d1ea994acdf3"
+			(at 63.5 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0128"
 			(at 63.5 170.18 0)
 			(hide yes)
@@ -10833,6 +11339,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6c5d1fdc-1b58-4f21-a45b-11db8e21d283")
+		(property "UUID" "e05336d1-d90c-45fe-91c6-e52bec53e546"
+			(at 63.5 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "D17"
 			(at 61.722 137.16 0)
 			(show_name no)
@@ -10947,6 +11464,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "783e3538-0d32-4830-89e0-a7b8b18f1653")
+		(property "UUID" "09a8b7dc-6b23-4d07-9dc4-e6957dbf6963"
+			(at 60.96 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "Q12"
 			(at 65.024 152.4 0)
 			(show_name no)
@@ -11079,6 +11607,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b59f309-bf70-4ca6-a1f5-40a0b3fac9cc")
+		(property "UUID" "f3830ed4-3427-45cf-bade-10cb30a05361"
+			(at 34.29 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0131"
 			(at 34.29 57.15 0)
 			(hide yes)
@@ -11157,6 +11696,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7d898d1e-e8c1-436d-baee-8250dc68434f")
+		(property "UUID" "bc2eee2c-42c7-4ec9-82ca-277d2c735a59"
+			(at 49.53 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R56"
 			(at 48.26 46.99 90)
 			(show_name no)
@@ -11272,6 +11822,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7db126f6-bfd1-40c9-a689-57df8b656700")
+		(property "UUID" "01a79726-82c2-4706-ac42-34c163de7363"
+			(at 224.79 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C41"
 			(at 227.33 144.7862 0)
 			(show_name no)
@@ -11375,6 +11936,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8129c5b7-b55b-4a5b-a872-2c8fb60419bf")
+		(property "UUID" "93b58d5e-49d1-4a37-8539-f4623fdbbbf1"
+			(at 165.1 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "D19"
 			(at 162.56 135.382 0)
 			(show_name no)
@@ -11490,6 +12062,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81e04d90-de8a-4a26-ab01-6be19a135edd")
+		(property "UUID" "31a081e0-a1de-458e-a211-3affabe70500"
+			(at 218.44 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0126"
 			(at 218.44 166.37 0)
 			(hide yes)
@@ -11569,6 +12152,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81fac5b8-daa8-4072-8a2e-f4e762f64a73")
+		(property "UUID" "4f102ed5-f379-4199-990f-1e18568660dc"
+			(at 187.96 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "L8"
 			(at 189.23 93.9799 0)
 			(show_name no)
@@ -11673,6 +12267,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83e59069-ca33-4e3a-8731-530db509f07d")
+		(property "UUID" "e960225b-faa9-4c26-b7eb-18bee5199ffe"
+			(at 226.06 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0109"
 			(at 226.06 73.66 0)
 			(hide yes)
@@ -11752,6 +12357,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84b57e48-5f55-4d70-b93f-f8ae9c2a923e")
+		(property "UUID" "7d1b1695-7e5f-4ba2-a7fa-ae839fc8e1db"
+			(at 49.53 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR097"
 			(at 49.53 57.15 0)
 			(hide yes)
@@ -11831,6 +12447,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8846dccd-7397-4176-8770-2f83afc54bf0")
+		(property "UUID" "71a91c1b-c443-4b54-8d9c-05867763490f"
+			(at 180.34 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0111"
 			(at 180.34 91.44 0)
 			(hide yes)
@@ -11909,6 +12536,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ac6e0ec-96c8-405b-9041-7021347908a6")
+		(property "UUID" "b15ea327-51f7-45ee-94f6-ac8a8fb4e299"
+			(at 83.82 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C34"
 			(at 83.312 56.642 90)
 			(show_name no)
@@ -12012,6 +12650,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8cf1db3a-a597-4c3a-8e5e-2f34f91a905f")
+		(property "UUID" "57c66e25-9836-4ed1-a438-a633bc4f1403"
+			(at 95.25 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C36"
 			(at 94.742 56.642 90)
 			(show_name no)
@@ -12116,6 +12765,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f20811c-2fb8-4f18-a307-acfbb22e7233")
+		(property "UUID" "2b810680-ce1a-478d-b8bf-b28d7c552eb4"
+			(at 83.82 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#FLG05"
 			(at 83.82 46.355 0)
 			(hide yes)
@@ -12194,6 +12854,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "933a72c7-3173-406b-a75e-f45a55209aa8")
+		(property "UUID" "615bde3b-d4b9-42eb-b4d9-4b56df0dd5b7"
+			(at 101.6 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "U10"
 			(at 94.996 94.488 0)
 			(show_name no)
@@ -12446,6 +13117,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9361fe2d-ca7f-4f84-a7cf-9ed7f5726fca")
+		(property "UUID" "6c062791-b6e1-40e9-840d-978410e643c7"
+			(at 179.07 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C39"
 			(at 180.086 90.678 90)
 			(show_name no)
@@ -12550,6 +13232,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "970093e5-5d10-4b06-ad92-a471a8fac0b4")
+		(property "UUID" "f06f2f64-9135-47dd-a19d-8c49402e74c7"
+			(at 55.88 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR099"
 			(at 55.88 71.12 0)
 			(hide yes)
@@ -12628,6 +13321,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97c2e811-6e5f-40ca-9d04-765074fe467c")
+		(property "UUID" "ac09aeae-88ea-42d3-be61-adb229963053"
+			(at 46.99 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "Q10"
 			(at 51.054 90.17 0)
 			(show_name no)
@@ -12759,6 +13463,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ca72876-6139-4748-8ca1-240fabb53592")
+		(property "UUID" "6d6a977f-9c2d-4961-93cf-61565d90d217"
+			(at 38.1 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R62"
 			(at 40.132 114.808 90)
 			(show_name no)
@@ -12862,6 +13577,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d8f65e2-7869-45bc-874a-9094c471e770")
+		(property "UUID" "66dca71c-d826-4f7a-a17f-87d78cdee042"
+			(at 139.7 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C37"
 			(at 139.192 56.642 90)
 			(show_name no)
@@ -12965,6 +13691,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a5e82eac-88ea-4c0a-99be-a745c67fd577")
+		(property "UUID" "f1324ee2-0d2d-4bac-93ea-38ca3b15db7a"
+			(at 114.3 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0122"
 			(at 114.3 137.16 0)
 			(hide yes)
@@ -13043,6 +13780,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a830e19e-c62b-498d-b622-15689fad7cff")
+		(property "UUID" "8895d1ef-d97b-48c5-92b1-fe46607dd646"
+			(at 224.79 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0127"
 			(at 224.79 166.37 0)
 			(hide yes)
@@ -13121,6 +13869,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a88395d1-8c03-4dce-9ab8-83f0003a31a2")
+		(property "UUID" "ae5a1919-a266-4aa3-ac16-a7ff04662812"
+			(at 261.62 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "J8"
 			(at 264.414 67.818 0)
 			(show_name no)
@@ -13239,6 +13998,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa737f1f-545a-476f-847b-684f3042b7ba")
+		(property "UUID" "50c98017-cc06-451f-b67d-0f62c3f5c50d"
+			(at 114.3 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R64"
 			(at 116.586 144.78 90)
 			(show_name no)
@@ -13340,6 +14110,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b033ce0e-1186-450c-9600-99e9fdba2678")
+		(property "UUID" "05e3ef6d-1c33-418a-9a21-4be5f8b37a19"
+			(at 49.53 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R58"
 			(at 47.498 82.55 90)
 			(show_name no)
@@ -13442,6 +14223,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc020b84-cb15-4c89-a9f5-c951ee12f438")
+		(property "UUID" "c91bbb7f-79f3-4080-9ec2-27dce67be5cf"
+			(at 100.33 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0115"
 			(at 100.33 128.27 0)
 			(hide yes)
@@ -13521,6 +14313,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c206abeb-dfce-44c3-ac21-f12bc661de60")
+		(property "UUID" "8ad1336c-65d0-40da-93df-a35e2735025b"
+			(at 78.74 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "L5"
 			(at 76.454 40.386 90)
 			(show_name no)
@@ -13624,6 +14427,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c65b73c0-26a0-4093-8f04-224841557d9b")
+		(property "UUID" "ad9df35d-b762-415e-8a05-128784b309bd"
+			(at 187.96 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C40"
 			(at 188.214 110.49 0)
 			(show_name no)
@@ -13728,6 +14542,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca3cf8b9-f857-4a90-83b3-8f75dc98246f")
+		(property "UUID" "f89e7e40-906a-44dc-8d2a-e308f16ebc30"
+			(at 144.78 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0108"
 			(at 144.78 71.12 0)
 			(hide yes)
@@ -13807,6 +14632,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0fdf815-bbe7-4d51-9d56-92417927c7a4")
+		(property "UUID" "31c74abd-4906-4ed9-9493-ea9ec8349abc"
+			(at 60.96 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#FLG03"
 			(at 60.96 46.355 0)
 			(hide yes)
@@ -13885,6 +14721,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d14e8488-d098-4b4a-9644-82f0ee881bf7")
+		(property "UUID" "791b7555-4550-45ca-bb2b-2d52490eaa5e"
+			(at 67.31 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C31"
 			(at 66.802 56.642 90)
 			(show_name no)
@@ -13988,6 +14835,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2424a0a-89ae-4344-950a-90bec1a66ba4")
+		(property "UUID" "5a89891f-8a89-4d3f-b8ef-2b04c5e8dae1"
+			(at 102.87 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R68"
 			(at 102.87 152.4 90)
 			(show_name no)
@@ -14092,6 +14950,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2914a46-b52d-46a6-96a3-f040c23c715d")
+		(property "UUID" "31e6d29c-88c2-4616-bc3f-6822fd365d1a"
+			(at 95.25 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#FLG06"
 			(at 95.25 46.355 0)
 			(hide yes)
@@ -14171,6 +15040,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2c40a43-3798-49af-8edf-c4ff391668b3")
+		(property "UUID" "ff9650df-81ef-4d7c-a2d2-6b5d6f3d79dc"
+			(at 67.31 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0101"
 			(at 67.31 71.12 0)
 			(hide yes)
@@ -14249,6 +15129,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6915fd6-fefd-4cc8-bc07-a3a6953366ca")
+		(property "UUID" "c7798631-b69e-4afd-b5d6-1e6b6b577827"
+			(at 165.1 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R65"
 			(at 167.386 144.78 90)
 			(show_name no)
@@ -14350,6 +15241,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d71138d0-84f0-4bd7-952e-21b9acdc2bc8")
+		(property "UUID" "7772028d-e8f3-465f-8a96-2a2fec6e010d"
+			(at 34.29 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "U8"
 			(at 20.32 46.99 0)
 			(show_name no)
@@ -14469,6 +15371,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e23af1f3-3ec1-4d9e-a0da-5e62a73527c4")
+		(property "UUID" "efee261e-a9e7-411f-b708-6120e68c428d"
+			(at 177.8 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "J9"
 			(at 184.15 73.6599 90)
 			(show_name no)
@@ -14574,6 +15487,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5dff461-d2e4-4b31-acee-dc0806a4ec5c")
+		(property "UUID" "5559d30e-1023-4914-b690-1c26326cffef"
+			(at 78.74 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0103"
 			(at 78.74 71.12 0)
 			(hide yes)
@@ -14653,6 +15577,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5f1423e-9446-4cb5-bf3c-ddcbb700d8d8")
+		(property "UUID" "95b69e2b-7fef-4912-aca0-5c58a41aa374"
+			(at 83.82 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0104"
 			(at 83.82 71.12 0)
 			(hide yes)
@@ -14731,6 +15666,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e663110f-3eb4-4403-bcfa-1de9c57d9bbe")
+		(property "UUID" "4762b4c7-3bde-4f8b-bf4c-1932f0c1eac1"
+			(at 218.44 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R70"
 			(at 217.17 156.21 90)
 			(show_name no)
@@ -14845,6 +15791,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e85c29a8-d0e6-4e17-a348-d594ed893236")
+		(property "UUID" "ed929362-ea1c-4245-ad92-b7b095924a51"
+			(at 162.56 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "Q14"
 			(at 166.624 152.4 0)
 			(show_name no)
@@ -14977,6 +15934,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8fb43b9-4c55-4e2b-bf5f-5631034a6dc8")
+		(property "UUID" "a95da7e8-06dd-4a0b-bdbd-01b77a1adc66"
+			(at 148.59 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#FLG07"
 			(at 148.59 46.355 0)
 			(hide yes)
@@ -15056,6 +16024,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e91eefab-9831-4822-9274-0e54ea261421")
+		(property "UUID" "af7179fd-cc18-4cd4-91cf-0dfc00c18bc6"
+			(at 139.7 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "L7"
 			(at 137.414 40.386 90)
 			(show_name no)
@@ -15159,6 +16138,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e942ac2f-cfd1-477d-a488-bcb4a4ab83b7")
+		(property "UUID" "a85fc91e-39c9-4751-ae3b-5259ba1aad09"
+			(at 218.44 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R66"
 			(at 217.17 146.05 90)
 			(show_name no)
@@ -15273,6 +16263,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ebdee32b-f129-463c-bf23-ae9b64a4331b")
+		(property "UUID" "d546ac5a-16a2-4b19-ac84-c882e37432a4"
+			(at 165.1 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0123"
 			(at 165.1 137.16 0)
 			(hide yes)
@@ -15350,6 +16351,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef8a083e-1640-49d3-bb25-9cdc381ed05c")
+		(property "UUID" "071c1cac-4a69-45d0-a838-cc45e9c41296"
+			(at 233.68 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "U10"
 			(at 227.076 94.488 0)
 			(show_name no)
@@ -15602,6 +16614,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "efdcd6f5-c6cc-4267-a181-2b352f06ac04")
+		(property "UUID" "5832ba21-97dd-469e-9847-7420135f05fd"
+			(at 67.31 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R57"
 			(at 65.278 77.47 90)
 			(show_name no)
@@ -15704,6 +16727,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f099bced-d48a-4458-aa71-94b9c8dcc625")
+		(property "UUID" "db36d9d7-f745-401f-b056-68a6ea2baa7c"
+			(at 165.1 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0130"
 			(at 165.1 170.18 0)
 			(hide yes)
@@ -15783,6 +16817,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f18be6e3-8118-4df5-acd5-4d31e03205a4")
+		(property "UUID" "3a653407-f671-40a4-912e-b5601be154a6"
+			(at 90.17 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "L6"
 			(at 87.884 40.386 90)
 			(show_name no)
@@ -15886,6 +16931,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f53f20a7-0cbd-46a1-9013-ed188b0e86c0")
+		(property "UUID" "a947a663-9a49-40a6-a712-6018c4aeba14"
+			(at 144.78 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "C38"
 			(at 144.272 56.642 90)
 			(show_name no)
@@ -15990,6 +17046,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f65fa108-589f-4a70-9d0e-3a0b7193fb44")
+		(property "UUID" "9a3b9b6b-8989-4ebd-b38d-6b55afb257f1"
+			(at 246.38 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0110"
 			(at 246.38 73.66 0)
 			(hide yes)
@@ -16069,6 +17136,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd768028-1bf9-43d0-a288-9297d4d97396")
+		(property "UUID" "a3a1dab3-ce11-4fb5-8552-0b8b3763809b"
+			(at 49.53 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0112"
 			(at 49.53 102.87 0)
 			(hide yes)
@@ -16147,6 +17225,17 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fda8a914-72cb-4f74-9658-237a4bc4990b")
+		(property "UUID" "60ce0d49-15a0-4e21-941e-a8e986ad4e85"
+			(at 55.88 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "R59"
 			(at 57.912 84.328 90)
 			(show_name no)
@@ -16251,6 +17340,17 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fde28cdd-77a2-4990-a512-d227668c9142")
+		(property "UUID" "e2ed8a23-8965-4557-b714-dc91536c25fb"
+			(at 105.41 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Reference" "#PWR0117"
 			(at 105.41 128.27 0)
 			(hide yes)
