@@ -340,7 +340,7 @@
 		(at 163.8 133.6 180)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
-		(property "Reference" "D13"
+		(property "Reference" "D11"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -676,7 +676,7 @@
 		(at 143.65 115.1 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R34"
+		(property "Reference" "R36"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -875,7 +875,7 @@
 		(at 169.9 121.8 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R47"
+		(property "Reference" "R49"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1074,7 +1074,7 @@
 		(at 143 81.9 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R58"
+		(property "Reference" "R60"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1472,7 +1472,7 @@
 		(at 144.9 83.6 180)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q10"
+		(property "Reference" "Q12"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1921,7 +1921,7 @@
 		(at 153.4 117.2)
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "diode handsolder")
-		(property "Reference" "D8"
+		(property "Reference" "D10"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2584,7 +2584,7 @@
 		(at 170.7 119.4 -90)
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "diode handsolder")
-		(property "Reference" "D16"
+		(property "Reference" "D14"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3444,7 +3444,7 @@
 		(at 170.8 70.6 90)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q13"
+		(property "Reference" "Q15"
 			(at 0 -2.4 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7579,7 +7579,7 @@
 		(at 172.5 74.2 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R63"
+		(property "Reference" "R65"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7779,7 +7779,7 @@
 		(at 138.9 64)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R54"
+		(property "Reference" "R56"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8177,7 +8177,7 @@
 		(at 174.5 125.7 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R51"
+		(property "Reference" "R53"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8376,7 +8376,7 @@
 		(at 173.5 76.6 -90)
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "diode handsolder")
-		(property "Reference" "D17"
+		(property "Reference" "D15"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -12859,7 +12859,7 @@
 		(at 140.6 81.9 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R61"
+		(property "Reference" "R63"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -13258,7 +13258,7 @@
 		(at 163.6 119 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R52"
+		(property "Reference" "R54"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -13656,7 +13656,7 @@
 		(at 143.1 125.1 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R36"
+		(property "Reference" "R38"
 			(at 0 -1.17 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -13856,7 +13856,7 @@
 		(at 141.4 67.5 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R55"
+		(property "Reference" "R57"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -14068,7 +14068,7 @@
 		(at 170.8 65.6 90)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q14"
+		(property "Reference" "Q16"
 			(at 0 -2.4 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -14517,7 +14517,7 @@
 		(at 163.0025 70.3)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R66"
+		(property "Reference" "R68"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -14729,7 +14729,7 @@
 		(at 153.9 125.1 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R37"
+		(property "Reference" "R39"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -14928,7 +14928,7 @@
 		(at 173.5 66.6 -90)
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "diode handsolder")
-		(property "Reference" "D19"
+		(property "Reference" "D17"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -20178,7 +20178,7 @@
 		(at 154.45 115.1 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R35"
+		(property "Reference" "R37"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -20553,7 +20553,7 @@
 		(at 162.4 125.1)
 		(descr "SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3")
 		(tags "SOT-23W for handsoldering")
-		(property "Reference" "Q5"
+		(property "Reference" "Q7"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -20856,7 +20856,7 @@
 		(at 169.9 122.8 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R45"
+		(property "Reference" "R47"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -21430,7 +21430,7 @@
 		(at 165.9 125.7 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R50"
+		(property "Reference" "R52"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -21630,7 +21630,7 @@
 		(at 142.4 67.5 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R56"
+		(property "Reference" "R58"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22041,7 +22041,7 @@
 		(at 171 125.1)
 		(descr "SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3")
 		(tags "SOT-23W for handsoldering")
-		(property "Reference" "Q6"
+		(property "Reference" "Q8"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22344,7 +22344,7 @@
 		(at 159.2 120.6)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q7"
+		(property "Reference" "Q9"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23168,7 +23168,7 @@
 		(at 139 116.25 90)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q3"
+		(property "Reference" "Q5"
 			(at 0 -2.4 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23995,7 +23995,7 @@
 		(at 141.8 81.9 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R57"
+		(property "Reference" "R59"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -24194,7 +24194,7 @@
 		(at 145 85.9 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R60"
+		(property "Reference" "R62"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -24920,7 +24920,7 @@
 		(at 138.1 124.1 180)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q15"
+		(property "Reference" "Q3"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -25969,7 +25969,7 @@
 		(at 141 125.1)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "diode")
-		(property "Reference" "D9"
+		(property "Reference" "D7"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -26605,7 +26605,7 @@
 		(at 143.4 85.3 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R59"
+		(property "Reference" "R61"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29058,7 +29058,7 @@
 		(at 170.4 73)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R68"
+		(property "Reference" "R70"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29608,7 +29608,7 @@
 		(at 167.8 120.7)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q8"
+		(property "Reference" "Q10"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -31754,7 +31754,7 @@
 		(at 170.4 68)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R69"
+		(property "Reference" "R71"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -33946,7 +33946,7 @@
 		(at 136.7 119.6 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R40"
+		(property "Reference" "R42"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -34568,7 +34568,7 @@
 		(at 147.5 121.85 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R72"
+		(property "Reference" "R35"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -34767,7 +34767,7 @@
 		(at 136.3 118)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R38"
+		(property "Reference" "R40"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35540,7 +35540,7 @@
 		(at 136.7 121.85 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R71"
+		(property "Reference" "R34"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -36335,7 +36335,7 @@
 		(at 161.3 121.8 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R46"
+		(property "Reference" "R48"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -36838,7 +36838,7 @@
 		(at 172.5 69.2 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R64"
+		(property "Reference" "R66"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -37037,7 +37037,7 @@
 		(at 160.6 118.9 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R48"
+		(property "Reference" "R50"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -37811,7 +37811,7 @@
 		(at 171.8 133.6 180)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
-		(property "Reference" "D14"
+		(property "Reference" "D12"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -38147,7 +38147,7 @@
 		(at 164.6025 69.7 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R70"
+		(property "Reference" "R72"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -39266,7 +39266,7 @@
 		(at 172.8 120.9 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R43"
+		(property "Reference" "R45"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -39641,7 +39641,7 @@
 		(at 164.2 120.9 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R42"
+		(property "Reference" "R44"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -40102,7 +40102,7 @@
 		(at 169.2 119 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R49"
+		(property "Reference" "R51"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -40875,7 +40875,7 @@
 		(at 170.4 78)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R67"
+		(property "Reference" "R69"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -41625,7 +41625,7 @@
 		(at 149.8 116.25 90)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q4"
+		(property "Reference" "Q6"
 			(at 0 -2.4 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -42074,7 +42074,7 @@
 		(at 143 79.4 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R62"
+		(property "Reference" "R64"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -42273,7 +42273,7 @@
 		(at 151.8 125.1)
 		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "diode")
-		(property "Reference" "D10"
+		(property "Reference" "D8"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -42511,7 +42511,7 @@
 		(at 140.6 79 180)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q11"
+		(property "Reference" "Q13"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -43160,7 +43160,7 @@
 		(at 147.5 119.6 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R41"
+		(property "Reference" "R43"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -44069,7 +44069,7 @@
 		(at 172.5 64.2 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R65"
+		(property "Reference" "R67"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -44268,7 +44268,7 @@
 		(at 173.5 71.6 -90)
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "diode handsolder")
-		(property "Reference" "D18"
+		(property "Reference" "D16"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -45384,7 +45384,7 @@
 		(at 142.6 117.2)
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "diode handsolder")
-		(property "Reference" "D7"
+		(property "Reference" "D9"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -46119,7 +46119,7 @@
 		(at 161.3 122.8 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R44"
+		(property "Reference" "R46"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -46517,7 +46517,7 @@
 		(at 170.8 75.6 90)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q12"
+		(property "Reference" "Q14"
 			(at 0 -2.4 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -47165,7 +47165,7 @@
 		(at 148.9 124.1 180)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q16"
+		(property "Reference" "Q4"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -48213,7 +48213,7 @@
 		(at 141 84.9 180)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q9"
+		(property "Reference" "Q11"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -48662,7 +48662,7 @@
 		(at 172.2 119 90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R53"
+		(property "Reference" "R55"
 			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -49259,7 +49259,7 @@
 		(at 162.1 119.4 -90)
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "diode handsolder")
-		(property "Reference" "D15"
+		(property "Reference" "D13"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -50645,7 +50645,7 @@
 		(at 147.1 118)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
-		(property "Reference" "R39"
+		(property "Reference" "R41"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(hide yes)
