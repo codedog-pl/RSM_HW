@@ -10508,17 +10508,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "01bf2242-a745-4249-a183-895810a93583")
-		(property "UUID" "d62d3f7d-33e8-42c3-9163-75547aff7706"
-			(at 68.58 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR020"
 			(at 68.58 63.5 0)
 			(hide yes)
@@ -10573,6 +10562,17 @@
 				)
 			)
 		)
+		(property "UUID" "d62d3f7d-33e8-42c3-9163-75547aff7706"
+			(at 68.58 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f496c9ef-b405-4a56-9aaf-f01d05f266f8")
 		)
@@ -10597,17 +10597,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03512df2-19aa-4271-bbb8-ebcacd833103")
-		(property "UUID" "fde16f01-973a-4a3d-b089-1ac2e94b925a"
-			(at 135.89 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR036"
 			(at 135.89 109.22 0)
 			(hide yes)
@@ -10663,6 +10652,17 @@
 				)
 			)
 		)
+		(property "UUID" "fde16f01-973a-4a3d-b089-1ac2e94b925a"
+			(at 135.89 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "86b275c4-2fd8-42d0-8f24-ff44045177ae")
 		)
@@ -10687,17 +10687,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06352e16-0c81-483d-9eff-bacabdc4561b")
-		(property "UUID" "cf6f5eb7-b06e-4554-8b32-80e73048d087"
-			(at 83.82 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR052"
 			(at 83.82 189.23 0)
 			(hide yes)
@@ -10753,6 +10742,17 @@
 				)
 			)
 		)
+		(property "UUID" "cf6f5eb7-b06e-4554-8b32-80e73048d087"
+			(at 83.82 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "04d5e200-c803-4cd5-bb5c-058762a5e027")
 		)
@@ -10777,17 +10777,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "067c9d4b-a274-4d53-a753-cf38426f300f")
-		(property "UUID" "6c233381-0e28-4c02-8162-5af92418541c"
-			(at 102.87 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR011"
 			(at 102.87 52.07 0)
 			(hide yes)
@@ -10843,6 +10832,17 @@
 				)
 			)
 		)
+		(property "UUID" "6c233381-0e28-4c02-8162-5af92418541c"
+			(at 102.87 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "952e5202-4dd2-4582-85e2-b1427087328d")
 		)
@@ -10867,17 +10867,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07d2aef9-900f-4eb5-aefd-3e7f20612a9b")
-		(property "UUID" "8ebedda2-8559-4397-9850-2400728d1a13"
-			(at 74.93 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR038"
 			(at 74.93 114.3 0)
 			(hide yes)
@@ -10933,6 +10922,17 @@
 				)
 			)
 		)
+		(property "UUID" "8ebedda2-8559-4397-9850-2400728d1a13"
+			(at 74.93 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ed6ad61d-ddfd-48d6-bb3e-a421d16a1e40")
 		)
@@ -10956,17 +10956,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0dbb60d9-fcb0-4f86-a5a3-17b2580fe1f9")
-		(property "UUID" "597851d5-71b5-4f47-89dd-28d418cef3f4"
-			(at 35.56 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR030"
 			(at 35.56 82.55 0)
 			(hide yes)
@@ -11021,6 +11010,17 @@
 				)
 			)
 		)
+		(property "UUID" "597851d5-71b5-4f47-89dd-28d418cef3f4"
+			(at 35.56 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4c56b6b6-e72b-444b-aa5a-d8808d9862b8")
 		)
@@ -11045,17 +11045,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11a04c40-a3db-4ee0-adbc-dcef5917835b")
-		(property "UUID" "3bbfffac-87fa-4e54-91c6-c5ee0c173c64"
-			(at 227.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR043"
 			(at 227.33 142.24 0)
 			(hide yes)
@@ -11111,6 +11100,17 @@
 				)
 			)
 		)
+		(property "UUID" "3bbfffac-87fa-4e54-91c6-c5ee0c173c64"
+			(at 227.33 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a6c55b8b-184f-4e69-854d-b44e0257a48a")
 		)
@@ -11134,17 +11134,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "16372bbd-3afd-4396-8156-b70211829b99")
-		(property "UUID" "318b0a09-12f6-4550-b684-3bd9082c645d"
-			(at 254 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR024"
 			(at 254 71.12 0)
 			(hide yes)
@@ -11199,6 +11188,17 @@
 				)
 			)
 		)
+		(property "UUID" "318b0a09-12f6-4550-b684-3bd9082c645d"
+			(at 254 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bd5447a8-9330-48f0-9ba2-b1968bc1a775")
 		)
@@ -11223,17 +11223,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17f9b06b-1d25-4a7f-82fa-6acd93e06c05")
-		(property "UUID" "1b3a1b81-48d3-4c18-be88-6230ed5172ea"
-			(at 140.97 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR017"
 			(at 140.97 52.07 0)
 			(hide yes)
@@ -11289,6 +11278,17 @@
 				)
 			)
 		)
+		(property "UUID" "1b3a1b81-48d3-4c18-be88-6230ed5172ea"
+			(at 140.97 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de4fb0b0-05aa-481f-98e8-ba5d1ae7d633")
 		)
@@ -11312,17 +11312,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a4785f5-004c-4704-bd00-5c5abb82d045")
-		(property "UUID" "eeababf0-e948-486b-bc27-1cf8a7f73551"
-			(at 119.38 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "D2"
 			(at 117.602 40.64 0)
 			(show_name no)
@@ -11368,6 +11357,17 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 119.38 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "eeababf0-e948-486b-bc27-1cf8a7f73551"
 			(at 119.38 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11438,17 +11438,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a8c4668-12fe-41f9-b50b-27673a1ec399")
-		(property "UUID" "9b03a3a8-f11b-49e7-a419-3a1e69559fcd"
-			(at 77.47 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR09"
 			(at 77.47 52.07 0)
 			(hide yes)
@@ -11504,6 +11493,17 @@
 				)
 			)
 		)
+		(property "UUID" "9b03a3a8-f11b-49e7-a419-3a1e69559fcd"
+			(at 77.47 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cd1989f1-4915-4d1e-8295-0b5622536acc")
 		)
@@ -11528,17 +11528,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e6bc6d7-2231-49f0-9274-625d25b45c19")
-		(property "UUID" "2e550da9-66f5-4d78-afa9-d5096db46a83"
-			(at 107.95 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C15"
 			(at 107.188 76.962 90)
 			(show_name no)
@@ -11584,6 +11573,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 107.95 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "2e550da9-66f5-4d78-afa9-d5096db46a83"
 			(at 107.95 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11642,17 +11642,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f4d4919-c810-4d07-b636-ab92c6532ee1")
-		(property "UUID" "d7e69d04-718c-4755-92ef-bc9df42fcd58"
-			(at 113.03 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R29"
 			(at 113.03 162.814 90)
 			(show_name no)
@@ -11696,6 +11685,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 113.03 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "d7e69d04-718c-4755-92ef-bc9df42fcd58"
 			(at 113.03 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -11754,17 +11754,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20c35f30-2b86-4529-8cd8-e87853cf28b9")
-		(property "UUID" "dca26f46-ee23-420e-8d27-f117078501bf"
-			(at 144.78 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "D5"
 			(at 143.256 161.798 0)
 			(show_name no)
@@ -11810,6 +11799,17 @@
 			)
 		)
 		(property "Description" "Zener diode"
+			(at 144.78 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "dca26f46-ee23-420e-8d27-f117078501bf"
 			(at 144.78 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11869,17 +11869,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20c7b4b6-fdb5-40fb-8732-7819da9f2402")
-		(property "UUID" "93786792-a0da-46c4-95b2-2ea185404f63"
-			(at 201.93 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR045"
 			(at 201.93 143.51 0)
 			(hide yes)
@@ -11935,6 +11924,17 @@
 				)
 			)
 		)
+		(property "UUID" "93786792-a0da-46c4-95b2-2ea185404f63"
+			(at 201.93 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ac074c78-0f0e-4c70-a1b1-916f0b4cd5c6")
 		)
@@ -11958,17 +11958,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2379f40a-1edc-4fac-9ad5-c2178c911545")
-		(property "UUID" "d63fa10c-6aa2-4532-95bf-e368ab1536ab"
-			(at 190.5 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C21"
 			(at 189.992 132.842 90)
 			(show_name no)
@@ -12014,6 +12003,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 190.5 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "d63fa10c-6aa2-4532-95bf-e368ab1536ab"
 			(at 190.5 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -12073,17 +12073,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23ecaaa0-9c36-4260-85d3-d567e9c6324e")
-		(property "UUID" "9c1a3970-4804-42a5-badd-94b7666f0964"
-			(at 134.62 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR056"
 			(at 134.62 189.23 0)
 			(hide yes)
@@ -12139,6 +12128,17 @@
 				)
 			)
 		)
+		(property "UUID" "9c1a3970-4804-42a5-badd-94b7666f0964"
+			(at 134.62 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c618d599-c254-4267-96f1-b04115f60b6b")
 		)
@@ -12162,17 +12162,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2552ad17-4303-439b-8a4e-dab41b553ecc")
-		(property "UUID" "133e1206-3406-40ea-bf05-38f4bba0a27e"
-			(at 127 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R23"
 			(at 128.524 145.542 0)
 			(show_name no)
@@ -12218,6 +12207,17 @@
 			)
 		)
 		(property "Description" "RES 68 KOHM 0.1% 1/8W 0805"
+			(at 127 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "133e1206-3406-40ea-bf05-38f4bba0a27e"
 			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -12298,17 +12298,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2828ae50-ac8e-4821-a071-600859b016d9")
-		(property "UUID" "03524bce-0f57-4b02-96f2-ab1692909a27"
-			(at 45.72 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C3"
 			(at 45.212 32.004 90)
 			(show_name no)
@@ -12354,6 +12343,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 45.72 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "03524bce-0f57-4b02-96f2-ab1692909a27"
 			(at 45.72 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -12412,17 +12412,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2affd498-6599-4e8e-bd15-12b0ef17e5f6")
-		(property "UUID" "cd3f3556-f220-4d21-8fbc-7f18b19a09d0"
-			(at 50.8 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C4"
 			(at 50.292 32.004 90)
 			(show_name no)
@@ -12468,6 +12457,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 50.8 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "cd3f3556-f220-4d21-8fbc-7f18b19a09d0"
 			(at 50.8 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -12526,17 +12526,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b29211e-428f-4383-b6c1-f083ab01d9ef")
-		(property "UUID" "076ce577-b42c-4ec9-bff3-cde8490f45d6"
-			(at 142.24 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R10"
 			(at 144.272 75.184 90)
 			(show_name no)
@@ -12581,6 +12570,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 142.24 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "076ce577-b42c-4ec9-bff3-cde8490f45d6"
 			(at 142.24 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -12640,17 +12640,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b570a2f-0678-4c97-8d17-daa879a43952")
-		(property "UUID" "7f0c6503-aa15-4fb8-962a-dc36952b5bc0"
-			(at 134.62 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR016"
 			(at 134.62 52.07 0)
 			(hide yes)
@@ -12706,6 +12695,17 @@
 				)
 			)
 		)
+		(property "UUID" "7f0c6503-aa15-4fb8-962a-dc36952b5bc0"
+			(at 134.62 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8ee5fa06-ee43-41e8-ac0d-8a07b1ba2a35")
 		)
@@ -12730,17 +12730,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d3c1900-4baf-48a9-a80b-f92624ebfdef")
-		(property "UUID" "cd8533b8-98fc-4152-bbe5-2ea175c1d84f"
-			(at 45.72 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR06"
 			(at 45.72 52.07 0)
 			(hide yes)
@@ -12796,6 +12785,17 @@
 				)
 			)
 		)
+		(property "UUID" "cd8533b8-98fc-4152-bbe5-2ea175c1d84f"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c93406f7-c55d-4cd8-8e41-741404640147")
 		)
@@ -12819,17 +12819,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2df78fdd-7b18-4c9c-85d0-0aa2cda2ae86")
-		(property "UUID" "443c91b7-236d-4261-b7f6-1eff54788190"
-			(at 21.59 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR019"
 			(at 21.59 63.5 0)
 			(hide yes)
@@ -12884,6 +12873,17 @@
 				)
 			)
 		)
+		(property "UUID" "443c91b7-236d-4261-b7f6-1eff54788190"
+			(at 21.59 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b2d88b22-3f07-45ac-8b50-aa6343d5211d")
 		)
@@ -12908,17 +12908,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "325738b9-e67c-424b-9e7e-eca3a46ee99a")
-		(property "UUID" "298ed757-66c0-4862-ab23-6d6d217285d8"
-			(at 107.95 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C16"
 			(at 107.188 87.122 90)
 			(show_name no)
@@ -12964,6 +12953,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 107.95 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "298ed757-66c0-4862-ab23-6d6d217285d8"
 			(at 107.95 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -13023,17 +13023,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "357af61a-b963-4708-adf5-9321aefe9407")
-		(property "UUID" "e402d1ca-f18a-42d7-b826-4cd7df10386a"
-			(at 201.93 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#FLG01"
 			(at 201.93 123.825 0)
 			(hide yes)
@@ -13089,6 +13078,17 @@
 				)
 			)
 		)
+		(property "UUID" "e402d1ca-f18a-42d7-b826-4cd7df10386a"
+			(at 201.93 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7dbf5f7-1504-421c-a682-62bbcb4084ab")
 		)
@@ -13113,17 +13113,6 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "361e77fc-be3e-4c5d-a423-9e78f8318577")
-		(property "UUID" "4b77fff8-db93-4eee-9147-f2a9246b71e1"
-			(at 26.67 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "J2"
 			(at 27.686 147.32 0)
 			(show_name no)
@@ -13170,6 +13159,17 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 26.67 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "4b77fff8-db93-4eee-9147-f2a9246b71e1"
 			(at 26.67 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -13247,17 +13247,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "363ace84-a74a-4d3b-bd98-11b6a59c7862")
-		(property "UUID" "56f00244-8152-43c6-a124-314333b11a6f"
-			(at 160.02 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R6"
 			(at 157.226 56.388 90)
 			(show_name no)
@@ -13303,6 +13292,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 160.02 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "56f00244-8152-43c6-a124-314333b11a6f"
 			(at 160.02 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13362,17 +13362,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36c8e2cd-f970-4d81-bf8f-2c90113d11f2")
-		(property "UUID" "b5728baf-cf10-4223-9d53-9188f0405543"
-			(at 118.11 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR054"
 			(at 118.11 189.23 0)
 			(hide yes)
@@ -13427,6 +13416,17 @@
 				)
 			)
 		)
+		(property "UUID" "b5728baf-cf10-4223-9d53-9188f0405543"
+			(at 118.11 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "934f3831-5949-4e6e-922d-71bb42284aae")
 		)
@@ -13451,17 +13451,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d6c0b6b-0c38-44e3-a738-70f89afd9c2e")
-		(property "UUID" "a0a185a2-735c-4073-a938-46d62502343f"
-			(at 144.78 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR057"
 			(at 144.78 189.23 0)
 			(hide yes)
@@ -13517,6 +13506,17 @@
 				)
 			)
 		)
+		(property "UUID" "a0a185a2-735c-4073-a938-46d62502343f"
+			(at 144.78 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b114bb4-b5ea-46ce-b8ab-8fee3d12befa")
 		)
@@ -13540,17 +13540,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e0d64e6-67a8-4ac0-a864-d2e2608de2cd")
-		(property "UUID" "ce8d95dc-6279-44f5-a940-47109a25ea97"
-			(at 35.56 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR01"
 			(at 35.56 25.4 0)
 			(hide yes)
@@ -13605,6 +13594,17 @@
 				)
 			)
 		)
+		(property "UUID" "ce8d95dc-6279-44f5-a940-47109a25ea97"
+			(at 35.56 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2b85cbf-dfe4-4990-8296-5de7244a7d85")
 		)
@@ -13629,17 +13629,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4722027e-62ef-4010-83bc-6d01ca212c98")
-		(property "UUID" "8b4c0a10-60b5-4e22-8624-817ee2f08c01"
-			(at 198.12 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR049"
 			(at 198.12 167.64 0)
 			(hide yes)
@@ -13695,6 +13684,17 @@
 				)
 			)
 		)
+		(property "UUID" "8b4c0a10-60b5-4e22-8624-817ee2f08c01"
+			(at 198.12 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2d482dbd-5e21-42f9-9be0-bc871c47f5c3")
 		)
@@ -13718,17 +13718,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "47f12937-e3ec-457e-aed2-a30153289f58")
-		(property "UUID" "f50d3988-04bd-4084-a19e-7c6ca4e3b586"
-			(at 271.78 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP15"
 			(at 274.066 125.73 0)
 			(show_name no)
@@ -13785,6 +13774,17 @@
 				)
 			)
 		)
+		(property "UUID" "f50d3988-04bd-4084-a19e-7c6ca4e3b586"
+			(at 271.78 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9b1e8cc1-0d0a-40b5-af7c-87aafe9f6796")
 		)
@@ -13808,17 +13808,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "482257d3-bb8e-402d-bb56-3d73c73fa7f3")
-		(property "UUID" "44b24415-2f4f-47fd-8239-d68f2f3c897f"
-			(at 189.23 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R19"
 			(at 186.436 109.728 90)
 			(show_name no)
@@ -13864,6 +13853,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 189.23 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "44b24415-2f4f-47fd-8239-d68f2f3c897f"
 			(at 189.23 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13922,17 +13922,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a06da74-d7b1-4a08-9bed-e7e7783f0a0f")
-		(property "UUID" "fe037f4b-53e8-4d9e-95a6-486a9cc70590"
-			(at 135.89 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C17"
 			(at 135.382 92.456 90)
 			(show_name no)
@@ -13978,6 +13967,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 135.89 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "fe037f4b-53e8-4d9e-95a6-486a9cc70590"
 			(at 135.89 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14036,17 +14036,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ae9052f-6a15-438c-8487-40bd8d911f66")
-		(property "UUID" "039ea6a0-1df1-4546-ae82-063a6626dc7b"
-			(at 40.64 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C12"
 			(at 40.132 65.532 90)
 			(show_name no)
@@ -14092,6 +14081,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 40.64 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "039ea6a0-1df1-4546-ae82-063a6626dc7b"
 			(at 40.64 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -14150,17 +14150,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bcc17b1-0dd2-4c35-820b-a7b17ef3a59d")
-		(property "UUID" "cdee49d1-62d0-458a-8ed6-55a66c46696d"
-			(at 271.78 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP10"
 			(at 274.066 106.68 0)
 			(show_name no)
@@ -14217,6 +14206,17 @@
 				)
 			)
 		)
+		(property "UUID" "cdee49d1-62d0-458a-8ed6-55a66c46696d"
+			(at 271.78 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "da275723-a5dd-4284-bd2d-ddd589e7f26d")
 		)
@@ -14241,17 +14241,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ec10921-4deb-4f94-8c5c-ef3f65710faf")
-		(property "UUID" "89d8dc2c-2002-4e4d-adfc-35f79424693f"
-			(at 127 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR055"
 			(at 127 189.23 0)
 			(hide yes)
@@ -14307,6 +14296,17 @@
 				)
 			)
 		)
+		(property "UUID" "89d8dc2c-2002-4e4d-adfc-35f79424693f"
+			(at 127 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8d6e9309-daa7-4f8f-93bd-ea9924483eb2")
 		)
@@ -14331,17 +14331,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f5ec130-74d8-4698-b6a4-5c699f67c7bb")
-		(property "UUID" "693d7228-45fe-4bdb-a267-c75e29a53b90"
-			(at 50.8 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR07"
 			(at 50.8 52.07 0)
 			(hide yes)
@@ -14397,6 +14386,17 @@
 				)
 			)
 		)
+		(property "UUID" "693d7228-45fe-4bdb-a267-c75e29a53b90"
+			(at 50.8 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3d1114ba-7eb8-4e22-a69c-31a8e96883c3")
 		)
@@ -14420,17 +14420,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5471b117-0f5f-4e0b-baad-bedfd717e75d")
-		(property "UUID" "c79459f1-3b0c-448c-a7c1-27a51bf198d8"
-			(at 77.47 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C1"
 			(at 77.978 24.638 0)
 			(show_name no)
@@ -14476,6 +14465,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 77.47 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "c79459f1-3b0c-448c-a7c1-27a51bf198d8"
 			(at 77.47 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -14534,17 +14534,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5590badb-313b-48ad-82a1-dbbaadb76ec4")
-		(property "UUID" "586aa043-c939-4181-83f8-b1c2cb390bb6"
-			(at 97.79 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C6"
 			(at 97.536 32.258 90)
 			(show_name no)
@@ -14590,6 +14579,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 97.79 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "586aa043-c939-4181-83f8-b1c2cb390bb6"
 			(at 97.79 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -14648,17 +14648,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "581738fb-3b63-497b-8c35-8121b3768f2b")
-		(property "UUID" "11774a51-ca24-4b90-ae97-3147564de994"
-			(at 201.93 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C22"
 			(at 201.422 134.112 90)
 			(show_name no)
@@ -14704,6 +14693,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 201.93 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "11774a51-ca24-4b90-ae97-3147564de994"
 			(at 201.93 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -14763,17 +14763,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bdcff79-12f8-4143-a202-40aa8334531c")
-		(property "UUID" "955e7332-e77d-4afe-a472-6f193afa065b"
-			(at 198.12 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR040"
 			(at 198.12 123.19 0)
 			(hide yes)
@@ -14829,6 +14818,17 @@
 				)
 			)
 		)
+		(property "UUID" "955e7332-e77d-4afe-a472-6f193afa065b"
+			(at 198.12 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d15c0b4c-8558-4f71-b2ae-2cf320c363a1")
 		)
@@ -14852,17 +14852,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5be349dd-0034-47a2-9164-d55ba5b751d0")
-		(property "UUID" "f565444f-c7ba-4b3b-9387-a46861faa8a3"
-			(at 116.84 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "U4"
 			(at 112.522 151.13 0)
 			(show_name no)
@@ -14908,6 +14897,17 @@
 			)
 		)
 		(property "Description" "DC Optocoupler, Vce 80V, CTR 50-100%, SOIC-4-6 (MFSOP-4-6)"
+			(at 116.84 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "f565444f-c7ba-4b3b-9387-a46861faa8a3"
 			(at 116.84 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -14972,17 +14972,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5c619107-df70-4a32-a5b9-8c210d37e657")
-		(property "UUID" "1eccdd19-95db-4a74-8d45-8127fb336930"
-			(at 160.02 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R8"
 			(at 157.226 64.008 90)
 			(show_name no)
@@ -15028,6 +15017,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 160.02 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "1eccdd19-95db-4a74-8d45-8127fb336930"
 			(at 160.02 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -15086,17 +15086,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d39e2ec-7dc9-4fe9-aff1-1d1ea34e6dfc")
-		(property "UUID" "2878d6d5-1d86-4b3f-8279-6bae178c919d"
-			(at 160.02 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R7"
 			(at 157.226 60.198 90)
 			(show_name no)
@@ -15142,6 +15131,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 160.02 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "2878d6d5-1d86-4b3f-8279-6bae178c919d"
 			(at 160.02 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -15200,17 +15200,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d8464b2-12d1-4575-8caf-3ec3de3f30b1")
-		(property "UUID" "f74285ae-c5f0-472c-8c19-120c2e167b87"
-			(at 128.27 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R16"
 			(at 125.222 89.408 90)
 			(show_name no)
@@ -15256,6 +15245,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 128.27 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "f74285ae-c5f0-472c-8c19-120c2e167b87"
 			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -15315,17 +15315,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5de0f6d5-ccf2-4db9-806a-e6f3a2b58123")
-		(property "UUID" "35806924-8327-4b04-a685-ad31b4c2748b"
-			(at 41.91 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#FLG02"
 			(at 41.91 139.065 0)
 			(hide yes)
@@ -15381,6 +15370,17 @@
 				)
 			)
 		)
+		(property "UUID" "35806924-8327-4b04-a685-ad31b4c2748b"
+			(at 41.91 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ec5e9fc3-3b95-49f1-a6e8-af8a1ae86e6e")
 		)
@@ -15404,17 +15404,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f175720-a08f-4161-8360-ac06ac017f5c")
-		(property "UUID" "27b3cfd2-556d-403f-88f7-72eb416db560"
-			(at 124.46 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "Q1"
 			(at 121.92 161.798 0)
 			(show_name no)
@@ -15463,6 +15452,17 @@
 			)
 		)
 		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 124.46 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "27b3cfd2-556d-403f-88f7-72eb416db560"
 			(at 124.46 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15525,17 +15525,6 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "60a80318-b1f1-49f7-bb66-457d7b475a40")
-		(property "UUID" "222286fb-d99d-4ebc-b891-9ddc5ac86a80"
-			(at 26.67 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "J1"
 			(at 27.94 138.684 0)
 			(show_name no)
@@ -15591,6 +15580,17 @@
 				)
 			)
 		)
+		(property "UUID" "222286fb-d99d-4ebc-b891-9ddc5ac86a80"
+			(at 26.67 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Mfg Part #" ""
 			(at 26.67 140.97 0)
 			(hide yes)
@@ -15628,17 +15628,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64bcc04e-2ca8-4149-80ae-ddc45c2a7936")
-		(property "UUID" "509a0080-ee54-4906-9552-12a30345083d"
-			(at 102.87 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R28"
 			(at 104.648 162.814 90)
 			(show_name no)
@@ -15684,6 +15673,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 102.87 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "509a0080-ee54-4906-9552-12a30345083d"
 			(at 102.87 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15742,17 +15742,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66b352a4-8187-4a32-b1f5-15743f66762c")
-		(property "UUID" "88a4cacc-73bb-4dc7-bd20-959e721bcbb9"
-			(at 118.11 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R33"
 			(at 119.253 172.974 0)
 			(show_name no)
@@ -15798,6 +15787,17 @@
 			)
 		)
 		(property "Description" "RES 100K OHM 1% 1/16W 0402"
+			(at 118.11 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "88a4cacc-73bb-4dc7-bd20-959e721bcbb9"
 			(at 118.11 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -15856,17 +15856,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66c45510-ba67-42ff-84a4-347d6da5e206")
-		(property "UUID" "11b0128e-8fc8-4f30-9733-2c4e3a38e888"
-			(at 177.8 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R26"
 			(at 176.53 157.48 90)
 			(show_name no)
@@ -15912,6 +15901,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 177.8 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "11b0128e-8fc8-4f30-9733-2c4e3a38e888"
 			(at 177.8 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -15970,17 +15970,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67fffb4c-ff93-43b0-9850-9814d0848257")
-		(property "UUID" "d7983a84-8f95-4eaa-a562-1880c9b7429e"
-			(at 83.82 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R30"
 			(at 84.963 165.354 0)
 			(show_name no)
@@ -16027,6 +16016,17 @@
 		)
 		(property "Description" ""
 			(at 83.82 166.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "d7983a84-8f95-4eaa-a562-1880c9b7429e"
+			(at 83.82 166.37 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16083,17 +16083,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6becb43e-8bb3-40e2-a0c9-dac777421ef0")
-		(property "UUID" "cd3bf9bb-faa8-4117-8636-c458e47725fc"
-			(at 83.82 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "D6"
 			(at 82.042 176.53 0)
 			(show_name no)
@@ -16139,6 +16128,17 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 83.82 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "cd3bf9bb-faa8-4117-8636-c458e47725fc"
 			(at 83.82 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -16208,17 +16208,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72001975-37f8-4834-b53c-fb0d9379e10e")
-		(property "UUID" "c24c37cb-cd49-4d50-8899-9c5ffeaf222e"
-			(at 247.65 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR023"
 			(at 247.65 71.12 0)
 			(hide yes)
@@ -16273,6 +16262,17 @@
 				)
 			)
 		)
+		(property "UUID" "c24c37cb-cd49-4d50-8899-9c5ffeaf222e"
+			(at 247.65 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d26de431-eac6-420a-9b47-2cb270da39a7")
 		)
@@ -16296,17 +16296,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72dbabd2-385d-4f5c-9779-83c31603c763")
-		(property "UUID" "2b2d2b51-6e0d-4182-8bf9-de66f7cb9d4b"
-			(at 140.97 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "D3"
 			(at 139.192 40.64 0)
 			(show_name no)
@@ -16352,6 +16341,17 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 140.97 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "2b2d2b51-6e0d-4182-8bf9-de66f7cb9d4b"
 			(at 140.97 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -16421,17 +16421,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73dda493-ab61-4623-b63c-565cd20f0c76")
-		(property "UUID" "8fd7746f-99ad-408b-ada3-cd385643cad6"
-			(at 271.78 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP6"
 			(at 274.066 87.63 0)
 			(show_name no)
@@ -16488,6 +16477,17 @@
 				)
 			)
 		)
+		(property "UUID" "8fd7746f-99ad-408b-ada3-cd385643cad6"
+			(at 271.78 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23449723-0ba5-45b8-9674-4379d274dc90")
 		)
@@ -16511,17 +16511,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73fd7516-e9fb-4839-b959-b4d30166df02")
-		(property "UUID" "c33930ac-2f70-4446-b43c-07d1d78870a2"
-			(at 64.77 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "U2"
 			(at 64.77 15.748 0)
 			(show_name no)
@@ -16566,6 +16555,17 @@
 		)
 		(property "Description" "2A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6"
 			(at 64.516 65.786 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "c33930ac-2f70-4446-b43c-07d1d78870a2"
+			(at 64.77 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16635,17 +16635,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "742c6e46-3491-46ae-9e27-1cd07fbc76be")
-		(property "UUID" "cfac2b4d-f5e9-4bf9-991f-d8a65e8c6d7d"
-			(at 119.38 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R2"
 			(at 121.666 33.02 90)
 			(show_name no)
@@ -16689,6 +16678,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 119.38 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "cfac2b4d-f5e9-4bf9-991f-d8a65e8c6d7d"
 			(at 119.38 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -16747,17 +16747,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "751c17ce-20be-4cbb-a3a9-149ee2667b09")
-		(property "UUID" "a32cebdc-8784-416c-bc90-9d8de0cc52b5"
-			(at 97.79 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR02"
 			(at 97.79 25.4 0)
 			(hide yes)
@@ -16812,6 +16801,17 @@
 				)
 			)
 		)
+		(property "UUID" "a32cebdc-8784-416c-bc90-9d8de0cc52b5"
+			(at 97.79 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cd696cfb-8ffe-4053-b115-98bdbf0e672b")
 		)
@@ -16835,17 +16835,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "765e9ab0-6a92-4f57-96dc-074e03c748d4")
-		(property "UUID" "21d4558c-38c9-4190-95e6-b2ab450c4b1d"
-			(at 35.56 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R13"
 			(at 36.83 81.788 0)
 			(show_name no)
@@ -16891,6 +16880,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 35.56 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "21d4558c-38c9-4190-95e6-b2ab450c4b1d"
 			(at 35.56 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -16949,17 +16949,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "786bb187-36af-4cce-aeb1-5ea316cf1d82")
-		(property "UUID" "c89c9e42-33c0-4cab-b295-53b9b6c5ad6f"
-			(at 173.99 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "U3"
 			(at 173.99 89.408 0)
 			(show_name no)
@@ -17008,6 +16997,17 @@
 		)
 		(property "Description" "Arm®  Cortex®-M33 32-bit MCU with FPU, 144 MHz, 593 CoreMark®,  512‑Kbyte dual‑bank flash memory, 128-Kbyte RAM, cryptography"
 			(at 174.244 120.396 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "c89c9e42-33c0-4cab-b295-53b9b6c5ad6f"
+			(at 173.99 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17155,17 +17155,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "799cf121-3649-4a96-ab59-7cadabbba3ed")
-		(property "UUID" "927c087a-1041-4052-8dea-a184be7aceeb"
-			(at 189.23 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R20"
 			(at 186.182 113.538 90)
 			(show_name no)
@@ -17211,6 +17200,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 189.23 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "927c087a-1041-4052-8dea-a184be7aceeb"
 			(at 189.23 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -17271,17 +17271,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a06740f-3806-4fa6-84b8-19cae2e29064")
-		(property "UUID" "e07e83a8-3b8c-458a-9b7d-dfdc8f939781"
-			(at 110.49 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR032"
 			(at 116.84 87.63 0)
 			(hide yes)
@@ -17337,6 +17326,17 @@
 				)
 			)
 		)
+		(property "UUID" "e07e83a8-3b8c-458a-9b7d-dfdc8f939781"
+			(at 110.49 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "52100f43-30ac-4dfd-8b74-7b9454f676e5")
 		)
@@ -17360,17 +17360,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7a6b0f2d-c515-4df1-a32c-9ed70ab27cab")
-		(property "UUID" "6e8b5b69-7528-4d70-8c3c-95f86bfbac15"
-			(at 195.58 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR041"
 			(at 195.58 130.81 0)
 			(hide yes)
@@ -17425,6 +17414,17 @@
 				)
 			)
 		)
+		(property "UUID" "6e8b5b69-7528-4d70-8c3c-95f86bfbac15"
+			(at 195.58 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b52cae1e-d434-4e30-a527-05ccd94c2ea9")
 		)
@@ -17449,17 +17449,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a709240-dcfa-4c35-bab1-f81719080e79")
-		(property "UUID" "e29adf37-1b94-444a-9dab-1ba4a3597d9e"
-			(at 40.64 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR034"
 			(at 40.64 104.14 0)
 			(hide yes)
@@ -17515,6 +17504,17 @@
 				)
 			)
 		)
+		(property "UUID" "e29adf37-1b94-444a-9dab-1ba4a3597d9e"
+			(at 40.64 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d0c34e7-e283-4614-913e-73936e5974c9")
 		)
@@ -17538,17 +17538,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b5fbcce-38d2-4250-90ad-bc3db33af92f")
-		(property "UUID" "54748246-8d31-4061-87ac-475755e464e7"
-			(at 147.32 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R9"
 			(at 148.844 64.262 90)
 			(show_name no)
@@ -17593,6 +17582,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 147.32 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "54748246-8d31-4061-87ac-475755e464e7"
 			(at 147.32 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -17651,17 +17651,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7d577c1c-616a-4e99-82c6-3f8e0abd4eb0")
-		(property "UUID" "23caa2c4-aa20-49d1-90ad-a5ece12399c2"
-			(at 128.27 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R14"
 			(at 125.476 86.868 90)
 			(show_name no)
@@ -17707,6 +17696,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 128.27 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "23caa2c4-aa20-49d1-90ad-a5ece12399c2"
 			(at 128.27 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -17765,17 +17765,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7d79b5bf-23bd-48f9-a90a-bec59647b84e")
-		(property "UUID" "44ec8d60-77bc-413e-9406-c60d9937a5d0"
-			(at 35.56 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "D1"
 			(at 34.29 28.702 0)
 			(show_name no)
@@ -17821,6 +17810,17 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 26.0Vr, SMA(DO-214AC)"
+			(at 35.56 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "44ec8d60-77bc-413e-9406-c60d9937a5d0"
 			(at 35.56 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -17879,17 +17879,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f57db68-f6e3-405a-bb35-2067cdeeeede")
-		(property "UUID" "7479b9bf-eaea-42f4-b6e4-48112dec9d6c"
-			(at 101.6 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "Y1"
 			(at 97.282 82.804 90)
 			(show_name no)
@@ -17935,6 +17924,17 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
+			(at 101.6 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "7479b9bf-eaea-42f4-b6e4-48112dec9d6c"
 			(at 101.6 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -17999,17 +17999,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f9a6c58-eadb-479a-baec-c78d7ca1a414")
-		(property "UUID" "a7d83ac1-078b-41d6-a1c9-9f5aa3060575"
-			(at 73.66 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "U3"
 			(at 73.66 88.138 0)
 			(show_name no)
@@ -18058,6 +18047,17 @@
 		)
 		(property "Description" "Arm®  Cortex®-M33 32-bit MCU with FPU, 144 MHz, 593 CoreMark®,  512‑Kbyte dual‑bank flash memory, 128-Kbyte RAM, cryptography"
 			(at 73.914 119.126 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "a7d83ac1-078b-41d6-a1c9-9f5aa3060575"
+			(at 73.66 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18205,17 +18205,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7fbd552f-a0a8-4896-aae1-792362bcd114")
-		(property "UUID" "56495339-108d-47ef-ae10-c12a392b3b97"
-			(at 271.78 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP17"
 			(at 274.066 133.35 0)
 			(show_name no)
@@ -18272,6 +18261,17 @@
 				)
 			)
 		)
+		(property "UUID" "56495339-108d-47ef-ae10-c12a392b3b97"
+			(at 271.78 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f27e4d8a-3f2d-4230-a00f-febe7aef173a")
 		)
@@ -18295,17 +18295,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "849e0697-6568-4f4e-8e5f-5127ddd36d18")
-		(property "UUID" "36aa9b28-5e36-4901-9efe-5d2b77ffca3c"
-			(at 201.93 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R11"
 			(at 202.438 76.454 90)
 			(show_name no)
@@ -18350,6 +18339,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 201.93 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "36aa9b28-5e36-4901-9efe-5d2b77ffca3c"
 			(at 201.93 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -18408,17 +18408,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85766920-9718-4c34-9d34-86fe1068de54")
-		(property "UUID" "15c5055f-7443-4b67-9cde-faa6c781b370"
-			(at 134.62 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R31"
 			(at 132.334 167.894 90)
 			(show_name no)
@@ -18464,6 +18453,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 134.62 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "15c5055f-7443-4b67-9cde-faa6c781b370"
 			(at 134.62 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -18544,17 +18544,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86206c4a-dd15-4be9-ba28-8ffdb1334a2a")
-		(property "UUID" "e8463531-59b8-417e-901a-fde19541253d"
-			(at 83.82 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C5"
 			(at 83.058 32.512 90)
 			(show_name no)
@@ -18600,6 +18589,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 83.82 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "e8463531-59b8-417e-901a-fde19541253d"
 			(at 83.82 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -18658,17 +18658,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87a5e268-7d34-4c14-b00c-2eaee0c9f2a9")
-		(property "UUID" "e0e772b0-394a-4817-afe2-3d00b689113f"
-			(at 271.78 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP3"
 			(at 274.066 72.39 0)
 			(show_name no)
@@ -18725,6 +18714,17 @@
 				)
 			)
 		)
+		(property "UUID" "e0e772b0-394a-4817-afe2-3d00b689113f"
+			(at 271.78 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0db88913-ccae-422b-a159-3d343f8f968e")
 		)
@@ -18748,17 +18748,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "89e358cf-40c4-4ca9-ac09-1c1db7396a1e")
-		(property "UUID" "383435c7-405f-40a2-a682-df3f040c83a8"
-			(at 105.41 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "Q2"
 			(at 109.474 172.72 0)
 			(show_name no)
@@ -18807,6 +18796,17 @@
 			)
 		)
 		(property "Description" "TRANS NPN 45V 0.5A SOT-23"
+			(at 105.41 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "383435c7-405f-40a2-a682-df3f040c83a8"
 			(at 105.41 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -18890,17 +18890,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c283a51-b0bf-49e6-97b3-4a2719859231")
-		(property "UUID" "631f3796-2919-42d2-8a97-8c7ed0e5ef7a"
-			(at 68.58 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C13"
 			(at 68.072 65.532 90)
 			(show_name no)
@@ -18946,6 +18935,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 68.58 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "631f3796-2919-42d2-8a97-8c7ed0e5ef7a"
 			(at 68.58 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -19004,17 +19004,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8eb22ca8-94e8-45c9-9b66-8b0e23575a38")
-		(property "UUID" "91170d39-a7b7-492d-a567-39724bb4e9fe"
-			(at 271.78 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP13"
 			(at 274.066 118.11 0)
 			(show_name no)
@@ -19071,6 +19060,17 @@
 				)
 			)
 		)
+		(property "UUID" "91170d39-a7b7-492d-a567-39724bb4e9fe"
+			(at 271.78 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ed2233d8-2610-471d-9d8d-d65316c21d31")
 		)
@@ -19095,17 +19095,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ef90176-0351-46e8-b446-8a39a7388ed0")
-		(property "UUID" "67768c91-209c-476f-bcc3-97f9d78cc0be"
-			(at 33.02 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR047"
 			(at 33.02 151.13 0)
 			(hide yes)
@@ -19161,6 +19150,17 @@
 				)
 			)
 		)
+		(property "UUID" "67768c91-209c-476f-bcc3-97f9d78cc0be"
+			(at 33.02 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3f5ce314-bc9d-4331-ab66-582ccc325e3e")
 		)
@@ -19184,17 +19184,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9389fda8-a446-4317-ad91-1bbe7e72273b")
-		(property "UUID" "476eb679-17cd-45c8-96d7-fda5d5c3746b"
-			(at 83.82 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R4"
 			(at 83.82 39.624 90)
 			(show_name no)
@@ -19240,6 +19229,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 83.82 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "476eb679-17cd-45c8-96d7-fda5d5c3746b"
 			(at 83.82 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -19299,17 +19299,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "945ebd4f-6e8c-49bb-b953-87d94be099ed")
-		(property "UUID" "f80caae3-f31d-4fcd-8964-4afb33943745"
-			(at 35.56 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR027"
 			(at 35.56 77.47 0)
 			(hide yes)
@@ -19365,6 +19354,17 @@
 				)
 			)
 		)
+		(property "UUID" "f80caae3-f31d-4fcd-8964-4afb33943745"
+			(at 35.56 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "10b130ad-98ef-4f2d-be8e-734633df9b32")
 		)
@@ -19388,17 +19388,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "955feb31-10ba-475a-89b3-c26d11948af5")
-		(property "UUID" "ebed36ce-9993-4462-861f-698742554eb4"
-			(at 138.43 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C19"
 			(at 137.922 97.536 90)
 			(show_name no)
@@ -19444,6 +19433,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 138.43 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "ebed36ce-9993-4462-861f-698742554eb4"
 			(at 138.43 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -19502,17 +19502,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97562aec-fe67-4dde-aea2-3e120a80745c")
-		(property "UUID" "9bdfb9aa-35f4-45cf-b3ad-40f5f43f225d"
-			(at 271.78 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP5"
 			(at 274.066 83.82 0)
 			(show_name no)
@@ -19569,6 +19558,17 @@
 				)
 			)
 		)
+		(property "UUID" "9bdfb9aa-35f4-45cf-b3ad-40f5f43f225d"
+			(at 271.78 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cac24baf-8b29-4c70-b8ae-aaef6b077891")
 		)
@@ -19592,17 +19592,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "983953ec-92ca-484d-b772-6b2f13b748d6")
-		(property "UUID" "9527df25-4b8d-4055-88fe-047a8d5b8a39"
-			(at 33.02 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR046"
 			(at 33.02 143.51 0)
 			(hide yes)
@@ -19657,6 +19646,17 @@
 				)
 			)
 		)
+		(property "UUID" "9527df25-4b8d-4055-88fe-047a8d5b8a39"
+			(at 33.02 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae038722-a1f0-4abd-8894-1931b0b86322")
 		)
@@ -19680,17 +19680,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9aad4b99-3a1c-4299-ac9b-485f479b4ccb")
-		(property "UUID" "8e2d51b2-f98b-43d8-bffe-931b17d4cc8f"
-			(at 271.78 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP14"
 			(at 274.066 121.92 0)
 			(show_name no)
@@ -19747,6 +19736,17 @@
 				)
 			)
 		)
+		(property "UUID" "8e2d51b2-f98b-43d8-bffe-931b17d4cc8f"
+			(at 271.78 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4e0c0206-a396-4d8b-9a22-778f40fb09d4")
 		)
@@ -19771,17 +19771,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ac73adb-4b84-455c-a874-0457c886f9f8")
-		(property "UUID" "e5222a07-4cbf-478e-ba96-c7eef83953e4"
-			(at 265.43 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR035"
 			(at 265.43 106.68 0)
 			(hide yes)
@@ -19837,6 +19826,17 @@
 				)
 			)
 		)
+		(property "UUID" "e5222a07-4cbf-478e-ba96-c7eef83953e4"
+			(at 265.43 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b9bf4069-c70a-457b-bfb7-539b93c0c3ff")
 		)
@@ -19861,17 +19861,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b252067-c490-4bc1-9f9d-e88ad42a2ac8")
-		(property "UUID" "5d251d32-8f9e-42d7-a205-caa275a9783a"
-			(at 35.56 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR04"
 			(at 35.56 52.07 0)
 			(hide yes)
@@ -19927,6 +19916,17 @@
 				)
 			)
 		)
+		(property "UUID" "5d251d32-8f9e-42d7-a205-caa275a9783a"
+			(at 35.56 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41570619-d72b-4cbd-bb91-764e18971449")
 		)
@@ -19951,17 +19951,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bd73d91-f16c-4fa1-80a4-4188ff564fde")
-		(property "UUID" "2cc194bc-7187-4a89-836a-a26264e450b8"
-			(at 177.8 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR048"
 			(at 177.8 167.64 0)
 			(hide yes)
@@ -20017,6 +20006,17 @@
 				)
 			)
 		)
+		(property "UUID" "2cc194bc-7187-4a89-836a-a26264e450b8"
+			(at 177.8 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dde8300c-118c-4d50-ab17-62bc56d7fdea")
 		)
@@ -20040,17 +20040,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c7624d4-69f0-4f91-a4b0-deb2910e2667")
-		(property "UUID" "f079c7eb-1135-4594-863e-dbc7e0b681d8"
-			(at 271.78 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP18"
 			(at 274.066 137.16 0)
 			(show_name no)
@@ -20107,6 +20096,17 @@
 				)
 			)
 		)
+		(property "UUID" "f079c7eb-1135-4594-863e-dbc7e0b681d8"
+			(at 271.78 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "46b4eb95-e617-4ecd-829f-06004821485d")
 		)
@@ -20130,17 +20130,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ce6d6da-0583-45a9-b9a5-ebe5648eb7ae")
-		(property "UUID" "e5c010e3-6b5d-489c-8463-489934c336a9"
-			(at 78.74 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR021"
 			(at 78.74 63.5 0)
 			(hide yes)
@@ -20195,6 +20184,17 @@
 				)
 			)
 		)
+		(property "UUID" "e5c010e3-6b5d-489c-8463-489934c336a9"
+			(at 78.74 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6bbc6fbd-55de-4fae-87fa-5f96356208b0")
 		)
@@ -20218,17 +20218,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d9b043a-daa7-4e29-a6ac-4d5b38e514c8")
-		(property "UUID" "2758e375-8fcc-4a1c-9c17-5e094a6e4177"
-			(at 127 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "U1"
 			(at 131.064 29.21 0)
 			(show_name no)
@@ -20272,6 +20261,17 @@
 			)
 		)
 		(property "Description" "250mA Low Quiscent Current LDO, 1.2V output, SOT-23"
+			(at 127 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "2758e375-8fcc-4a1c-9c17-5e094a6e4177"
 			(at 127 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -20333,17 +20333,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e68d2af-5f5c-4842-ac0f-fa50db6b1c11")
-		(property "UUID" "485935d7-93ff-4a47-88e6-50e9b157fbf9"
-			(at 40.64 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C18"
 			(at 40.132 93.472 90)
 			(show_name no)
@@ -20389,6 +20378,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 40.64 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "485935d7-93ff-4a47-88e6-50e9b157fbf9"
 			(at 40.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -20447,17 +20447,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9eca2b11-5f64-4d51-95b6-cc529756a2c1")
-		(property "UUID" "c0415a31-e9d7-43c5-b3fe-ab847d5de956"
-			(at 204.47 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R12"
 			(at 204.978 76.454 90)
 			(show_name no)
@@ -20502,6 +20491,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 204.47 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "c0415a31-e9d7-43c5-b3fe-ab847d5de956"
 			(at 204.47 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -20561,17 +20561,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f48c0ab-dc80-4da9-bdb6-a6d10abd8b5a")
-		(property "UUID" "45bf0e04-9873-49bd-8669-f63ec7454694"
-			(at 101.6 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR039"
 			(at 101.6 114.3 0)
 			(hide yes)
@@ -20627,6 +20616,17 @@
 				)
 			)
 		)
+		(property "UUID" "45bf0e04-9873-49bd-8669-f63ec7454694"
+			(at 101.6 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b9aa74bf-4f48-4ead-a198-b2c5a1b21d55")
 		)
@@ -20650,17 +20650,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a3273409-5db6-4156-9c8f-8898f1e478c9")
-		(property "UUID" "2c7022bf-ea3d-4f99-b631-db1e011395cb"
-			(at 77.47 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R5"
 			(at 75.946 41.91 90)
 			(show_name no)
@@ -20706,6 +20695,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 77.47 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "2c7022bf-ea3d-4f99-b631-db1e011395cb"
 			(at 77.47 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -20764,17 +20764,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a5f2d149-d4d4-4cc1-b1a3-d4fbe0b16962")
-		(property "UUID" "9ea1cd6a-c985-4a87-987f-cd765f7f7647"
-			(at 78.74 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C14"
 			(at 78.232 65.532 90)
 			(show_name no)
@@ -20820,6 +20809,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 78.74 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "9ea1cd6a-c985-4a87-987f-cd765f7f7647"
 			(at 78.74 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -20879,17 +20879,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6e341b6-fe29-4b84-937c-5d777caf1377")
-		(property "UUID" "5a4fb398-4692-4fdf-bab7-6e161ce3c718"
-			(at 40.64 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR028"
 			(at 40.64 77.47 0)
 			(hide yes)
@@ -20945,6 +20934,17 @@
 				)
 			)
 		)
+		(property "UUID" "5a4fb398-4692-4fdf-bab7-6e161ce3c718"
+			(at 40.64 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8f1cf58e-fd97-41ef-9472-ed6a66f1fad3")
 		)
@@ -20969,17 +20969,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a98942e6-e245-4c93-b520-da360796e91d")
-		(property "UUID" "8bf3c77f-823c-4330-918a-cb4760bd8434"
-			(at 138.43 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR037"
 			(at 138.43 109.22 0)
 			(hide yes)
@@ -21035,6 +21024,17 @@
 				)
 			)
 		)
+		(property "UUID" "8bf3c77f-823c-4330-918a-cb4760bd8434"
+			(at 138.43 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b832fc0a-7d42-47b9-ab7f-aeed3b5b1eab")
 		)
@@ -21059,17 +21059,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9b27e82-cdf8-4a4e-9da7-bfe061694e42")
-		(property "UUID" "60d74a75-4bb0-4dcc-a34e-eb42b10a25e8"
-			(at 107.95 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR012"
 			(at 107.95 52.07 0)
 			(hide yes)
@@ -21125,6 +21114,17 @@
 				)
 			)
 		)
+		(property "UUID" "60d74a75-4bb0-4dcc-a34e-eb42b10a25e8"
+			(at 107.95 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "028d5ce3-f68a-4bab-9eaf-0516143d4599")
 		)
@@ -21149,17 +21149,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aae7fef0-2313-43b3-b13e-5e0507c8f812")
-		(property "UUID" "10492ee8-a9fe-43e1-b32d-45bc08e8a809"
-			(at 34.29 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR058"
 			(at 34.29 190.5 0)
 			(hide yes)
@@ -21215,6 +21204,17 @@
 				)
 			)
 		)
+		(property "UUID" "10492ee8-a9fe-43e1-b32d-45bc08e8a809"
+			(at 34.29 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "86a4b271-1a46-4dd9-b16c-69e4e23eab29")
 		)
@@ -21239,17 +21239,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "add679a8-ed75-4929-854f-1563e89efebe")
-		(property "UUID" "907096d2-c434-42b5-91d0-6b258334af8d"
-			(at 107.95 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR053"
 			(at 107.95 189.23 0)
 			(hide yes)
@@ -21305,6 +21294,17 @@
 				)
 			)
 		)
+		(property "UUID" "907096d2-c434-42b5-91d0-6b258334af8d"
+			(at 107.95 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "367ad780-67c9-4cb8-ba1f-f2b4426ca0a7")
 		)
@@ -21329,17 +21329,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1693e0d-00ac-41f7-9569-b1f6fb17ea6b")
-		(property "UUID" "d2757029-930b-484f-b294-729580513a2f"
-			(at 97.79 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR010"
 			(at 97.79 52.07 0)
 			(hide yes)
@@ -21395,6 +21384,17 @@
 				)
 			)
 		)
+		(property "UUID" "d2757029-930b-484f-b294-729580513a2f"
+			(at 97.79 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "957b2e48-a17a-4314-ba14-324d5b24c207")
 		)
@@ -21418,17 +21418,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1869450-db55-4e85-b567-9da8c64ac6e8")
-		(property "UUID" "8bbd6eb2-5b6a-4e9e-bd22-0ff828a8d73b"
-			(at 241.3 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR022"
 			(at 241.3 71.12 0)
 			(hide yes)
@@ -21483,6 +21472,17 @@
 				)
 			)
 		)
+		(property "UUID" "8bbd6eb2-5b6a-4e9e-bd22-0ff828a8d73b"
+			(at 241.3 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "896da38c-7598-4420-9129-403ad2179b12")
 		)
@@ -21506,17 +21506,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1de4b43-7a06-4101-993b-6e2c07f64445")
-		(property "UUID" "167b6ce3-01a9-4019-942e-4601b3293779"
-			(at 271.78 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP7"
 			(at 274.066 91.44 0)
 			(show_name no)
@@ -21573,6 +21562,17 @@
 				)
 			)
 		)
+		(property "UUID" "167b6ce3-01a9-4019-942e-4601b3293779"
+			(at 271.78 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "577961ae-3ba8-417e-b208-f8afb3156d9f")
 		)
@@ -21597,17 +21597,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5b8f36d-4d71-4bd6-925d-1eeffeaa6c78")
-		(property "UUID" "43b6da09-ac03-4ba2-801f-5266247ab0cb"
-			(at 113.03 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR013"
 			(at 113.03 52.07 0)
 			(hide yes)
@@ -21663,6 +21652,17 @@
 				)
 			)
 		)
+		(property "UUID" "43b6da09-ac03-4ba2-801f-5266247ab0cb"
+			(at 113.03 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc35f71d-35fa-4741-ba4f-571f1f554b7d")
 		)
@@ -21687,17 +21687,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5ef8ede-3bad-4ca9-b642-6dca321b2f27")
-		(property "UUID" "2130206f-4f4b-4eee-9d95-c9eba3be8503"
-			(at 190.5 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR044"
 			(at 190.5 143.51 0)
 			(hide yes)
@@ -21753,6 +21742,17 @@
 				)
 			)
 		)
+		(property "UUID" "2130206f-4f4b-4eee-9d95-c9eba3be8503"
+			(at 190.5 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "34dde585-fcc1-404a-be0b-5ca4de563405")
 		)
@@ -21776,17 +21776,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b95e6a54-25b5-4aa5-bab3-3a79414ec704")
-		(property "UUID" "14fd8eaf-b9bd-487b-b7a6-ad196dc02e94"
-			(at 271.78 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP9"
 			(at 274.066 99.06 0)
 			(show_name no)
@@ -21843,6 +21832,17 @@
 				)
 			)
 		)
+		(property "UUID" "14fd8eaf-b9bd-487b-b7a6-ad196dc02e94"
+			(at 271.78 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "953ee262-05ab-4675-b8bf-ab9f031c863f")
 		)
@@ -21866,17 +21866,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ba223acd-f331-42b1-b735-e4ebd4975eee")
-		(property "UUID" "ed04ed14-196f-4d54-99aa-543a896aaa7e"
-			(at 271.78 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP12"
 			(at 274.066 114.3 0)
 			(show_name no)
@@ -21933,6 +21922,17 @@
 				)
 			)
 		)
+		(property "UUID" "ed04ed14-196f-4d54-99aa-543a896aaa7e"
+			(at 271.78 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3ba65002-0012-4927-819f-a419cebb9072")
 		)
@@ -21956,17 +21956,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc94b829-0caa-46f3-82dd-ff32b84bcad9")
-		(property "UUID" "cf76e336-286d-4f89-817c-657f8af8e1f7"
-			(at 271.78 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP4"
 			(at 274.066 76.2 0)
 			(show_name no)
@@ -22023,6 +22012,17 @@
 				)
 			)
 		)
+		(property "UUID" "cf76e336-286d-4f89-817c-657f8af8e1f7"
+			(at 271.78 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "78ae716b-3882-4395-af1e-4cd943ec20b7")
 		)
@@ -22046,17 +22046,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bde52ced-a560-4f83-8e31-2aa1a941d4cd")
-		(property "UUID" "5c454990-2d46-4503-8ce3-957ee93a3b45"
-			(at 83.82 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "L1"
 			(at 83.82 24.13 90)
 			(show_name no)
@@ -22100,6 +22089,17 @@
 			)
 		)
 		(property "Description" "Inductor, small symbol"
+			(at 83.82 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "5c454990-2d46-4503-8ce3-957ee93a3b45"
 			(at 83.82 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -22159,17 +22159,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0dbed74-0095-48c9-9728-9339c40ef86b")
-		(property "UUID" "4d9c7c7a-9188-4134-815e-93bdba00ddc8"
-			(at 68.58 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR025"
 			(at 68.58 76.2 0)
 			(hide yes)
@@ -22225,6 +22214,17 @@
 				)
 			)
 		)
+		(property "UUID" "4d9c7c7a-9188-4134-815e-93bdba00ddc8"
+			(at 68.58 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "054fa5f0-0a4e-4d90-8676-31b927bfcddd")
 		)
@@ -22248,17 +22248,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c2bf59b7-d74a-4bcd-840c-e93af35103c0")
-		(property "UUID" "b0463a9f-7a45-46fa-90a5-6a35394caf0b"
-			(at 271.78 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP1"
 			(at 274.066 64.77 0)
 			(show_name no)
@@ -22315,6 +22304,17 @@
 				)
 			)
 		)
+		(property "UUID" "b0463a9f-7a45-46fa-90a5-6a35394caf0b"
+			(at 271.78 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7340ba10-1edb-4eed-96a6-a36e7f89a4e2")
 		)
@@ -22338,17 +22338,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4716ffa-e83c-4504-8acb-c844eb5e7215")
-		(property "UUID" "ecd6e28a-82e5-4d6f-9231-ae56ca4fc0cc"
-			(at 134.62 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C10"
 			(at 134.366 32.258 90)
 			(show_name no)
@@ -22394,6 +22383,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 134.62 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "ecd6e28a-82e5-4d6f-9231-ae56ca4fc0cc"
 			(at 134.62 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -22453,17 +22453,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbfbecd3-d3ad-4808-9135-c44ff0673109")
-		(property "UUID" "021734d4-35aa-4c9f-a1a8-c9477ae1f5a8"
-			(at 78.74 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR026"
 			(at 78.74 76.2 0)
 			(hide yes)
@@ -22519,6 +22508,17 @@
 				)
 			)
 		)
+		(property "UUID" "021734d4-35aa-4c9f-a1a8-c9477ae1f5a8"
+			(at 78.74 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05c7c719-a2b5-44c1-bb16-126c32370ce7")
 		)
@@ -22543,17 +22543,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0dcbd50-fff4-4ed0-9f7c-31f57eee5a58")
-		(property "UUID" "a10f9c14-b1e3-4d1e-ad57-5fe1f2b17106"
-			(at 64.77 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR08"
 			(at 64.77 52.07 0)
 			(hide yes)
@@ -22609,6 +22598,17 @@
 				)
 			)
 		)
+		(property "UUID" "a10f9c14-b1e3-4d1e-ad57-5fe1f2b17106"
+			(at 64.77 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6070640d-2d27-4abf-834f-1a0bda4eb98a")
 		)
@@ -22632,17 +22632,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d340b9b4-c556-4c63-83ef-0de647ef4c52")
-		(property "UUID" "56a2f6d6-0988-4f2e-b7f3-c46e510fd0ee"
-			(at 35.56 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C11"
 			(at 35.052 65.532 90)
 			(show_name no)
@@ -22688,6 +22677,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 35.56 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "56a2f6d6-0988-4f2e-b7f3-c46e510fd0ee"
 			(at 35.56 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22746,17 +22746,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d40c8ebd-7b78-433b-9750-d9c0d76172d8")
-		(property "UUID" "e2034e1b-a26f-42a8-adac-9cd7597339d3"
-			(at 127 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R25"
 			(at 124.714 157.734 90)
 			(show_name no)
@@ -22802,6 +22791,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 127 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "e2034e1b-a26f-42a8-adac-9cd7597339d3"
 			(at 127 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -22882,17 +22882,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d47215c9-0a2f-4a03-ad52-e80bbe684677")
-		(property "UUID" "be1271e6-1392-4825-aaab-4c3c9418dfd0"
-			(at 152.4 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR018"
 			(at 152.4 58.42 0)
 			(hide yes)
@@ -22947,6 +22936,17 @@
 				)
 			)
 		)
+		(property "UUID" "be1271e6-1392-4825-aaab-4c3c9418dfd0"
+			(at 152.4 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6b94a645-854b-4c04-9cbc-2a286a95cc29")
 		)
@@ -22970,17 +22970,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d4ea6f5c-5f4a-4b35-bae5-85455ad31274")
-		(property "UUID" "8e42096c-9b4e-4f62-8cfc-85abe8803d3b"
-			(at 271.78 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP8"
 			(at 274.066 95.25 0)
 			(show_name no)
@@ -23037,6 +23026,17 @@
 				)
 			)
 		)
+		(property "UUID" "8e42096c-9b4e-4f62-8cfc-85abe8803d3b"
+			(at 271.78 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4c139ade-b231-4db1-9503-f80ce2dcb61c")
 		)
@@ -23060,17 +23060,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6f34718-3417-4a9f-9494-2af106c4821a")
-		(property "UUID" "afbd0ceb-938f-4a9c-8ab6-b7d1c3178570"
-			(at 40.64 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C2"
 			(at 40.132 32.004 90)
 			(show_name no)
@@ -23116,6 +23105,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 40.64 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "afbd0ceb-938f-4a9c-8ab6-b7d1c3178570"
 			(at 40.64 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -23174,17 +23174,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8b2f2a9-bffc-4268-a881-161fd9706793")
-		(property "UUID" "cac354b0-898a-4533-aa9b-ad999beb3f16"
-			(at 97.79 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR042"
 			(at 97.79 135.89 0)
 			(hide yes)
@@ -23239,6 +23228,17 @@
 				)
 			)
 		)
+		(property "UUID" "cac354b0-898a-4533-aa9b-ad999beb3f16"
+			(at 97.79 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f938eb5-0c71-4e14-a3d9-8f55a702af40")
 		)
@@ -23262,17 +23262,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da4c9015-b0ea-4d6d-96b1-a51d339b3ffd")
-		(property "UUID" "46be6f16-c53d-4450-ba21-2d6a704dc906"
-			(at 212.09 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R15"
 			(at 209.296 86.868 90)
 			(show_name no)
@@ -23317,6 +23306,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 212.09 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "46be6f16-c53d-4450-ba21-2d6a704dc906"
 			(at 212.09 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -23377,17 +23377,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbf752eb-ea50-4e6f-997a-10cf5455e45e")
-		(property "UUID" "f69d1ff7-9fb5-4805-9fe0-5d17eafe094b"
-			(at 110.49 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR031"
 			(at 116.84 82.55 0)
 			(hide yes)
@@ -23443,6 +23432,17 @@
 				)
 			)
 		)
+		(property "UUID" "f69d1ff7-9fb5-4805-9fe0-5d17eafe094b"
+			(at 110.49 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ad6132d-9eda-4624-a23a-63536550ac01")
 		)
@@ -23467,17 +23467,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcc65670-b44b-488d-905f-25181377044b")
-		(property "UUID" "9bdb65d9-5bc5-494e-96ae-8d2f10ad7433"
-			(at 119.38 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR014"
 			(at 119.38 52.07 0)
 			(hide yes)
@@ -23533,6 +23522,17 @@
 				)
 			)
 		)
+		(property "UUID" "9bdb65d9-5bc5-494e-96ae-8d2f10ad7433"
+			(at 119.38 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7660865-f24e-4bea-bb2c-76446b4fb133")
 		)
@@ -23556,17 +23556,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd8f702e-3c53-4a6d-bee6-e8f95454e4f1")
-		(property "UUID" "080bfa2c-637b-4a7f-b5dc-dbf5599ea6fd"
-			(at 102.87 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R22"
 			(at 102.87 141.224 90)
 			(show_name no)
@@ -23610,6 +23599,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 102.87 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "080bfa2c-637b-4a7f-b5dc-dbf5599ea6fd"
 			(at 102.87 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -23668,17 +23668,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dee49427-86f2-40a2-b9f9-c51e1dc1e30d")
-		(property "UUID" "03834734-243b-4582-9060-be93494bb783"
-			(at 140.97 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR03"
 			(at 140.97 25.4 0)
 			(hide yes)
@@ -23733,6 +23722,17 @@
 				)
 			)
 		)
+		(property "UUID" "03834734-243b-4582-9060-be93494bb783"
+			(at 140.97 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ac8738b2-0aa6-46a2-8196-2dc4a712edf4")
 		)
@@ -23756,17 +23756,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0d48691-26c6-4f84-bf49-13839fa85a39")
-		(property "UUID" "6b1cd494-b6ec-4fbc-b087-c14212c1e359"
-			(at 212.09 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R17"
 			(at 209.296 89.408 90)
 			(show_name no)
@@ -23811,6 +23800,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 212.09 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "6b1cd494-b6ec-4fbc-b087-c14212c1e359"
 			(at 212.09 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -23870,17 +23870,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7ac19c4-8031-4d2c-9f5a-116459a51e4d")
-		(property "UUID" "1e491436-0f1d-411a-b251-08ec03f10451"
-			(at 40.64 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR05"
 			(at 40.64 52.07 0)
 			(hide yes)
@@ -23936,6 +23925,17 @@
 				)
 			)
 		)
+		(property "UUID" "1e491436-0f1d-411a-b251-08ec03f10451"
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6c1e2392-4615-4d4f-9987-fa72576fd6ac")
 		)
@@ -23959,17 +23959,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7c63e53-6162-412d-9674-29fc3e7d6865")
-		(property "UUID" "968e35f1-1adb-48f6-9508-79262cc4559d"
-			(at 113.03 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C9"
 			(at 112.776 32.258 90)
 			(show_name no)
@@ -24015,6 +24004,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 113.03 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "968e35f1-1adb-48f6-9508-79262cc4559d"
 			(at 113.03 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -24073,17 +24073,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7e68157-37d7-4f28-b695-db7d7f628800")
-		(property "UUID" "e14df312-870f-4b82-a947-3e7035aa12ec"
-			(at 271.78 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP2"
 			(at 274.066 68.58 0)
 			(show_name no)
@@ -24140,6 +24129,17 @@
 				)
 			)
 		)
+		(property "UUID" "e14df312-870f-4b82-a947-3e7035aa12ec"
+			(at 271.78 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b4cbd6cf-1154-4d68-8854-6ee7e25af4e5")
 		)
@@ -24165,17 +24165,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9f907ce-cd60-4dd6-b70c-730867c953c1")
-		(property "UUID" "30749f5b-0543-4914-bc08-4219972da395"
-			(at 110.49 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR029"
 			(at 116.84 77.47 0)
 			(hide yes)
@@ -24231,6 +24220,17 @@
 				)
 			)
 		)
+		(property "UUID" "30749f5b-0543-4914-bc08-4219972da395"
+			(at 110.49 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3a89a5b0-994e-495e-9f5c-ad5c4a12c6e5")
 		)
@@ -24254,17 +24254,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea129971-8399-4e4f-bb79-4a120076083a")
-		(property "UUID" "b356f498-46ba-48a7-b602-6160f43a1da2"
-			(at 177.8 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R21"
 			(at 179.324 117.348 90)
 			(show_name no)
@@ -24309,6 +24298,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 177.8 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "b356f498-46ba-48a7-b602-6160f43a1da2"
 			(at 177.8 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -24367,17 +24367,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ebab354b-3bf2-4d9b-aaa1-6d86905fb4e5")
-		(property "UUID" "3a2fae0c-6264-4d04-a2c4-33c75b7549dc"
-			(at 198.12 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "U5"
 			(at 205.994 157.48 0)
 			(show_name no)
@@ -24423,6 +24412,17 @@
 			)
 		)
 		(property "Description" "1ppm Real Time Clock (RTC) IC Clock/Calendar 2B, 43B I2C, 2-Wire Serial 8-WCDFN"
+			(at 198.12 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "3a2fae0c-6264-4d04-a2c4-33c75b7549dc"
 			(at 198.12 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -24499,17 +24499,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec38e075-d44b-4aa3-9393-9c50e735088e")
-		(property "UUID" "bafcd414-7a91-4e1a-9684-540ec766bc97"
-			(at 102.87 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C7"
 			(at 102.616 32.258 90)
 			(show_name no)
@@ -24555,6 +24544,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 102.87 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "bafcd414-7a91-4e1a-9684-540ec766bc97"
 			(at 102.87 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -24613,17 +24613,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eca485dc-1bdf-4fde-aa65-445239b50e73")
-		(property "UUID" "46cfcb3a-31b3-4d8a-acff-8bb797226e18"
-			(at 139.7 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R24"
 			(at 139.7 148.844 90)
 			(show_name no)
@@ -24667,6 +24656,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 139.7 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "46cfcb3a-31b3-4d8a-acff-8bb797226e18"
 			(at 139.7 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -24725,17 +24725,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee3d930b-c12d-4fe7-90f0-881a6e9e046b")
-		(property "UUID" "829e4cfb-85c2-4176-975a-095c30bd19cb"
-			(at 101.6 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C20"
 			(at 101.092 103.632 90)
 			(show_name no)
@@ -24781,6 +24770,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 101.6 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "829e4cfb-85c2-4176-975a-095c30bd19cb"
 			(at 101.6 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -24839,17 +24839,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef4f8fd0-53c8-448f-9bb7-25df484b9999")
-		(property "UUID" "51e287f7-b78d-4241-85a9-303e5e812aca"
-			(at 271.78 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP16"
 			(at 274.066 129.54 0)
 			(show_name no)
@@ -24906,6 +24895,17 @@
 				)
 			)
 		)
+		(property "UUID" "51e287f7-b78d-4241-85a9-303e5e812aca"
+			(at 271.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05ea91ea-8265-4723-9225-adc608e2acfb")
 		)
@@ -24929,17 +24929,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "efb0a6c5-b232-4899-92a7-0a389379b882")
-		(property "UUID" "ba3c71b2-825f-42a4-a52b-ae81cf75cc26"
-			(at 53.34 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "D4"
 			(at 51.816 165.862 0)
 			(show_name no)
@@ -24985,6 +24974,17 @@
 			)
 		)
 		(property "Description" "Zener diode"
+			(at 53.34 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "ba3c71b2-825f-42a4-a52b-ae81cf75cc26"
 			(at 53.34 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -25043,17 +25043,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0110793-8b63-4b76-bc27-b883aff83b2d")
-		(property "UUID" "dfe10330-1b8d-4892-8447-62309e139c74"
-			(at 35.56 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "SW1"
 			(at 33.02 93.218 0)
 			(show_name no)
@@ -25100,6 +25089,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 35.56 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "dfe10330-1b8d-4892-8447-62309e139c74"
 			(at 35.56 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -25158,17 +25158,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f10aa79f-a0aa-43e8-8552-0826431bc822")
-		(property "UUID" "e53e5a63-4f19-4d0e-a4ac-0bc155814365"
-			(at 48.26 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R27"
 			(at 45.974 161.29 90)
 			(show_name no)
@@ -25212,6 +25201,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 48.26 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "e53e5a63-4f19-4d0e-a4ac-0bc155814365"
 			(at 48.26 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -25270,17 +25270,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f134aa7c-ef50-4d72-815f-c7e8177e1033")
-		(property "UUID" "44439e85-5100-405f-acfc-eb4bb76c4400"
-			(at 96.52 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R32"
 			(at 98.552 171.958 90)
 			(show_name no)
@@ -25326,6 +25315,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 96.52 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "44439e85-5100-405f-acfc-eb4bb76c4400"
 			(at 96.52 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -25384,17 +25384,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f22920ef-1aa5-4242-a42f-e78b035abe83")
-		(property "UUID" "05a46dd6-0990-460b-b880-1ae3cc7645d8"
-			(at 140.97 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R3"
 			(at 138.938 33.02 90)
 			(show_name no)
@@ -25438,6 +25427,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 140.97 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "05a46dd6-0990-460b-b880-1ae3cc7645d8"
 			(at 140.97 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -25496,17 +25496,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f28fa40c-1cd7-4a9d-bbf8-c678f3e31a3f")
-		(property "UUID" "0e3ad9e9-0dd5-4c65-9af4-826394ea0e0a"
-			(at 90.17 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R1"
 			(at 92.456 27.94 90)
 			(show_name no)
@@ -25551,6 +25540,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 90.17 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "0e3ad9e9-0dd5-4c65-9af4-826394ea0e0a"
 			(at 90.17 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -25609,17 +25609,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f34beacc-9ab9-4252-9f40-2e39d30885f3")
-		(property "UUID" "8fa54c77-aa16-4e45-afc4-779f07a0babe"
-			(at 189.23 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "R18"
 			(at 186.436 105.918 90)
 			(show_name no)
@@ -25664,6 +25653,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 189.23 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "8fa54c77-aa16-4e45-afc4-779f07a0babe"
 			(at 189.23 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -25723,17 +25723,6 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f441bca7-f03d-4751-ab33-62fce430060f")
-		(property "UUID" "6c458ca3-8b99-4bff-9a9e-7ed0d44b76fc"
-			(at 217.17 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "BT1"
 			(at 216.535 120.65 0)
 			(show_name no)
@@ -25788,6 +25777,17 @@
 				)
 			)
 		)
+		(property "UUID" "6c458ca3-8b99-4bff-9a9e-7ed0d44b76fc"
+			(at 217.17 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "P"
 			(uuid "a1d679ff-62d6-4d5b-9648-15b1b4cf5f79")
 		)
@@ -25814,17 +25814,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f49ca9ba-d4a6-439f-8291-56ed7aa8c3ab")
-		(property "UUID" "943ba74b-df48-4fe7-91e0-4835d3b114f8"
-			(at 271.78 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "TP11"
 			(at 274.066 110.49 0)
 			(show_name no)
@@ -25881,6 +25870,17 @@
 				)
 			)
 		)
+		(property "UUID" "943ba74b-df48-4fe7-91e0-4835d3b114f8"
+			(at 271.78 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8d057b8c-7cdf-4f3f-ab3e-5d2a41467357")
 		)
@@ -25905,17 +25905,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5fa7c4d-ebe2-4566-8f07-01356372ceca")
-		(property "UUID" "06d00cf5-b97f-4495-9886-8666a5fbf393"
-			(at 35.56 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR033"
 			(at 35.56 104.14 0)
 			(hide yes)
@@ -25971,6 +25960,17 @@
 				)
 			)
 		)
+		(property "UUID" "06d00cf5-b97f-4495-9886-8666a5fbf393"
+			(at 35.56 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e159372d-452e-49d6-b6aa-3bcb850ebf97")
 		)
@@ -25995,17 +25995,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fabbc1c7-b192-4ace-83ec-c0326c274fe7")
-		(property "UUID" "491aad8e-a8d4-485e-bcd6-a8e1cc187cc0"
-			(at 48.26 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR050"
 			(at 48.26 171.45 0)
 			(hide yes)
@@ -26061,6 +26050,17 @@
 				)
 			)
 		)
+		(property "UUID" "491aad8e-a8d4-485e-bcd6-a8e1cc187cc0"
+			(at 48.26 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0b665135-0804-4174-aa50-b66ec3c7d262")
 		)
@@ -26084,17 +26084,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fbaa7b37-7160-48e6-9aeb-53bc9a1e35d1")
-		(property "UUID" "51372508-1d55-458b-a4c9-4a96374f4f8e"
-			(at 27.94 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "L2"
 			(at 27.686 58.674 90)
 			(show_name no)
@@ -26140,6 +26129,17 @@
 			)
 		)
 		(property "Description" "Inductor with ferrite core"
+			(at 27.94 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "51372508-1d55-458b-a4c9-4a96374f4f8e"
 			(at 27.94 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -26199,17 +26199,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd3808a2-b4c4-4fbd-b5c6-0aa39f06fdfb")
-		(property "UUID" "f0738c27-30d0-42ba-881c-23e7433577a3"
-			(at 127 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR015"
 			(at 127 52.07 0)
 			(hide yes)
@@ -26265,6 +26254,17 @@
 				)
 			)
 		)
+		(property "UUID" "f0738c27-30d0-42ba-881c-23e7433577a3"
+			(at 127 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2ca625c6-29ae-4412-ba13-5abd042193a2")
 		)
@@ -26289,17 +26289,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffa57262-6f1c-4202-b589-88e7b4395d38")
-		(property "UUID" "e857882b-e672-4c46-b406-52143f9a0f33"
-			(at 53.34 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "#PWR051"
 			(at 53.34 171.45 0)
 			(hide yes)
@@ -26355,6 +26344,17 @@
 				)
 			)
 		)
+		(property "UUID" "e857882b-e672-4c46-b406-52143f9a0f33"
+			(at 53.34 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "17ab1798-110d-4219-a819-e0fb536c88b9")
 		)
@@ -26378,17 +26378,6 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ffa64840-9d8d-4123-8913-d8149f9c539d")
-		(property "UUID" "5277c12a-30da-4702-b90c-2577a3d7ea2b"
-			(at 107.95 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Reference" "C8"
 			(at 107.696 32.258 90)
 			(show_name no)
@@ -26434,6 +26423,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 107.95 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "UUID" "5277c12a-30da-4702-b90c-2577a3d7ea2b"
 			(at 107.95 33.02 0)
 			(hide yes)
 			(show_name no)
