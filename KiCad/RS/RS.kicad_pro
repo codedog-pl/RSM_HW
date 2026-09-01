@@ -76,7 +76,60 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|129106300|76253900|8ea31865-a519-441d-9274-2cee28cd1fda|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "clearance|129106300|76498400|9642d86e-2310-4657-9607-422bddc98d92|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "clearance|129106300|76898400|64dadb00-a383-45e8-9daa-370dccad9e76|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "clearance|129106300|77298399|bc875fb9-6d74-458f-b987-3b5df781ac62|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "clearance|129893700|76253900|4858d266-c8b8-466c-a5a0-11979602def3|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "clearance|129893700|76498400|82dd7709-0e0e-44da-b827-281d1e14a189|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "clearance|129893700|76898400|f4e74f05-7b48-4140-b849-cbe1cfc12bad|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "clearance|129893700|77298399|99e8b478-e6ef-482e-9806-7cc8f7ce5277|2e688261-b58a-4b5b-849f-cec08f8fa314",
+          ""
+        ],
+        [
+          "courtyards_overlap|136455000|91255000|a4b4b002-f224-4dce-9b98-4929a31a2e47|f0d39d34-a2ae-46e1-b612-75de5f7298dd",
+          ""
+        ],
+        [
+          "starved_thermal|151600000|105932500|bec38c36-f9bd-4eb4-8a37-b0455f16f215|8f659efd-f7fa-4691-8777-a9c0073c5738|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|152550000|104815000|bec38c36-f9bd-4eb4-8a37-b0455f16f215|52d4dd17-f51c-463f-b941-500f05abaff3|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|154550000|105222500|bec38c36-f9bd-4eb4-8a37-b0455f16f215|5976abe4-9239-4fb3-ad49-43696840a369|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|157797500|98300000|bec38c36-f9bd-4eb4-8a37-b0455f16f215|17cd4dfd-950f-4f81-bbe3-97ee253aabec|F.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -146,7 +199,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.19,
+        "min_clearance": 0.15,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
@@ -528,7 +581,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.19,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
