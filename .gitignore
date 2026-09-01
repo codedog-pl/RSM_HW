@@ -19,6 +19,7 @@ KiCad/*/#auto_saved_files#
 
 # Różne formaty backupów i pliki tymczasowe
 
+__pycache__
 *.bak
 *.bck
 *.kicad_sch.bak
