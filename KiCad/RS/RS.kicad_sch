@@ -13716,7 +13716,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "47f12937-e3ec-457e-aed2-a30153289f58")
 		(property "Reference" "TP15"
 			(at 274.066 125.73 0)
@@ -13775,6 +13775,17 @@
 			)
 		)
 		(property "UUID" "f50d3988-04bd-4084-a19e-7c6ca4e3b586"
+			(at 271.78 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -14148,7 +14159,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4bcc17b1-0dd2-4c35-820b-a7b17ef3a59d")
 		(property "Reference" "TP10"
 			(at 274.066 106.68 0)
@@ -14207,6 +14218,17 @@
 			)
 		)
 		(property "UUID" "cdee49d1-62d0-458a-8ed6-55a66c46696d"
+			(at 271.78 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -16419,7 +16441,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "73dda493-ab61-4623-b63c-565cd20f0c76")
 		(property "Reference" "TP6"
 			(at 274.066 87.63 0)
@@ -16478,6 +16500,17 @@
 			)
 		)
 		(property "UUID" "8fd7746f-99ad-408b-ada3-cd385643cad6"
+			(at 271.78 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -18203,7 +18236,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7fbd552f-a0a8-4896-aae1-792362bcd114")
 		(property "Reference" "TP17"
 			(at 274.066 133.35 0)
@@ -18262,6 +18295,17 @@
 			)
 		)
 		(property "UUID" "56495339-108d-47ef-ae10-c12a392b3b97"
+			(at 271.78 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -18656,7 +18700,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "87a5e268-7d34-4c14-b00c-2eaee0c9f2a9")
 		(property "Reference" "TP3"
 			(at 274.066 72.39 0)
@@ -18715,6 +18759,17 @@
 			)
 		)
 		(property "UUID" "e0e772b0-394a-4817-afe2-3d00b689113f"
+			(at 271.78 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -19002,7 +19057,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8eb22ca8-94e8-45c9-9b66-8b0e23575a38")
 		(property "Reference" "TP13"
 			(at 274.066 118.11 0)
@@ -19061,6 +19116,17 @@
 			)
 		)
 		(property "UUID" "91170d39-a7b7-492d-a567-39724bb4e9fe"
+			(at 271.78 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -19500,7 +19566,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "97562aec-fe67-4dde-aea2-3e120a80745c")
 		(property "Reference" "TP5"
 			(at 274.066 83.82 0)
@@ -19559,6 +19625,17 @@
 			)
 		)
 		(property "UUID" "9bdfb9aa-35f4-45cf-b3ad-40f5f43f225d"
+			(at 271.78 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -19678,7 +19755,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9aad4b99-3a1c-4299-ac9b-485f479b4ccb")
 		(property "Reference" "TP14"
 			(at 274.066 121.92 0)
@@ -19737,6 +19814,17 @@
 			)
 		)
 		(property "UUID" "8e2d51b2-f98b-43d8-bffe-931b17d4cc8f"
+			(at 271.78 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -20038,7 +20126,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9c7624d4-69f0-4f91-a4b0-deb2910e2667")
 		(property "Reference" "TP18"
 			(at 274.066 137.16 0)
@@ -20097,6 +20185,17 @@
 			)
 		)
 		(property "UUID" "f079c7eb-1135-4594-863e-dbc7e0b681d8"
+			(at 271.78 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -21504,7 +21603,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b1de4b43-7a06-4101-993b-6e2c07f64445")
 		(property "Reference" "TP7"
 			(at 274.066 91.44 0)
@@ -21563,6 +21662,17 @@
 			)
 		)
 		(property "UUID" "167b6ce3-01a9-4019-942e-4601b3293779"
+			(at 271.78 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -21774,7 +21884,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b95e6a54-25b5-4aa5-bab3-3a79414ec704")
 		(property "Reference" "TP9"
 			(at 274.066 99.06 0)
@@ -21843,6 +21953,17 @@
 				)
 			)
 		)
+		(property "Mfg Part #" "5015"
+			(at 271.78 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "953ee262-05ab-4675-b8bf-ab9f031c863f")
 		)
@@ -21864,7 +21985,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ba223acd-f331-42b1-b735-e4ebd4975eee")
 		(property "Reference" "TP12"
 			(at 274.066 114.3 0)
@@ -21933,6 +22054,17 @@
 				)
 			)
 		)
+		(property "Mfg Part #" "5015"
+			(at 271.78 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3ba65002-0012-4927-819f-a419cebb9072")
 		)
@@ -21954,7 +22086,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bc94b829-0caa-46f3-82dd-ff32b84bcad9")
 		(property "Reference" "TP4"
 			(at 274.066 76.2 0)
@@ -22013,6 +22145,17 @@
 			)
 		)
 		(property "UUID" "cf76e336-286d-4f89-817c-657f8af8e1f7"
+			(at 271.78 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -22246,7 +22389,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c2bf59b7-d74a-4bcd-840c-e93af35103c0")
 		(property "Reference" "TP1"
 			(at 274.066 64.77 0)
@@ -22305,6 +22448,17 @@
 			)
 		)
 		(property "UUID" "b0463a9f-7a45-46fa-90a5-6a35394caf0b"
+			(at 271.78 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22968,7 +23122,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d4ea6f5c-5f4a-4b35-bae5-85455ad31274")
 		(property "Reference" "TP8"
 			(at 274.066 95.25 0)
@@ -23027,6 +23181,17 @@
 			)
 		)
 		(property "UUID" "8e42096c-9b4e-4f62-8cfc-85abe8803d3b"
+			(at 271.78 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -24071,7 +24236,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e7e68157-37d7-4f28-b695-db7d7f628800")
 		(property "Reference" "TP2"
 			(at 274.066 68.58 0)
@@ -24130,6 +24295,17 @@
 			)
 		)
 		(property "UUID" "e14df312-870f-4b82-a947-3e7035aa12ec"
+			(at 271.78 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -24837,7 +25013,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ef4f8fd0-53c8-448f-9bb7-25df484b9999")
 		(property "Reference" "TP16"
 			(at 274.066 129.54 0)
@@ -24896,6 +25072,17 @@
 			)
 		)
 		(property "UUID" "51e287f7-b78d-4241-85a9-303e5e812aca"
+			(at 271.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -25720,7 +25907,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f441bca7-f03d-4751-ab33-62fce430060f")
 		(property "Reference" "BT1"
@@ -25788,6 +25975,17 @@
 				)
 			)
 		)
+		(property "Mfg Part #" "1056"
+			(at 217.17 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "P"
 			(uuid "a1d679ff-62d6-4d5b-9648-15b1b4cf5f79")
 		)
@@ -25812,7 +26010,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f49ca9ba-d4a6-439f-8291-56ed7aa8c3ab")
 		(property "Reference" "TP11"
 			(at 274.066 110.49 0)
@@ -25871,6 +26069,17 @@
 			)
 		)
 		(property "UUID" "943ba74b-df48-4fe7-91e0-4835d3b114f8"
+			(at 271.78 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg Part #" "5015"
 			(at 271.78 110.49 0)
 			(hide yes)
 			(show_name no)

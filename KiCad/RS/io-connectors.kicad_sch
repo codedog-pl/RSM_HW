@@ -8472,7 +8472,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8483,7 +8483,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100K OHM 1% 1/16W 0402"
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8505,7 +8505,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" ""
+		(property "Mfg Part #" "RT0402FRE13100KL"
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8516,7 +8516,7 @@
 				)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402FRE13100KL/17018094"
 			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -12672,7 +12672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RT_1-TO-0-01_ROHS_L"
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -12683,7 +12683,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100K OHM 1% 1/16W 0402"
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -12705,7 +12705,7 @@
 				)
 			)
 		)
-		(property "Mfg Part #" ""
+		(property "Mfg Part #" "RT0402FRE13100KL"
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -12716,7 +12716,7 @@
 				)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://www.digikey.pl/en/products/detail/yageo/RT0402FRE13100KL/17018094"
 			(at 241.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -13212,7 +13212,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d3f6c815-9f6e-4c6a-b5e4-d5e131b19b45")
 		(property "Reference" "J4"
 			(at 74.93 77.978 0)
