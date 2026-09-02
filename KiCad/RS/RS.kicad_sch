@@ -25942,7 +25942,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/K75p2.pdf"
 			(at 217.17 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -25976,6 +25976,17 @@
 			)
 		)
 		(property "Mfg Part #" "1056"
+			(at 217.17 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "URL" "https://www.digikey.pl/en/products/detail/keystone-electronics/1056/2020198"
 			(at 217.17 128.27 0)
 			(hide yes)
 			(show_name no)
